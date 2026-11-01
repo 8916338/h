@@ -63,12 +63,12 @@
           <div class="warn-item amber"><span class="dot">●</span><span><b>爬虫采集存在风险。</b>爬虫抓取的接口可能携带失效链接、跳转广告、恶意脚本或不良内容，由此导致的设备异常、隐私泄露、财产损失等后果，<b>需由使用者自行承担</b>。</span></div>
           <div class="warn-item blue"><span class="dot">●</span><span><b>发布渠道与性质。</b>本网站发布于全球最大的代码交流社区 <b>GitHub</b>，属于<b>开发者与发烧友的测试、交流、学习用途</b>，<b>不构成任何商业服务</b>。</span></div>
           <div class="warn-item red"><span class="dot">●</span><span><b>未成年人提示。</b>本站内容不适合未成年人浏览，<b>建议未成年人立即退出</b>；确需使用的，应<b>先取得监护人明确同意</b>，并在监护人陪同下使用。</span></div>
+          <div class="warn-item blue"><span class="dot">●</span><span><b>二次创作与分发须知。</b>对本站资源进行<b>二创、转载或分发</b>时，<b>必须遵守你所在地区的法律法规</b>及相关政策规定，由此产生的一切法律责任由行为人自行承担。</span></div>
           <div class="warn-item amber"><span class="dot">●</span><span><b>风险自负。</b>点击“我已了解”即视为你已充分理解并接受上述全部风险，<b>继续使用所产生的一切后果由你自行承担</b>，本站及开发者不承担任何责任。</span></div>
           <div class="warn-note">如果你不同意上述任何一条，请立即关闭页面退出。本站完全免费、无任何收费项目，也请勿向任何人付费购买本站资源。</div>
         </div>
         <div class="app-modal-footer">
           <button class="btn-primary" id="riskBtn" onclick="goStep(2)" disabled>我已了解，继续 (5s)</button>
-          <button class="btn-secondary" onclick="exitPage()">不同意，立即退出</button>
         </div>
       </div>
 
@@ -236,16 +236,6 @@
           btn.textContent = '我已了解，继续';
         }
       }, 1000);
-    }
-
-    // 【新增】不同意风险声明：直接离开本站
-    function exitPage() {
-      if (riskTimer) clearInterval(riskTimer);
-      sessionStorage.removeItem('guide_pending_time');
-      try { window.close(); } catch (e) {}
-      setTimeout(function () {
-        window.location.replace('about:blank');
-      }, 100);
     }
 
     let cdTimer;
