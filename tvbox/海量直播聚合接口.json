@@ -859,6 +859,12 @@
       "source": "接口056"
     },
     {
+      "name": "Gather「果」",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "okhttp/3.8.1",
+      "source": "接口062"
+    },
+    {
       "name": "BMCH",
       "url": "https://gh.halonice.com/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
       "ua": "",
@@ -877,19 +883,13 @@
       "source": "接口064"
     },
     {
-      "name": "Kimentanm1线",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "ua": "",
-      "source": "接口065"
-    },
-    {
       "name": "牛播一",
       "url": "http://127.0.0.1:9978/proxy?do=cctva",
       "ua": "",
       "source": "饭太硬"
     },
     {
-      "name": "Kimentanm2线",
+      "name": "Kimentanm1线",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
       "source": "饭太硬"

@@ -1,10 +1,7 @@
 py_ceshi|白嫖 | py|type: 3|api: https://raw.githubusercontent.com/yueer521/Tvbox/main/lib/白嫖影视.py
 可可影视|可可影视|type: 3|api: https://clun.top/py/kkys.py
 韩小圈|韩小圈|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py
-红果短剧|🎬红果｜短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py
 应该可以|💝分享4|K|type: 3|api: https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py
-央视PY|央视丨栏目|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py
-新影视|New | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/新影视.py
 jieys|界影视|type: 3|api: https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py
 甜圈短剧|甜圈短剧|type: 3|api: https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py
 河马短剧|河马短剧|type: 3|api: https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py
@@ -149,6 +146,7 @@ KW音乐|KW音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/KW�
 飞球体育|飞球体育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/飞球体育.py
 JRKAN体育|JRKAN体育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/JRKAN体育.py
 kf|咖啡体育直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/咖啡直播.py
+红果短剧|🎬红果｜短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py
 hongguo|红果·短剧|type: 3|api: https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hongguo.py
 ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ejatv.py
 轻音乐|轻音乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/轻音乐.py
@@ -182,6 +180,8 @@ TVB云播|TVB云播 | 影视|type: 3|api: https://tv.sxi.qzz.io/py/TVB云播.py
 italkbbtv|ITalkBB｜外|type: 3|api: https://tv.sxi.qzz.io/py/ITalkBBTV.py
 星芽短剧|星芽｜短剧|type: 3|api: https://tv.sxi.qzz.io/py/星芽短剧.py
 酷我音乐|酷我丨音乐|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/酷我音乐.py
+央视PY|央视丨栏目|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py
+新影视|New | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/新影视.py
 FreeOK|FreeOK | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/FreeOK.py
 资源大集合|资源｜集合|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/搜剧AI.py
 短剧┃搜索1|🏠短剧┃搜1|type: 3|api: https://mpimg.cn/down.php/7e246e896fa4cf52866921b8d7e8cb.py
