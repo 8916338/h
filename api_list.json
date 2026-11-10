@@ -67,12 +67,11 @@
     ["接口065", "https://9763.kstore.space/aowu.json"]
   ],
   "API_MIRRORS": {
-    "镜像组001": [
-      "http://hucongrong.web3v.work/10086.json",
-      "https://gitlab.hk/iii/qq/-/raw/main/20.json",
-      "http://xhztv.top/xhz/",
-      "https://gh-proxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/main/yueer.json",
-      "https://gh-proxy.com/https://raw.githubusercontent.com/xuewuhen999/mybox/main/sj2.json"
+    "饭太硬": [
+      "http://www.饭太硬.art/tv",
+      "http://fty.xxooo.cf/tv",
+      "http://fty.888484.xyz/tv",
+      "http://fty.333232.xyz/tv"
     ]
   }
 }
