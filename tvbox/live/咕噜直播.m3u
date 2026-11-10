@@ -1,0 +1,825 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="咕噜直播",咕噜直播
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV1综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV1综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv1&zy.m3u8
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV2财经" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV2财经
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv2&zy.m3u8
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV3综艺" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV3综艺
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv3&zy.m3u8
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4中文国际" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV4中文国际
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv4&zy.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV5体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv5&zy.m3u8
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV5+体育赛事" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV5+体育赛事
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv5p&zy.m3u8
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6电影" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV6电影
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv6&zy.m3u8
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV7国防军事" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV7国防军事
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv7&zy.m3u8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV8电视剧" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV8电视剧
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv8&zy.m3u8
+#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV9纪录" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV9纪录
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv9&zy.m3u8
+#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV10科教" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV10科教
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv10&zy.m3u8
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV11戏曲" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV11戏曲
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv11&zy.m3u8
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV12社会与法" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV12社会与法
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv12&zy.m3u8
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV13新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv13&zy.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV14少儿" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV14少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv14&zy.m3u8
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV15音乐" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV15音乐
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv15&zy.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16奥林匹克" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV16奥林匹克
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv16&zy.m3u8
+#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV17农业农村" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV17农业农村
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv17&zy.m3u8
+#EXTINF:-1 tvg-id="cctv4oz" tvg-name="CCTV4欧洲" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV4欧洲
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv4oz&zy.m3u8
+#EXTINF:-1 tvg-id="cctv4mz" tvg-name="CCTV4美洲" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV4美洲
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv4mz&zy.m3u8
+#EXTINF:-1 tvg-id="cgtnwyjl" tvg-name="CGTN外语记录" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN外语记录
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtnwyjl&zy.m3u8
+#EXTINF:-1 tvg-id="cgtnalby" tvg-name="CGTN阿拉伯语" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN阿拉伯语
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtnalby&zy.m3u8
+#EXTINF:-1 tvg-id="cgtnxbyy" tvg-name="CGTN西班牙语" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN西班牙语
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtnxbyy&zy.m3u8
+#EXTINF:-1 tvg-id="cgtnfy" tvg-name="CGTN法语" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN法语
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtnfy&zy.m3u8
+#EXTINF:-1 tvg-id="cgtney" tvg-name="CGTN俄语" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN俄语
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtney&zy.m3u8
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CGTN
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cgtn&zy.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV4K
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv4k&zy.m3u8
+#EXTINF:-1 tvg-id="cctv8k" tvg-name="CCTV8K" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV8K
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv8k&zy.m3u8
+#EXTINF:-1 tvg-id="cctvfyjcpd" tvg-name="CCTV风云剧场" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV风云剧场
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctvfyjcpd&zy.m3u8
+#EXTINF:-1 tvg-id="cctvdyjcpd" tvg-name="CCTV第一剧场" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV第一剧场
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctvdyjcpd&zy.m3u8
+#EXTINF:-1 tvg-id="cctvhjjcpd" tvg-name="CCTV怀旧剧场" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yew53syt4xk1wDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="CCTV",CCTV怀旧剧场
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctvhjjcpd&zy.m3u8
+#EXTINF:-1 tvg-id="zjws" tvg-name="浙江卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjws&zy.m3u8
+#EXTINF:-1 tvg-id="bjws" tvg-name="北京卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",北京卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=bjws&zy.m3u8
+#EXTINF:-1 tvg-id="hunws" tvg-name="湖南卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hunws&zy.m3u8
+#EXTINF:-1 tvg-id="jsws" tvg-name="江苏卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsws&zy.m3u8
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",东方卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dfws&zy.m3u8
+#EXTINF:-1 tvg-id="sdws" tvg-name="山东卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdws&zy.m3u8
+#EXTINF:-1 tvg-id="gdws" tvg-name="广东卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",广东卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gdws&zy.m3u8
+#EXTINF:-1 tvg-id="jxws" tvg-name="江西卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江西卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jxws&zy.m3u8
+#EXTINF:-1 tvg-id="henws" tvg-name="河南卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=henws&zy.m3u8
+#EXTINF:-1 tvg-id="hubws" tvg-name="湖北卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖北卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hubws&zy.m3u8
+#EXTINF:-1 tvg-id="jlws" tvg-name="吉林卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlws&zy.m3u8
+#EXTINF:-1 tvg-id="qhws" tvg-name="青海卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",青海卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qhws&zy.m3u8
+#EXTINF:-1 tvg-id="hainws" tvg-name="海南卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",海南卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hainws&zy.m3u8
+#EXTINF:-1 tvg-id="lnws" tvg-name="辽宁卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽宁卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lnws&zy.m3u8
+#EXTINF:-1 tvg-id="nxws" tvg-name="宁夏卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",宁夏卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nxws&zy.m3u8
+#EXTINF:-1 tvg-id="cqws" tvg-name="重庆卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",重庆卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cqws&zy.m3u8
+#EXTINF:-1 tvg-id="dnws" tvg-name="东南卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",东南卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dnws&zy.m3u8
+#EXTINF:-1 tvg-id="dwqws" tvg-name="大湾区卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大湾区卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dwqws&zy.m3u8
+#EXTINF:-1 tvg-id="ssws" tvg-name="三沙卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",三沙卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ssws&zy.m3u8
+#EXTINF:-1 tvg-id="jjkt" tvg-name="嘉佳卡通" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",嘉佳卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jjkt&zy.m3u8
+#EXTINF:-1 tvg-id="ymkt" tvg-name="优漫卡通" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",优漫卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ymkt&zy.m3u8
+#EXTINF:-1 tvg-id="jsjy" tvg-name="江苏教育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏教育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsjy&zy.m3u8
+#EXTINF:-1 tvg-id="sdjy" tvg-name="山东教育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东教育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdjy&zy.m3u8
+#EXTINF:-1 tvg-id="btws" tvg-name="兵团卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",兵团卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=btws&zy.m3u8
+#EXTINF:-1 tvg-id="hebws" tvg-name="河北卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河北卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hebws&zy.m3u8
+#EXTINF:-1 tvg-id="hljws" tvg-name="黑龙江卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljws&zy.m3u8
+#EXTINF:-1 tvg-id="ybws" tvg-name="延边卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",延边卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ybws&zy.m3u8
+#EXTINF:-1 tvg-id="xzws" tvg-name="西藏卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",西藏卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xzws&zy.m3u8
+#EXTINF:-1 tvg-id="xzzy" tvg-name="西藏藏语卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",西藏藏语卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xzzy&zy.m3u8
+#EXTINF:-1 tvg-id="sxws" tvg-name="山西卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxws&zy.m3u8
+#EXTINF:-1 tvg-id="shanxws" tvg-name="陕西卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shanxws&zy.m3u8
+#EXTINF:-1 tvg-id="nlws" tvg-name="农林卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",农林卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nlws&zy.m3u8
+#EXTINF:-1 tvg-id="nmgws" tvg-name="内蒙古卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",内蒙古卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nmgws&zy.m3u8
+#EXTINF:-1 tvg-id="nmmyws" tvg-name="内蒙古蒙语卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",内蒙古蒙语卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nmmyws&zy.m3u8
+#EXTINF:-1 tvg-id="hxws" tvg-name="海峡卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",海峡卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hxws&zy.m3u8
+#EXTINF:-1 tvg-id="xmws" tvg-name="厦门卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",厦门卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xmws&zy.m3u8
+#EXTINF:-1 tvg-id="gsws" tvg-name="甘肃卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gsws&zy.m3u8
+#EXTINF:-1 tvg-id="xjws" tvg-name="新疆卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjws&zy.m3u8
+#EXTINF:-1 tvg-id="ynws" tvg-name="云南卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",云南卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ynws&zy.m3u8
+#EXTINF:-1 tvg-id="szws" tvg-name="深圳卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",深圳卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=szws&zy.m3u8
+#EXTINF:-1 tvg-id="tjws" tvg-name="天津卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",天津卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tjws&zy.m3u8
+#EXTINF:-1 tvg-id="ahws" tvg-name="安徽卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",安徽卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ahws&zy.m3u8
+#EXTINF:-1 tvg-id="gxws" tvg-name="广西卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",广西卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gxws&zy.m3u8
+#EXTINF:-1 tvg-id="scws" tvg-name="四川卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",四川卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=scws&zy.m3u8
+#EXTINF:-1 tvg-id="gzws" tvg-name="贵州卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzws&zy.m3u8
+#EXTINF:-1 tvg-id="qhadws" tvg-name="青海安多卫视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",青海安多卫视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qhadws&zy.m3u8
+#EXTINF:-1 tvg-id="zjqj" tvg-name="浙江钱江" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江钱江
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjqj&zy.m3u8
+#EXTINF:-1 tvg-id="zjjjsh" tvg-name="浙江经济生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江经济生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjjjsh&zy.m3u8
+#EXTINF:-1 tvg-id="zjjkys" tvg-name="浙江教科影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江教科影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjjkys&zy.m3u8
+#EXTINF:-1 tvg-id="zjmsxx" tvg-name="浙江民生休闲" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江民生休闲
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjmsxx&zy.m3u8
+#EXTINF:-1 tvg-id="zjxw" tvg-name="浙江新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjxw&zy.m3u8
+#EXTINF:-1 tvg-id="zjse" tvg-name="浙江少儿" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjse&zy.m3u8
+#EXTINF:-1 tvg-id="zjgj" tvg-name="浙江国际" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江国际
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjgj&zy.m3u8
+#EXTINF:-1 tvg-id="zjhyg" tvg-name="浙江好易购" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江好易购
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjhyg&zy.m3u8
+#EXTINF:-1 tvg-id="zjzjjl" tvg-name="浙江之江纪录" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浙江之江纪录
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjzjjl&zy.m3u8
+#EXTINF:-1 tvg-id="hunjs" tvg-name="湖南经视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南经视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hunjs&zy.m3u8
+#EXTINF:-1 tvg-id="jykt" tvg-name="金鹰卡通" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",金鹰卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jykt&zy.m3u8
+#EXTINF:-1 tvg-id="jyjs" tvg-name="金鹰纪实" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",金鹰纪实
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jyjs&zy.m3u8
+#EXTINF:-1 tvg-id="klcd" tvg-name="快乐垂钓" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",快乐垂钓
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=klcd&zy.m3u8
+#EXTINF:-1 tvg-id="xfpy" tvg-name="先锋乒羽" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",先锋乒羽
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xfpy&zy.m3u8
+#EXTINF:-1 tvg-id="hunds" tvg-name="湖南都市" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南都市
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hunds&zy.m3u8
+#EXTINF:-1 tvg-id="hndsj" tvg-name="湖南电视剧" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南电视剧
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hndsj&zy.m3u8
+#EXTINF:-1 tvg-id="hungg" tvg-name="湖南公共" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南公共
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hungg&zy.m3u8
+#EXTINF:-1 tvg-id="hungj" tvg-name="湖南国际" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南国际
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hungj&zy.m3u8
+#EXTINF:-1 tvg-id="hunyl" tvg-name="湖南娱乐" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南娱乐
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hunyl&zy.m3u8
+#EXTINF:-1 tvg-id="klg" tvg-name="湖南快乐购" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南快乐购
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=klg&zy.m3u8
+#EXTINF:-1 tvg-id="cpd" tvg-name="湖南茶频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南茶频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cpd&zy.m3u8
+#EXTINF:-1 tvg-id="hndy" tvg-name="湖南电影" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",湖南电影
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hndy&zy.m3u8
+#EXTINF:-1 tvg-id="csxw" tvg-name="长沙新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",长沙新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=csxw&zy.m3u8
+#EXTINF:-1 tvg-id="cszf" tvg-name="长沙政法" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",长沙政法
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cszf&zy.m3u8
+#EXTINF:-1 tvg-id="csnx" tvg-name="长沙女性" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",长沙女性
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=csnx&zy.m3u8
+#EXTINF:-1 tvg-id="cetv1" tvg-name="CETV1" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",CETV1
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cetv1&zy.m3u8
+#EXTINF:-1 tvg-id="cetv2" tvg-name="CETV2" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",CETV2
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cetv2&zy.m3u8
+#EXTINF:-1 tvg-id="cetv4" tvg-name="CETV4" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",CETV4
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cetv4&zy.m3u8
+#EXTINF:-1 tvg-id="shxwzh" tvg-name="上海新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="shxjs" tvg-name="上海新纪实" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海新纪实
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shxjs&zy.m3u8
+#EXTINF:-1 tvg-id="shmdy" tvg-name="上海魔都眼" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海魔都眼
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shmdy&zy.m3u8
+#EXTINF:-1 tvg-id="shdycj" tvg-name="上海第一财经" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海第一财经
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shdycj&zy.m3u8
+#EXTINF:-1 tvg-id="shdspd" tvg-name="上海都市频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海都市频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shdspd&zy.m3u8
+#EXTINF:-1 tvg-id="shwxty" tvg-name="上海五星体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海五星体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shwxty&zy.m3u8
+#EXTINF:-1 tvg-id="dfcj" tvg-name="东方财经" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",东方财经
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dfcj&zy.m3u8
+#EXTINF:-1 tvg-id="shss" tvg-name="上海生活时尚" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海生活时尚
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shss&zy.m3u8
+#EXTINF:-1 tvg-id="jsxt" tvg-name="金色学堂" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",金色学堂
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsxt&zy.m3u8
+#EXTINF:-1 tvg-id="shjy" tvg-name="上海教育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上海教育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shjy&zy.m3u8
+#EXTINF:-1 tvg-id="yxfy" tvg-name="游戏风云" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",游戏风云
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=yxfy&zy.m3u8
+#EXTINF:-1 tvg-id="fztd" tvg-name="法治天地" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",法治天地
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fztd&zy.m3u8
+#EXTINF:-1 tvg-id="ssdfys" tvg-name="上视东方影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",上视东方影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ssdfys&zy.m3u8
+#EXTINF:-1 tvg-id="sxjj" tvg-name="山西经济" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西经济
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxjj&zy.m3u8
+#EXTINF:-1 tvg-id="sxys" tvg-name="山西影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxys&zy.m3u8
+#EXTINF:-1 tvg-id="sxfz" tvg-name="山西社会与法治" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西社会与法治
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxfz&zy.m3u8
+#EXTINF:-1 tvg-id="sxwt" tvg-name="山西文体生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西文体生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxwt&zy.m3u8
+#EXTINF:-1 tvg-id="sxhh" tvg-name="山西黄河" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山西黄河
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxhh&zy.m3u8
+#EXTINF:-1 tvg-id="sxtyxwzh" tvg-name="太原新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxtyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxyqxwzh" tvg-name="阳泉新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",阳泉新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxyqxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxczxwzh" tvg-name="长治新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",长治新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxczxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxjcxwzh" tvg-name="晋城新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",晋城新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxjcxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxszxwzh" tvg-name="朔州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",朔州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxszxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxjzxwzh" tvg-name="晋中新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",晋中新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxjzxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxycxwzh" tvg-name="运城新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",运城新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxycxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxxzzh" tvg-name="忻州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",忻州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxxzzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxlfxwzh" tvg-name="临汾新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",临汾新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxlfxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sxllxwzh" tvg-name="吕梁新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吕梁新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxllxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="tyjjsh" tvg-name="太原经济生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原经济生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tyjjsh&zy.m3u8
+#EXTINF:-1 tvg-id="tysjfz" tvg-name="太原社教法制" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原社教法制
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tysjfz&zy.m3u8
+#EXTINF:-1 tvg-id="tyyspd" tvg-name="太原影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tyyspd&zy.m3u8
+#EXTINF:-1 tvg-id="tywtpd" tvg-name="太原文体" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原文体
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tywtpd&zy.m3u8
+#EXTINF:-1 tvg-id="tyblg" tvg-name="太原佰乐购" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原佰乐购
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tyblg&zy.m3u8
+#EXTINF:-1 tvg-id="tycssh" tvg-name="太原城市" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原城市
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tycssh&zy.m3u8
+#EXTINF:-1 tvg-id="tyjypd" tvg-name="太原教育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",太原教育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tyjypd&zy.m3u8
+#EXTINF:-1 tvg-id="dtxwzh" tvg-name="大同新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大同新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dtxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="dtggpd'" tvg-name="大同公共频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大同公共频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dtggpd'&zy.m3u8
+#EXTINF:-1 tvg-id="dtmdsh" tvg-name="大同煤都生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大同煤都生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dtmdsh&zy.m3u8
+#EXTINF:-1 tvg-id="xwzx" tvg-name="陕西新闻资讯" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西新闻资讯
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xwzx&zy.m3u8
+#EXTINF:-1 tvg-id="dsqc" tvg-name="陕西都市青春" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西都市青春
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dsqc&zy.m3u8
+#EXTINF:-1 tvg-id="ylpd" tvg-name="银龄频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",银龄频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ylpd&zy.m3u8
+#EXTINF:-1 tvg-id="qqpd" tvg-name="秦腔频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",秦腔频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qqpd&zy.m3u8
+#EXTINF:-1 tvg-id="ljgw" tvg-name="乐家购物" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",乐家购物
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ljgw&zy.m3u8
+#EXTINF:-1 tvg-id="ydds" tvg-name="移动电视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",移动电视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ydds&zy.m3u8
+#EXTINF:-1 tvg-id="sxylpd" tvg-name="陕西银龄频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西银龄频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxylpd&zy.m3u8
+#EXTINF:-1 tvg-id="sxdsqcpd" tvg-name="陕西都市青春频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西都市青春频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxdsqcpd&zy.m3u8
+#EXTINF:-1 tvg-id="sxqkpd" tvg-name="陕西秦腔频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西秦腔频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxqkpd&zy.m3u8
+#EXTINF:-1 tvg-id="sxxwzxpd" tvg-name="陕西新闻资讯频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西新闻资讯频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxxwzxpd&zy.m3u8
+#EXTINF:-1 tvg-id="sxtyxxpd" tvg-name="陕西体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陕西体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxtyxxpd&zy.m3u8
+#EXTINF:-1 tvg-id="gswsys" tvg-name="甘肃文化影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃文化影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gswsys&zy.m3u8
+#EXTINF:-1 tvg-id="gsggyj" tvg-name="甘肃公共应急" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃公共应急
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gsggyj&zy.m3u8
+#EXTINF:-1 tvg-id="gssepd" tvg-name="甘肃少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gssepd&zy.m3u8
+#EXTINF:-1 tvg-id="gskjpd" tvg-name="甘肃科教频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃科教频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gskjpd&zy.m3u8
+#EXTINF:-1 tvg-id="gsydds" tvg-name="甘肃移动电视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃移动电视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gsydds&zy.m3u8
+#EXTINF:-1 tvg-id="gszjfw" tvg-name="甘肃证券服务" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",甘肃证券服务
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gszjfw&zy.m3u8
+#EXTINF:-1 tvg-id="ynylpd" tvg-name="云南娱乐频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",云南娱乐频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ynylpd&zy.m3u8
+#EXTINF:-1 tvg-id="bsytpd" tvg-name="保山一套频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",保山一套频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=bsytpd&zy.m3u8
+#EXTINF:-1 tvg-id="wszhpd" tvg-name="巍山综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",巍山综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wszhpd&zy.m3u8
+#EXTINF:-1 tvg-id="ylzhpd" tvg-name="云龙综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",云龙综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ylzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="lldst" tvg-name="陆良电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",陆良电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lldst&zy.m3u8
+#EXTINF:-1 tvg-id="yjzhpd" tvg-name="元江综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",元江综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=yjzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="hhxwzh" tvg-name="红河新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",红河新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hhxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="lc1t" tvg-name="临沧一套" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",临沧一套
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lc1t&zy.m3u8
+#EXTINF:-1 tvg-id="lc2t" tvg-name="临沧二套" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",临沧二套
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lc2t&zy.m3u8
+#EXTINF:-1 tvg-id="fgzhpd" tvg-name="福贡综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福贡综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fgzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="gszhpd" tvg-name="贡山综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贡山综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gszhpd&zy.m3u8
+#EXTINF:-1 tvg-id="hszhpd" tvg-name="沪水综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",沪水综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hszhpd&zy.m3u8
+#EXTINF:-1 tvg-id="ymzhpd" tvg-name="易门综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",易门综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ymzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="lczhpd" tvg-name="绿春综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绿春综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lczhpd&zy.m3u8
+#EXTINF:-1 tvg-id="qbdst" tvg-name="丘北电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",丘北电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qbdst&zy.m3u8
+#EXTINF:-1 tvg-id="kmjy" tvg-name="昆明教育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",昆明教育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=kmjy&zy.m3u8
+#EXTINF:-1 tvg-id="per1" tvg-name="普洱1台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",普洱1台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=per1&zy.m3u8
+#EXTINF:-1 tvg-id="mlpdst" tvg-name="麻栗坡电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",麻栗坡电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=mlpdst&zy.m3u8
+#EXTINF:-1 tvg-id="suijdst" tvg-name="绥江电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绥江电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=suijdst&zy.m3u8
+#EXTINF:-1 tvg-id="dqzhpd" tvg-name="迪庆综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",迪庆综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dqzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="dqzypd" tvg-name="迪庆藏语频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",迪庆藏语频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dqzypd&zy.m3u8
+#EXTINF:-1 tvg-id="hnds" tvg-name="河南都市" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南都市
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hnds&zy.m3u8
+#EXTINF:-1 tvg-id="hnms" tvg-name="河南民生" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南民生
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hnms&zy.m3u8
+#EXTINF:-1 tvg-id="hmfz" tvg-name="河南法治" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南法治
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hmfz&zy.m3u8
+#EXTINF:-1 tvg-id="hnxw" tvg-name="河南新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hnxw&zy.m3u8
+#EXTINF:-1 tvg-id="htgw" tvg-name="欢腾购物" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",欢腾购物
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=htgw&zy.m3u8
+#EXTINF:-1 tvg-id="hngg" tvg-name="河南公共" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南公共
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hngg&zy.m3u8
+#EXTINF:-1 tvg-id="hnxc" tvg-name="河南乡村" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南乡村
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hnxc&zy.m3u8
+#EXTINF:-1 tvg-id="hngj" tvg-name="河南国际" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南国际
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hngj&zy.m3u8
+#EXTINF:-1 tvg-id="hnly" tvg-name="河南梨园" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河南梨园
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hnly&zy.m3u8
+#EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",文物宝库
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wwbk&zy.m3u8
+#EXTINF:-1 tvg-id="wspd" tvg-name="武术世界" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",武术世界
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wspd&zy.m3u8
+#EXTINF:-1 tvg-id="jczy" tvg-name="晴彩中原" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",晴彩中原
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jczy&zy.m3u8
+#EXTINF:-1 tvg-id="ydxj" tvg-name="移动戏曲" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",移动戏曲
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ydxj&zy.m3u8
+#EXTINF:-1 tvg-id="xsj" tvg-name="象视界" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",象视界
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xsj&zy.m3u8
+#EXTINF:-1 tvg-id="gxpd" tvg-name="国学频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",国学频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gxpd&zy.m3u8
+#EXTINF:-1 tvg-id="zzxwzh" tvg-name="郑州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",郑州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zzxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="kfxwzh" tvg-name="开封新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",开封新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=kfxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="lyxwzh" tvg-name="洛阳新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",洛阳新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="pdsxwzh" tvg-name="平顶山新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",平顶山新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pdsxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="ayxwzh" tvg-name="安阳新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",安阳新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ayxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="hbxwzh" tvg-name="鹤壁新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",鹤壁新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hbxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="xxxwzh" tvg-name="新乡新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新乡新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xxxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="jzxwzh" tvg-name="焦作新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",焦作新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jzxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="pyxwzh" tvg-name="濮阳新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",濮阳新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="xcxwzh" tvg-name="许昌新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",许昌新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xcxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="lhxwzh" tvg-name="漯河新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",漯河新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lhxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="smxxwzh" tvg-name="三门峡新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",三门峡新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=smxxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="nyxwzh" tvg-name="南阳新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南阳新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="sqxwzh" tvg-name="商丘新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",商丘新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sqxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="xyxwzh" tvg-name="信阳新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",信阳新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="zkxwzh" tvg-name="周口新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",周口新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zkxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="zmdxwzh" tvg-name="驻马店新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",驻马店新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zmdxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="jyxwzh" tvg-name="济源新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济源新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jyxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="xjwyzh" tvg-name="新疆维语新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆维语新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjwyzh&zy.m3u8
+#EXTINF:-1 tvg-id="xjhyzh" tvg-name="新疆哈语新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆哈语新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjhyzh&zy.m3u8
+#EXTINF:-1 tvg-id="xjzy" tvg-name="新疆综艺" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆综艺
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjzy&zy.m3u8
+#EXTINF:-1 tvg-id="xjwyys" tvg-name="新疆维语影视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆维语影视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjwyys&zy.m3u8
+#EXTINF:-1 tvg-id="xjjjsh" tvg-name="新疆经济生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆经济生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjjjsh&zy.m3u8
+#EXTINF:-1 tvg-id="xjhyzy" tvg-name="新疆哈语综艺" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆哈语综艺
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjhyzy&zy.m3u8
+#EXTINF:-1 tvg-id="xjwyjj" tvg-name="新疆维语经济生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆维语经济生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjwyjj&zy.m3u8
+#EXTINF:-1 tvg-id="xjty" tvg-name="新疆体育健康" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆体育健康
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjty&zy.m3u8
+#EXTINF:-1 tvg-id="xjxxfw" tvg-name="新疆信息服务" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆信息服务
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjxxfw&zy.m3u8
+#EXTINF:-1 tvg-id="xjse" tvg-name="新疆少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新疆少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjse&zy.m3u8
+#EXTINF:-1 tvg-id="jldspd" tvg-name="吉林都市频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林都市频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jldspd&zy.m3u8
+#EXTINF:-1 tvg-id="jlshpd" tvg-name="吉林生活频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林生活频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlshpd&zy.m3u8
+#EXTINF:-1 tvg-id="jlyspd" tvg-name="吉林影视频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林影视频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlyspd&zy.m3u8
+#EXTINF:-1 tvg-id="jlxcpd" tvg-name="吉林乡村频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林乡村频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlxcpd&zy.m3u8
+#EXTINF:-1 tvg-id="jlzywhpd" tvg-name="吉林综艺文化频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林综艺文化频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlzywhpd&zy.m3u8
+#EXTINF:-1 tvg-id="syzh" tvg-name="松原新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",松原新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=syzh&zy.m3u8
+#EXTINF:-1 tvg-id="cczhpd" tvg-name="长春综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",长春综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cczhpd&zy.m3u8
+#EXTINF:-1 tvg-id="jlxwzhpd" tvg-name="吉林新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",吉林新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jlxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="spxwzhpd" tvg-name="四平新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",四平新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=spxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="lyxwzhpd" tvg-name="辽源新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽源新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lyxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="bcxwzhpd" tvg-name="白城新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",白城新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=bcxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="thxwzhpd" tvg-name="通化新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",通化新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=thxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="bsxwzhpd" tvg-name="白山新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",白山新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=bsxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="hljwtpd" tvg-name="黑龙江文体频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江文体频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljwtpd&zy.m3u8
+#EXTINF:-1 tvg-id="hljyspd" tvg-name="黑龙江影视频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江影视频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljyspd&zy.m3u8
+#EXTINF:-1 tvg-id="hljxwfzpd" tvg-name="黑龙江新闻法治频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江新闻法治频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljxwfzpd&zy.m3u8
+#EXTINF:-1 tvg-id="hljdspd" tvg-name="黑龙江都市频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江都市频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljdspd&zy.m3u8
+#EXTINF:-1 tvg-id="hljnykjpd" tvg-name="黑龙江农业・科教频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑龙江农业・科教频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hljnykjpd&zy.m3u8
+#EXTINF:-1 tvg-id="qqhexwzhpd" tvg-name="齐齐哈尔新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",齐齐哈尔新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qqhexwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="hgxwzhpd" tvg-name="鹤岗新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",鹤岗新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hgxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="hhxwzhpd" tvg-name="黑河新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黑河新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hhxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="dxalxwzhpd" tvg-name="大兴安岭新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大兴安岭新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dxalxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdxwpd" tvg-name="山东新闻频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东新闻频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdxwpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdqlpd" tvg-name="山东齐鲁频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东齐鲁频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdqlpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdtyxx" tvg-name="山东体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdtyxx&zy.m3u8
+#EXTINF:-1 tvg-id="sdshpd" tvg-name="山东生活频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东生活频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdshpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdzypd" tvg-name="山东综艺频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东综艺频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdzypd&zy.m3u8
+#EXTINF:-1 tvg-id="sdwlpd" tvg-name="山东文旅频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东文旅频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdwlpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdnkpd" tvg-name="山东农科频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东农科频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdnkpd&zy.m3u8
+#EXTINF:-1 tvg-id="sdsepd" tvg-name="山东少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",山东少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdsepd&zy.m3u8
+#EXTINF:-1 tvg-id="jndst" tvg-name="济南电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jndst&zy.m3u8
+#EXTINF:-1 tvg-id="zbdst" tvg-name="淄博电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",淄博电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zbdst&zy.m3u8
+#EXTINF:-1 tvg-id="zzdst" tvg-name="枣庄电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",枣庄电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zzdst&zy.m3u8
+#EXTINF:-1 tvg-id="dydst" tvg-name="东营电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",东营电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dydst&zy.m3u8
+#EXTINF:-1 tvg-id="ytdst" tvg-name="烟台电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",烟台电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ytdst&zy.m3u8
+#EXTINF:-1 tvg-id="wfdst" tvg-name="潍坊电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",潍坊电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wfdst&zy.m3u8
+#EXTINF:-1 tvg-id="tadst" tvg-name="泰安电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",泰安电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=tadst&zy.m3u8
+#EXTINF:-1 tvg-id="whdst" tvg-name="威海电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",威海电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=whdst&zy.m3u8
+#EXTINF:-1 tvg-id="rzdst" tvg-name="日照电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",日照电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=rzdst&zy.m3u8
+#EXTINF:-1 tvg-id="lydst" tvg-name="临沂电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",临沂电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lydst&zy.m3u8
+#EXTINF:-1 tvg-id="dzdst" tvg-name="德州电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",德州电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dzdst&zy.m3u8
+#EXTINF:-1 tvg-id="lcdst" tvg-name="聊城电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",聊城电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lcdst&zy.m3u8
+#EXTINF:-1 tvg-id="bzdst" tvg-name="滨州电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",滨州电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=bzdst&zy.m3u8
+#EXTINF:-1 tvg-id="hzdst" tvg-name="菏泽电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",菏泽电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hzdst&zy.m3u8
+#EXTINF:-1 tvg-id="jndspd" tvg-name="济南都市" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南都市
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jndspd&zy.m3u8
+#EXTINF:-1 tvg-id="jnwlty" tvg-name="济南文旅体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南文旅体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnwlty&zy.m3u8
+#EXTINF:-1 tvg-id="jnshpd" tvg-name="济南生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnshpd&zy.m3u8
+#EXTINF:-1 tvg-id="jnsepd" tvg-name="济南少儿" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnsepd&zy.m3u8
+#EXTINF:-1 tvg-id="jnlzpd" tvg-name="济南鲁中" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",济南鲁中
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnlzpd&zy.m3u8
+#EXTINF:-1 tvg-id="jszy" tvg-name="江苏综艺频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏综艺频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jszy&zy.m3u8
+#EXTINF:-1 tvg-id="jscs" tvg-name="江苏城市频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏城市频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jscs&zy.m3u8
+#EXTINF:-1 tvg-id="jsgj" tvg-name="江苏国际" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏国际
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsgj&zy.m3u8
+#EXTINF:-1 tvg-id="jsys" tvg-name="江苏影视频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏影视频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsys&zy.m3u8
+#EXTINF:-1 tvg-id="jsxw" tvg-name="江苏公共新闻频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏公共新闻频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsxw&zy.m3u8
+#EXTINF:-1 tvg-id="cftx" tvg-name="江苏财富天下" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏财富天下
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cftx&zy.m3u8
+#EXTINF:-1 tvg-id="jsxx" tvg-name="江苏体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",江苏体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsxx&zy.m3u8
+#EXTINF:-1 tvg-id="wxxwzh" tvg-name="无锡新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",无锡新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wxxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="wxyl" tvg-name="无锡娱乐" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",无锡娱乐
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wxyl&zy.m3u8
+#EXTINF:-1 tvg-id="wxdszx" tvg-name="无锡都市资讯" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",无锡都市资讯
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wxdszx&zy.m3u8
+#EXTINF:-1 tvg-id="wxsh" tvg-name="无锡生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",无锡生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wxsh&zy.m3u8
+#EXTINF:-1 tvg-id="wxjj" tvg-name="无锡经济" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",无锡经济
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wxjj&zy.m3u8
+#EXTINF:-1 tvg-id="ycxwzh" tvg-name="盐城新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",盐城新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ycxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="haxwzh" tvg-name="淮安新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",淮安新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=haxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="qzxwzh" tvg-name="泰州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",泰州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qzxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="lygxwzh" tvg-name="连云港新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",连云港新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lygxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="xzxwzh" tvg-name="徐州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",徐州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xzxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="ntxwzh" tvg-name="南通新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南通新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ntxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="yxxwzh" tvg-name="宜兴新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",宜兴新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=yxxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="lsxwzh" tvg-name="溧水新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",溧水新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lsxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="njxwzhpd" tvg-name="南京新闻综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南京新闻综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=njxwzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="njjkpd" tvg-name="南京教科频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南京教科频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=njjkpd&zy.m3u8
+#EXTINF:-1 tvg-id="nj18pd" tvg-name="南京十八频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南京十八频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nj18pd&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv1" tvg-name="成都新闻频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都新闻频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv1&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv2" tvg-name="成都经济频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都经济频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv2&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv3" tvg-name="成都生活频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都生活频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv3&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv4" tvg-name="成都影视频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都影视频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv4&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv5" tvg-name="成都公共频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都公共频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv5&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv6" tvg-name="成都少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv6&zy.m3u8
+#EXTINF:-1 tvg-id="cdrcxf" tvg-name="成都蓉城先锋" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成都蓉城先锋
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdrcxf&zy.m3u8
+#EXTINF:-1 tvg-id="chyx" tvg-name="成华有线电视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",成华有线电视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=chyx&zy.m3u8
+#EXTINF:-1 tvg-id="dytv" tvg-name="大邑电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大邑电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dytv&zy.m3u8
+#EXTINF:-1 tvg-id="gxtv" tvg-name="高新电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",高新电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gxtv&zy.m3u8
+#EXTINF:-1 tvg-id="jjtv" tvg-name="锦江电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",锦江电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jjtv&zy.m3u8
+#EXTINF:-1 tvg-id="jntv" tvg-name="金牛电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",金牛电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jntv&zy.m3u8
+#EXTINF:-1 tvg-id="jttv" tvg-name="金堂电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",金堂电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jttv&zy.m3u8
+#EXTINF:-1 tvg-id="pdxwzh" tvg-name="郫都新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",郫都新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pdxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="pjtv" tvg-name="浦江电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",浦江电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pjtv&zy.m3u8
+#EXTINF:-1 tvg-id="pztv" tvg-name="彭州电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",彭州电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pztv&zy.m3u8
+#EXTINF:-1 tvg-id="qbjtv" tvg-name="青白江电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",青白江电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qbjtv&zy.m3u8
+#EXTINF:-1 tvg-id="qltv" tvg-name="邛崃电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",邛崃电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qltv&zy.m3u8
+#EXTINF:-1 tvg-id="qytv" tvg-name="青羊电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",青羊电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qytv&zy.m3u8
+#EXTINF:-1 tvg-id="slzh" tvg-name="双流综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",双流综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=slzh&zy.m3u8
+#EXTINF:-1 tvg-id="whtv" tvg-name="武侯电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",武侯电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=whtv&zy.m3u8
+#EXTINF:-1 tvg-id="wjtv" tvg-name="温江电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",温江电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wjtv&zy.m3u8
+#EXTINF:-1 tvg-id="xdtv" tvg-name="新都电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",新都电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xdtv&zy.m3u8
+#EXTINF:-1 tvg-id="myjyxw" tvg-name="绵阳江油新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绵阳江油新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=myjyxw&zy.m3u8
+#EXTINF:-1 tvg-id="mybczh" tvg-name="绵阳北川综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绵阳北川综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=mybczh&zy.m3u8
+#EXTINF:-1 tvg-id="myytzh" tvg-name="绵阳盐亭综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绵阳盐亭综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=myytzh&zy.m3u8
+#EXTINF:-1 tvg-id="myztzh" tvg-name="绵阳梓潼综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",绵阳梓潼综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=myztzh&zy.m3u8
+#EXTINF:-1 tvg-id="abxwzh" tvg-name="阿坝新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",阿坝新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=abxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="abzyzh" tvg-name="阿坝藏语综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",阿坝藏语综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=abzyzh&zy.m3u8
+#EXTINF:-1 tvg-id="abregzh" tvg-name="阿坝若尔盖综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",阿坝若尔盖综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=abregzh&zy.m3u8
+#EXTINF:-1 tvg-id="njdxxw" tvg-name="内江东兴新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",内江东兴新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=njdxxw&zy.m3u8
+#EXTINF:-1 tvg-id="njzzzh" tvg-name="内江资中综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",内江资中综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=njzzzh&zy.m3u8
+#EXTINF:-1 tvg-id="dyghzh" tvg-name="德阳广汉综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",德阳广汉综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=dyghzh&zy.m3u8
+#EXTINF:-1 tvg-id="lsglzh" tvg-name="凉山甘洛综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",凉山甘洛综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lsglzh&zy.m3u8
+#EXTINF:-1 tvg-id="lsmnds" tvg-name="凉山冕宁电视" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",凉山冕宁电视
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lsmnds&zy.m3u8
+#EXTINF:-1 tvg-id="galszh" tvg-name="广安邻水综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",广安邻水综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=galszh&zy.m3u8
+#EXTINF:-1 tvg-id="gawszh" tvg-name="广安武胜综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",广安武胜综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gawszh&zy.m3u8
+#EXTINF:-1 tvg-id="msdlzh" tvg-name="眉山丹棱综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",眉山丹棱综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=msdlzh&zy.m3u8
+#EXTINF:-1 tvg-id="snpxxwzh" tvg-name="遂宁蓬溪新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",遂宁蓬溪新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=snpxxwzh&zy.m3u8
+#EXTINF:-1 tvg-id="nczh" tvg-name="南充综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南充综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nczh&zy.m3u8
+#EXTINF:-1 tvg-id="nckjsh" tvg-name="南充科教生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南充科教生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nckjsh&zy.m3u8
+#EXTINF:-1 tvg-id="xzys" tvg-name="西藏影视文化" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",西藏影视文化
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xzys&zy.m3u8
+#EXTINF:-1 tvg-id="xzcydst" tvg-name="察隅电视台" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",察隅电视台
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xzcydst&zy.m3u8
+#EXTINF:-1 tvg-id="rkzhyzh" tvg-name="日喀则汉语综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",日喀则汉语综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=rkzhyzh&zy.m3u8
+#EXTINF:-1 tvg-id="rkzzyzh" tvg-name="日喀则藏语综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",日喀则藏语综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=rkzzyzh&zy.m3u8
+#EXTINF:-1 tvg-id="lszhpd" tvg-name="拉萨综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",拉萨综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lszhpd&zy.m3u8
+#EXTINF:-1 tvg-id="lswhlypd" tvg-name="拉萨文化旅游" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",拉萨文化旅游
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lswhlypd&zy.m3u8
+#EXTINF:-1 tvg-id="lszyzhpd" tvg-name="拉萨藏语综合频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",拉萨藏语综合频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lszyzhpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzggpd" tvg-name="贵州公共频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州公共频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzggpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzyspd" tvg-name="贵州影视频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州影视频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzyspd&zy.m3u8
+#EXTINF:-1 tvg-id="gzshpd" tvg-name="贵州生活频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州生活频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzshpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzxcpd" tvg-name="贵州乡村频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州乡村频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzxcpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzkjpd" tvg-name="贵州科教频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州科教频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzkjpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzjjpd" tvg-name="贵州经济频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州经济频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzjjpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzjygwpd" tvg-name="贵州家有购物" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州家有购物
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzjygwpd&zy.m3u8
+#EXTINF:-1 tvg-id="gzydpd" tvg-name="贵州移动频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",贵州移动频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzydpd&zy.m3u8
+#EXTINF:-1 tvg-id="qxnzh" tvg-name="黔西南综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黔西南综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qxnzh&zy.m3u8
+#EXTINF:-1 tvg-id="qxngg" tvg-name="黔西南公共" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",黔西南公共
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qxngg&zy.m3u8
+#EXTINF:-1 tvg-id="lngbdstggpd" tvg-name="辽宁广播电视台公共频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽宁广播电视台公共频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lngbdstggpd&zy.m3u8
+#EXTINF:-1 tvg-id="lngbdsttshpd" tvg-name="辽宁广播电视台生活频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽宁广播电视台生活频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lngbdsttshpd&zy.m3u8
+#EXTINF:-1 tvg-id="lngbdsttyxxpd" tvg-name="辽宁广播电视台体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽宁广播电视台体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lngbdsttyxxpd&zy.m3u8
+#EXTINF:-1 tvg-id="lngbdstysjpd" tvg-name="辽宁广播电视台影视剧频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",辽宁广播电视台影视剧频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lngbdstysjpd&zy.m3u8
+#EXTINF:-1 tvg-id="lldlzh" tvg-name="大连新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大连新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lldlzh&zy.m3u8
+#EXTINF:-1 tvg-id="lldlsh" tvg-name="大连生活" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大连生活
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lldlsh&zy.m3u8
+#EXTINF:-1 tvg-id="lldlwt" tvg-name="大连文体" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大连文体
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lldlwt&zy.m3u8
+#EXTINF:-1 tvg-id="lldlgw" tvg-name="大连乐天购物" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",大连乐天购物
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lldlgw&zy.m3u8
+#EXTINF:-1 tvg-id="fjzh" tvg-name="福建综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjzh&zy.m3u8
+#EXTINF:-1 tvg-id="fjxw" tvg-name="福建新闻" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建新闻
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjxw&zy.m3u8
+#EXTINF:-1 tvg-id="fjxc" tvg-name="福建乡村振兴公共" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建乡村振兴公共
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjxc&zy.m3u8
+#EXTINF:-1 tvg-id="fjdsj" tvg-name="福建电视剧" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建电视剧
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjdsj&zy.m3u8
+#EXTINF:-1 tvg-id="fjly" tvg-name="福建旅游" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建旅游
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjly&zy.m3u8
+#EXTINF:-1 tvg-id="fjjj" tvg-name="福建经济" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建经济
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjjj&zy.m3u8
+#EXTINF:-1 tvg-id="fjwt" tvg-name="福建文体" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建文体
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjwt&zy.m3u8
+#EXTINF:-1 tvg-id="fjse" tvg-name="福建少儿" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福建少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjse&zy.m3u8
+#EXTINF:-1 tvg-id="fz1" tvg-name="福州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",福州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fz1&zy.m3u8
+#EXTINF:-1 tvg-id="zz1" tvg-name="漳州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",漳州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zz1&zy.m3u8
+#EXTINF:-1 tvg-id="qz1" tvg-name="泉州新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",泉州新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=qz1&zy.m3u8
+#EXTINF:-1 tvg-id="sm1" tvg-name="三明综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",三明综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sm1&zy.m3u8
+#EXTINF:-1 tvg-id="pt1" tvg-name="莆田综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",莆田综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pt1&zy.m3u8
+#EXTINF:-1 tvg-id="np1" tvg-name="南平综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",南平综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=np1&zy.m3u8
+#EXTINF:-1 tvg-id="ly1" tvg-name="龙岩综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",龙岩综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ly1&zy.m3u8
+#EXTINF:-1 tvg-id="nd1" tvg-name="宁德新闻综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",宁德新闻综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=nd1&zy.m3u8
+#EXTINF:-1 tvg-id="pttv" tvg-name="平潭综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",平潭综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=pttv&zy.m3u8
+#EXTINF:-1 tvg-id="gzzh" tvg-name="广州综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",广州综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gzzh&zy.m3u8
+#EXTINF:-1 tvg-id="hyzh" tvg-name="河源综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",河源综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=hyzh&zy.m3u8
+#EXTINF:-1 tvg-id="zszh" tvg-name="中山综合" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32ycd4jsqxby6ifDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="地方卫视",中山综合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zszh&zy.m3u8
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV14少儿" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",CCTV14少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv14&zy.m3u8
+#EXTINF:-1 tvg-id="jjkt" tvg-name="嘉佳卡通" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",嘉佳卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jjkt&zy.m3u8
+#EXTINF:-1 tvg-id="ymkt" tvg-name="优漫卡通" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",优漫卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ymkt&zy.m3u8
+#EXTINF:-1 tvg-id="zjse" tvg-name="浙江少儿" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",浙江少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=zjse&zy.m3u8
+#EXTINF:-1 tvg-id="jykt" tvg-name="金鹰卡通" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",金鹰卡通
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jykt&zy.m3u8
+#EXTINF:-1 tvg-id="gssepd" tvg-name="甘肃少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",甘肃少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=gssepd&zy.m3u8
+#EXTINF:-1 tvg-id="xjse" tvg-name="新疆少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",新疆少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjse&zy.m3u8
+#EXTINF:-1 tvg-id="sdsepd" tvg-name="山东少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",山东少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdsepd&zy.m3u8
+#EXTINF:-1 tvg-id="jnsepd" tvg-name="济南少儿" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",济南少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnsepd&zy.m3u8
+#EXTINF:-1 tvg-id="cdtv6" tvg-name="成都少儿频道" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",成都少儿频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cdtv6&zy.m3u8
+#EXTINF:-1 tvg-id="fjse" tvg-name="福建少儿" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",福建少儿
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=fjse&zy.m3u8
+#EXTINF:-1 tvg-id="jddhdjh" tvg-name="经典动画大集合" tvg-logo="https://vip.123pan.cn/1844283286/yk6baz03t0m000d7w33gione9obxu1vcDIYxAdi1Dwi1ApxwDIaPAa==.png" group-title="少儿频道",经典动画大集合
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jddhdjh&zy.m3u8
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",CCTV5体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv5&zy.m3u8
+#EXTINF:-1 tvg-id="cctv5p" tvg-name="CCTV5+体育赛事" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",CCTV5+体育赛事
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv5p&zy.m3u8
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16奥林匹克" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",CCTV16奥林匹克
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=cctv16&zy.m3u8
+#EXTINF:-1 tvg-id="klcd" tvg-name="快乐垂钓" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",快乐垂钓
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=klcd&zy.m3u8
+#EXTINF:-1 tvg-id="xfpy" tvg-name="先锋乒羽" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",先锋乒羽
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xfpy&zy.m3u8
+#EXTINF:-1 tvg-id="shwxty" tvg-name="上海五星体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",上海五星体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shwxty&zy.m3u8
+#EXTINF:-1 tvg-id="sxtyxxpd" tvg-name="陕西体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",陕西体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sxtyxxpd&zy.m3u8
+#EXTINF:-1 tvg-id="wspd" tvg-name="武术世界" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",武术世界
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wspd&zy.m3u8
+#EXTINF:-1 tvg-id="xjty" tvg-name="新疆体育健康" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",新疆体育健康
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=xjty&zy.m3u8
+#EXTINF:-1 tvg-id="sdtyxx" tvg-name="山东体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",山东体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sdtyxx&zy.m3u8
+#EXTINF:-1 tvg-id="jnwlty" tvg-name="济南文旅体育" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",济南文旅体育
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jnwlty&zy.m3u8
+#EXTINF:-1 tvg-id="jsxx" tvg-name="江苏体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",江苏体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=jsxx&zy.m3u8
+#EXTINF:-1 tvg-id="lngbdsttyxxpd" tvg-name="辽宁广播电视台体育休闲频道" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",辽宁广播电视台体育休闲频道
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=lngbdsttyxxpd&zy.m3u8
+#EXTINF:-1 tvg-id="sszjd" tvg-name="赛事最经典" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",赛事最经典
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=sszjd&zy.m3u8
+#EXTINF:-1 tvg-id="ttmlh" tvg-name="体坛名栏汇" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",体坛名栏汇
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=ttmlh&zy.m3u8
+#EXTINF:-1 tvg-id="shdy" tvg-name="四海钓鱼" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",四海钓鱼
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=shdy&zy.m3u8
+#EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://vip.123pan.cn/1844283286/ymjew503t0n000d7w32yc9bbr6qctzluDIYxAdi1Dwi1ApxwDIaPAa==.jpg" group-title="体育频道",武术世界
+http://110.42.52.180:6688/live/live.php?token=SB7GrY6k8n&id=wssj&zy.m3u8

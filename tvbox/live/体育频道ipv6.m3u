@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="体育频道ipv6",体育频道ipv6
+#EXTM3U
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://tb.zbds.top/logo/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
+updateTime: 2025-10-31 10:58:55

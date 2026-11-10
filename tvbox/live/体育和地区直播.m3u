@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="体育和地区直播",体育和地区直播
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/2a6dbdaf1c0f.webp" group-title="体育",纬来体育
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f50aa00ef38c.webp" group-title="体育",World Poker Tour
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/7eda57ec84b2.webp" group-title="体育",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="NHL FAST" tvg-name="NHL FAST" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/76a582982d4f.webp" group-title="体育",NHL FAST
+https://nhl-firetv.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="UFC 24/7" tvg-name="UFC 24/7" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/06150b49e4c6.webp" group-title="体育",UFC 24/7
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/bbdfff8c48cc.webp" group-title="卫视",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/08c70a0c29dc.webp" group-title="卫视",浙江卫视4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/9db74c6fa8a2.webp" group-title="江苏",扬州新闻
+https://yztv-wshls.yzbtv.cn/live/8bb.m3u8
+#EXTINF:-1 tvg-id="扬州民生" tvg-name="扬州民生" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/3bed6be1b8b7.webp" group-title="江苏",扬州民生
+https://yztv-wshls.yzbtv.cn/live/8bd.m3u8
+#EXTINF:-1 tvg-id="江都频道" tvg-name="江都频道" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a66fb1a42d03.webp" group-title="江苏",江都频道
+https://yztv-wshls.yzbtv.cn/live/8c1.m3u8
+#EXTINF:-1 tvg-id="邗江频道" tvg-name="邗江频道" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/381484043f6c.webp" group-title="江苏",邗江频道
+https://yztv-wshls.yzbtv.cn/live/8c3.m3u8
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/80fd289475ed.webp" group-title="江苏",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/d21c58dea660.webp" group-title="江苏",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0ff729b512db.webp" group-title="江苏",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/6156b2228ac1.webp" group-title="江苏",苏州电影娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/e8678bee30a1.webp" group-title="江苏",苏州生活资讯
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/d2120fcf1673.webp" group-title="江苏",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/98eebcf178d3.webp" group-title="教育",黑龙江农业科教
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 tvg-id="南京教育科技" tvg-name="南京教育科技" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/900eaa962ada.webp" group-title="教育",南京教育科技
+https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 tvg-id="福州少儿" tvg-name="福州少儿" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f523b7c01109.webp" group-title="少儿",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/3a38ae4e03a0.webp" group-title="少儿",黑龙江少儿
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/10bdd2de9148.webp" group-title="文旅",WildEarth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/059256632b70.webp" group-title="文旅",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a1533567fe27.webp" group-title="文旅",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="China Travel" tvg-name="China Travel" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/2fa67766e6f3.webp" group-title="文旅",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dda73e4a0290.webp" group-title="香港",凤凰中文
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/90f370d4e0d4.webp" group-title="香港",凤凰资讯
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f2ff9070b7ca.webp" group-title="香港",凤凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/52ca851096c6.webp" group-title="香港",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/fc36e7756d2b.webp" group-title="香港",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/418878fce9aa.webp" group-title="广东",梅州客家生活
+https://livepull.hellohakka.cn/live/ch_kejiashenghuo.m3u8
+#EXTINF:-1 tvg-id="福州综合" tvg-name="福州综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/b155c0cdeec9.webp" group-title="福建",福州综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-id="福州生活" tvg-name="福州生活" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/45f8ad045401.webp" group-title="福建",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-id="福州少儿" tvg-name="福州少儿" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f523b7c01109.webp" group-title="福建",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-id="晋江电视台" tvg-name="晋江电视台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ae21ea4a93e8.webp" group-title="福建",晋江电视台
+https://live.ijjnews.com/jjtv/sd/live.m3u8
+#EXTINF:-1 tvg-id="石狮新闻综合" tvg-name="石狮新闻综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/1476d50c3194.webp" group-title="福建",石狮新闻综合
+https://live-new.chinashishi.net/SSTV/sd/live.m3u8
+#EXTINF:-1 tvg-id="宁德新闻综合" tvg-name="宁德新闻综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/531d91d7a70a.webp" group-title="福建",宁德新闻综合
+https://live.0593tv.cn/live/aedcnbnyl2jd.m3u8
+#EXTINF:-1 tvg-id="宁德文化旅游" tvg-name="宁德文化旅游" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/cddd8d5304f2.webp" group-title="福建",宁德文化旅游
+https://live.0593tv.cn/live/d1znvar7tabf.m3u8
+#EXTINF:-1 tvg-id="德化电视台" tvg-name="德化电视台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/705f3795c07f.webp" group-title="福建",德化电视台
+https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/68717adefb6d.webp" group-title="黑龙江",黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/2ec026407a3b.webp" group-title="黑龙江",黑龙江都市
+https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/4a9c3d35ac35.webp" group-title="黑龙江",黑龙江新闻法治
+https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-name="黑龙江文体" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/5d0dc7f06e82.webp" group-title="黑龙江",黑龙江文体
+https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/3a38ae4e03a0.webp" group-title="黑龙江",黑龙江少儿
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/beab3b64145d.webp" group-title="黑龙江",黑龙江影视
+https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/98eebcf178d3.webp" group-title="黑龙江",黑龙江农业科教
+https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8d96b287049c.webp" group-title="南京",南京新闻综合
+https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 tvg-id="南京教育科技" tvg-name="南京教育科技" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/900eaa962ada.webp" group-title="南京",南京教育科技
+https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 tvg-id="南京十八·生活" tvg-name="南京十八·生活" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/461953412cc7.webp" group-title="南京",南京十八·生活
+https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/e8417a650fbf.webp" group-title="南京",南京文旅纪录
+https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 tvg-id="长江大桥" tvg-name="长江大桥" group-title="南京景观",长江大桥
+https://nklive2.nbs.cn/hls/292e69b9-9ca1-4908-bba0-32438dd7c464/index.m3u8
+#EXTINF:-1 tvg-id="南京南站" tvg-name="南京南站" group-title="南京景观",南京南站
+https://nklive2.nbs.cn/hls/ed208474-9d66-48d1-adfe-55f0d783915c/index.m3u8
+#EXTINF:-1 tvg-id="新庄立交" tvg-name="新庄立交" group-title="南京景观",新庄立交
+https://nklive2.nbs.cn/hls/e75a4b63-c05f-49c1-9d53-9c24c09107de/index.m3u8
+#EXTINF:-1 tvg-id="紫金山" tvg-name="紫金山" group-title="南京景观",紫金山
+https://nklive2.nbs.cn/hls/aff6d607-073a-4b4b-ab42-2f65f2b9ac4c/index.m3u8
+#EXTINF:-1 tvg-id="鼓楼广场" tvg-name="鼓楼广场" group-title="南京景观",鼓楼广场
+https://nklive2.nbs.cn/hls/82df63bc-e231-4b84-a277-30f603dd44ca/index.m3u8
+#EXTINF:-1 tvg-id="音乐台" tvg-name="音乐台" group-title="南京景观",音乐台
+https://nklive1.nbs.cn/hls/3c38d3ba-ee74-4b93-933c-da8e1e5418fa/index.m3u8
+#EXTINF:-1 tvg-id="北极阁" tvg-name="北极阁" group-title="南京景观",北极阁
+https://nklive2.nbs.cn/hls/157b42cc-93a7-42aa-89e7-0a07452ad4c3/index.m3u8
+#EXTINF:-1 tvg-id="三汊河" tvg-name="三汊河" group-title="南京景观",三汊河
+https://nklive2.nbs.cn/hls/e01482be-9a78-4c14-a76a-250f733fd993/index.m3u8
+#EXTINF:-1 tvg-id="石臼湖" tvg-name="石臼湖" group-title="南京景观",石臼湖
+https://nklive1.nbs.cn/hls/2a317dc5-f482-48ce-8bad-20a0b33926a3/index.m3u8
+#EXTINF:-1 tvg-id="南京眼" tvg-name="南京眼" group-title="南京景观",南京眼
+https://nklive2.nbs.cn/hls/2496cb32-fa2a-469b-bfd7-2d1991d671d5/index.m3u8
+#EXTINF:-1 tvg-id="五马渡" tvg-name="五马渡" group-title="南京景观",五马渡
+https://nklive1.nbs.cn/hls/019fe26e-5595-4330-a3be-df72d5e01e6b/index.m3u8
+#EXTINF:-1 tvg-id="石象路" tvg-name="石象路" group-title="南京景观",石象路
+https://yunlive.nbs.cn/live/mzb_sxl_1/playlist.m3u8
+#EXTINF:-1 tvg-id="鱼嘴" tvg-name="鱼嘴" group-title="南京景观",鱼嘴
+https://nklive2.nbs.cn/hls/509207c4-e2b1-43f0-b8f0-f04d0f584ed8/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/53ad5a2ae38a.webp" group-title="宁夏",宁夏卫视
+https://hls.nxhhy.cn/live/nxws1M.m3u8
+#EXTINF:-1 tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/693f313e03e6.webp" group-title="宁夏",宁夏公共
+https://hls.nxhhy.cn/live/nxgg1M.m3u8
+#EXTINF:-1 tvg-id="宁夏文旅" tvg-name="宁夏文旅" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a0e676c4a4ca.webp" group-title="宁夏",宁夏文旅
+https://hls.nxhhy.cn/live/nxwl1M.m3u8
+#EXTINF:-1 tvg-id="五四广场" tvg-name="五四广场" group-title="青岛景观",五四广场
+https://video10.qtv.com.cn/aqdwsgc2022/manifest.m3u8
+#EXTINF:-1 tvg-id="奥帆中心" tvg-name="奥帆中心" group-title="青岛景观",奥帆中心
+https://video10.qtv.com.cn/aqdafzx2022/manifest.m3u8
+#EXTINF:-1 tvg-id="快速路大润发方向" tvg-name="快速路大润发方向" group-title="青岛景观",快速路大润发方向
+https://video10.qtv.com.cn/sxt1/manifest.m3u8
+#EXTINF:-1 tvg-id="胶宁高架福州路口" tvg-name="胶宁高架福州路口" group-title="青岛景观",胶宁高架福州路口
+https://video10.qtv.com.cn/sxt3/manifest.m3u8
+#EXTINF:-1 tvg-id="胶宁高架银川西路口" tvg-name="胶宁高架银川西路口" group-title="青岛景观",胶宁高架银川西路口
+https://video10.qtv.com.cn/sxt2/manifest.m3u8
+#EXTINF:-1 tvg-id="成都·成年园A" tvg-name="成都·成年园A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·成年园A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao01_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·成年园B" tvg-name="成都·成年园B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·成年园B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao02_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·六号别墅A" tvg-name="成都·六号别墅A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·六号别墅A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao03_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·六号别墅B" tvg-name="成都·六号别墅B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·六号别墅B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao04_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·幼儿园A" tvg-name="成都·幼儿园A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·幼儿园A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao05_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·幼儿园B" tvg-name="成都·幼儿园B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·幼儿园B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao06_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·母子园A" tvg-name="成都·母子园A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·母子园A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao07_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·母子园B" tvg-name="成都·母子园B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·母子园B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao08_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·一号别墅A" tvg-name="成都·一号别墅A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·一号别墅A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao09_2/index.m3u8
+#EXTINF:-1 tvg-id="成都·一号别墅B" tvg-name="成都·一号别墅B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",成都·一号别墅B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao10_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·吉福A" tvg-name="都江堰·吉福A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·吉福A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao11_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·瑞喜、乔怡A" tvg-name="都江堰·瑞喜、乔怡A" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·瑞喜、乔怡A
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao12_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·新乔" tvg-name="都江堰·新乔" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·新乔
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao13_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·青灵" tvg-name="都江堰·青灵" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·青灵
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·优悠" tvg-name="都江堰·优悠" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·优悠
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·瑞喜、乔怡B" tvg-name="都江堰·瑞喜、乔怡B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·瑞喜、乔怡B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao16_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·吉福B" tvg-name="都江堰·吉福B" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·吉福B
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao18_2/index.m3u8
+#EXTINF:-1 tvg-id="都江堰·春野、秋野" tvg-name="都江堰·春野、秋野" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/8675d4ce3f10.webp" group-title="iPanda",都江堰·春野、秋野
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao20_2/index.m3u8
+#EXTINF:-1 tvg-id="公视高清" tvg-name="公视高清" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/167cf8a86a47.webp" group-title="台湾",公视高清
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 tvg-id="民视高清" tvg-name="民视高清" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/cc884dfee7e2.webp" group-title="台湾",民视高清
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-id="台视高清" tvg-name="台视高清" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/274f05d8f97c.webp" group-title="台湾",台视高清
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/609824a08a66.webp" group-title="台湾",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="大立电视台" tvg-name="大立电视台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/06390b3bc073.webp" group-title="台湾",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/4c86ee733574.webp" group-title="宠物",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="面包台" tvg-name="面包台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/855be56274dc.webp" group-title="娱乐时尚",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0e77dba916f8.webp" group-title="国际",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f31a30c73a24.webp" group-title="国际",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 tvg-id="France 24 Français" tvg-name="France 24 Français" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ed94419cd0ed.webp" group-title="国际",France 24 Français
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France 24 English" tvg-name="France 24 English" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/5f44bb4cc476.webp" group-title="国际",France 24 English
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/af8b1ffd3f0d.webp" group-title="体育",24小时城市联赛轮播台
+http://hlszymgsplive.miguvideo.com:8080/migu/lunbo/ouzhoubei/53/20240603/index.m3u8?msisdn=202610051338586acd5c309dfe4d4cbcb448bba6209f66&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20261005133858&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=5.199.165.103&SecurityKey=20261005133858&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d84df5234c74a8ce69d0539f552fdad5&sv=10004&ct=android
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ccf52805476b.webp" group-title="体育",武术世界
+https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=b5e62b48006b1f0a428725306ab6aea4&wsTime=1791193106
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a2c4ee5e6115.webp" group-title="江苏",江苏体育休闲
+https://litchi-play-encrypted-site.jstv.com/applive/jsxxpro.m3u8?txSecret=9d6d54c84da5840cfcf379549c59252f&txTime=6ac33fb2
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/4c322ddf6bbe.webp" group-title="江苏",江苏卫视
+https://litchi-play-encrypted-site.jstv.com/applive/jswspro.m3u8?txSecret=222f024f0b8bdf6d3c6ff18792866fbd&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/e0ba4be33256.webp" group-title="江苏",江苏卫视4K
+https://litchi-play-encrypted-site.jstv.com/4klive/jsws4kpro.m3u8?txSecret=7bfdb8241bc32021675f9be975f91fbf&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a13b0f277396.webp" group-title="江苏",江苏城市
+https://litchi-play-encrypted-site.jstv.com/applive/jscspro.m3u8?txSecret=b74bd6863e4a29b8e785e4637164872b&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/b14b00ac1571.webp" group-title="江苏",江苏综艺
+https://litchi-play-encrypted-site.jstv.com/applive/jszypro.m3u8?txSecret=3705eb31b2433c7fcf852a23db973ff8&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/786ca50467bc.webp" group-title="江苏",江苏影视
+https://litchi-play-encrypted-site.jstv.com/applive/jsyspro.m3u8?txSecret=be4041e605b7396e31162619d2b82426&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/34a48e6319a6.webp" group-title="江苏",江苏新闻
+https://litchi-play-encrypted-site.jstv.com/applive/jsxwpro.m3u8?txSecret=630362855b13510d007b3ed35d2354b8&txTime=6ac33fb1
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/c0d3fee7a59b.webp" group-title="江苏",江苏教育
+https://litchi-play-encrypted-site.jstv.com/applive/jsjypro.m3u8?txSecret=4e73a9ec68d844c20ec53b493ef1a1d2&txTime=6ac33fb2
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/fa6fa2367e65.webp" group-title="江苏",优漫卡通
+https://litchi-play-encrypted-site.jstv.com/applive/ymktpro.m3u8?txSecret=b14051d53359852f85e92fcc12b79324&txTime=6ac33fb2
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/b58b18b3ed86.webp" group-title="江苏",江苏国际
+https://litchi-play-encrypted-site.jstv.com/applive/jsgjpro.m3u8?txSecret=5ef2f90d6c89e7ada82bdc91b0b64f10&txTime=6ac33fb2
+#EXTINF:-1 tvg-id="贵州科教健康" tvg-name="贵州科教健康" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0b7f237d41d3.webp" group-title="教育",贵州科教健康
+https://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=a097dc57ad28e9fe0047a0c09e8694f3&txTime=6AC33EFF
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/3a13b1886ace.webp" group-title="少儿",海南少儿
+https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=29a39fd31791186858
+#EXTINF:-1 tvg-id="[超清] 第五人格赛事 · 【直播】2026IVL秋季赛W1D4" tvg-name="[超清] 第五人格赛事 · 【直播】2026IVL秋季赛W1D4" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/6f79aee0cf32.webp" group-title="B站",[超清] 第五人格赛事 · 【直播】2026IVL秋季赛W1D4
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/421494/live_6650029_bs_9162320_2500.m3u8?expires=1791192382&len=0&oi=96970087&pt=web&qn=250&trid=10030b6f1be3b1f1674a19e044f2626ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=a9771ce44f2efea4b9c7e05b27b522cb&site=a13eaef65421bcc6b9a2e7865e842fbf&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&origin_bitrate=668&strategy_ids=152&codec=0&source=puv3_onetier&p2p_type=-1&deploy_env=prod&sl=9&sk=7b9ca197a822eebb7933bf2a49b49d0ff100c8a4821340a1ed9b3311c38ebf95&info_source=hot_cache&hdr_type=0&media_type=0&strategy_types=1&hot_cdn=909773&score=39&pp=&suffix=2500&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 无畏契约赛事 · 【预告】7日17点 上海全球冠军赛" tvg-name="[超清] 无畏契约赛事 · 【预告】7日17点 上海全球冠军赛" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/367b934e84e4.webp" group-title="B站",[超清] 无畏契约赛事 · 【预告】7日17点 上海全球冠军赛
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/519426/live_22908869_bs_9514932_2500.m3u8?expires=1791192388&len=0&oi=96970087&pt=web&qn=250&trid=1003756259e58d448fcc0a98552b586ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=96f07ad348c848aed68dc2c8973c4127&site=37777f3af4b1985caf17792b73ae826b&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&info_source=cache&hot_cdn=909701&hdr_type=0&sk=2487e85526f35520ed475cba8f2c70c979091cc2c12f2e0ec664b48088a81587&score=1&pp=&suffix=2500&origin_bitrate=849&codec=0&sl=3&deploy_env=prod&source=puv3_onetier&media_type=0&p2p_type=-1&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 麻将研究院 · 四川麻将技术等级定段赛" tvg-name="[超清] 麻将研究院 · 四川麻将技术等级定段赛" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/d31bb16bb5ac.webp" group-title="B站",[超清] 麻将研究院 · 四川麻将技术等级定段赛
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/998748/live_ye7nn40ue5_SzY7Vfs_fjezg_2500.m3u8?expires=1791192391&len=0&oi=96970087&pt=web&qn=250&trid=10031f869aeb8159b6036515caae136ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=ab51dab4a5faa4b89ef6717737316f66&site=5eaa794651b7c091385afaeb9de96e78&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&source=puv3_onetier&info_source=origin&sk=46c2e69f0e5eb2f59a21a1f8d65143fd&media_type=0&p2p_type=-1&suffix=2500&deploy_env=prod&sl=1&ld=jchz&strategy_type=0&strategy_types=0,1&codec=0&strategy_id=25&hdr_type=0&pp=rtmp&hot_cdn=0&origin_bitrate=1644&score=42&expected_qn=250&strategy_ids=25,122&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 岭上换绿发 · 女流樱花" tvg-name="[超清] 岭上换绿发 · 女流樱花" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/5553755c8895.webp" group-title="B站",[超清] 岭上换绿发 · 女流樱花
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/214764/live_1a1m6g_SJH0vYw_97h_2500.m3u8?expires=1791192392&len=0&oi=96970087&pt=web&qn=250&trid=100322b5de52bb84794645ab45fe326ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=28ca29445daa86cad1fcf909a5d7f4e6&site=fc6b0be33a9649da338b7f38e7181bf8&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&p2p_type=-1&pp=&hdr_type=0&origin_bitrate=1305&info_source=cache&hot_cdn=57345&deploy_env=prod&expected_qn=250&suffix=2500&score=1&strategy_ids=25,122&strategy_types=0,1&media_type=0&codec=0&source=puv3_onetier&ld=jchz&strategy_id=25&sk=d597a7b910d29e735bca2b81660319a5&strategy_type=0&sl=1&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 第五人格赛事观察团 · 第五人格IVL秋季赛清流" tvg-name="[超清] 第五人格赛事观察团 · 第五人格IVL秋季赛清流" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/91680195c11f.webp" group-title="B站",[超清] 第五人格赛事观察团 · 第五人格IVL秋季赛清流
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/167836/live_1908573297_65063895_2500.m3u8?expires=1791192398&len=0&oi=96970087&pt=web&qn=250&trid=1003046d954bd49dcab4111a548d326ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=a0aee7d1ae860069434eedfff2658057&site=80c304a112f66547e4ea076601a78193&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&sk=5b9e120535112d1c8d05d13b52c18ff2&strategy_ids=25,122&media_type=0&p2p_type=-1&strategy_types=0,1&pp=rtmp&hdr_type=0&strategy_type=0&info_source=cache&codec=0&source=puv3_onetier&score=1&expected_qn=250&sl=1&strategy_id=25&origin_bitrate=1768&deploy_env=prod&suffix=2500&hot_cdn=0&ld=jchz&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 墨子沙龙 · 和高校学霸一起看诺贝尔生理学或医学奖" tvg-name="[超清] 墨子沙龙 · 和高校学霸一起看诺贝尔生理学或医学奖" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/94e36d1c16b6.webp" group-title="B站",[超清] 墨子沙龙 · 和高校学霸一起看诺贝尔生理学或医学奖
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/952053/live_5f3xwy_SKLFLK8_421gr_2500.m3u8?expires=1791192402&len=0&oi=96970087&pt=web&qn=250&trid=10036b5934fa888681bd1bcbe4407a6ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=7ba33d16ebd15aea5db4621d010c69f9&site=031701e1718b9b4d6d4332e02510e527&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&source=puv3_onetier&expected_qn=250&strategy_types=0,1&ld=jchz&suffix=2500&strategy_id=25&sk=1f2f776a3847ad0eca20f051dfe6676b&media_type=0&hot_cdn=57345&codec=0&origin_bitrate=1394&pp=rtmp&hdr_type=0&deploy_env=prod&info_source=cache&strategy_type=0&p2p_type=-1&score=1&sl=1&strategy_ids=25,122&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 沙姆雄狮_EL · 也门塔伊兹围城战：第一阶段" tvg-name="[超清] 沙姆雄狮_EL · 也门塔伊兹围城战：第一阶段" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/bb1c5532608d.webp" group-title="B站",[超清] 沙姆雄狮_EL · 也门塔伊兹围城战：第一阶段
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/498668/live_nj3jug_SBt03oP_l6vuc_2500.m3u8?expires=1791192409&len=0&oi=96970087&pt=web&qn=250&trid=10035b81b107216e3bd91ab6f32a126ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=def79274fe90d11bef2affe17e661cbc&site=37db84a2e66c855acc21de949a1a7b5d&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&hdr_type=0&media_type=0&p2p_type=-1&strategy_id=25&source=puv3_onetier&origin_bitrate=477&info_source=origin&ld=jchz&strategy_types=0,1&codec=0&strategy_type=0&score=44&sl=2&strategy_ids=25,122&pp=&suffix=2500&sk=0fa25934e0b02891094be3c487cb1dcd&expected_qn=250&deploy_env=prod&hot_cdn=909705&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 自主品牌才是国家希望 · 国庆闪充考察2" tvg-name="[超清] 自主品牌才是国家希望 · 国庆闪充考察2" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/74a6650dfcab.webp" group-title="B站",[超清] 自主品牌才是国家希望 · 国庆闪充考察2
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/526658/live_7vfc_SqhAE9U_5y95x_2500.m3u8?expires=1791192411&len=0&oi=96970087&pt=web&qn=250&trid=10033496f027612822390dc2edf79d6ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=68370712e25a07ef2ece74220525571d&site=a40431412a71d874658db91aec682ce0&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&deploy_env=prod&strategy_ids=25,122&codec=0&source=puv3_onetier&sl=2&hot_cdn=57353&score=1&strategy_id=25&media_type=0&suffix=2500&strategy_type=0&sk=e2ad3ac1fd698a2c62fd7de4869787b1&p2p_type=-1&origin_bitrate=1217&info_source=cache&strategy_types=0,1&hdr_type=0&pp=&expected_qn=250&ld=jchz&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[原画] 锦鲤呀io · 一定要理想型吗，我不行吗？" tvg-name="[原画] 锦鲤呀io · 一定要理想型吗，我不行吗？" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/fc8ffbbeb82c.webp" group-title="B站",[原画] 锦鲤呀io · 一定要理想型吗，我不行吗？
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/464012/live_yx5hz96in8_SY6RO8s_h583z.m3u8?expires=1791192412&len=0&oi=96970087&pt=web&qn=10000&trid=10032d99d3741de206b73e0f1ff7476ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=254533c5a2093a2b0c238799e315755e&site=bc209caf41078475abf0fed243269502&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&origin_bitrate=1969&info_source=origin&media_type=0&sk=6746866ea955842b8372a9c6971409fb&deploy_env=prod&hdr_type=0&sl=1&suffix=origin&p2p_type=-1&codec=0&score=1&hot_cdn=0&source=puv3_onetier&pp=&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 星伊云同桌自习室 · 卷王一路硕博！！！" tvg-name="[超清] 星伊云同桌自习室 · 卷王一路硕博！！！" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/6428d5bde562.webp" group-title="B站",[超清] 星伊云同桌自习室 · 卷王一路硕博！！！
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/182032/live_5rut1y_SnKHdYh_3ei1c_2500.m3u8?expires=1791192419&len=0&oi=96970087&pt=web&qn=250&trid=10036701b445a41bb31c7adc06a1876ac35f&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=e70605710f9b6c3820f5f134524b5dbc&site=344f5965696ec542196d17b3603bfa08&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&source=puv3_onetier&strategy_types=0,1&hdr_type=0&suffix=2500&sk=dbe618530d5f4846e1c082bab8be6b2d&pp=&strategy_id=25&media_type=0&ld=jchz&strategy_type=0&score=1&strategy_ids=25,122&deploy_env=prod&sl=2&p2p_type=-1&origin_bitrate=1291&info_source=cache&codec=0&expected_qn=250&hot_cdn=57345&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[超清] 汇川A · 开始搬砖" tvg-name="[超清] 汇川A · 开始搬砖" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a306ae91e553.webp" group-title="B站",[超清] 汇川A · 开始搬砖
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/341265/live_10ccn4ge0kv_SoKrEfj_g3v_2500.m3u8?expires=1791192687&len=0&oi=96970087&pt=web&qn=250&trid=100302f97511b96cff086bfdb55e586ac360&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=592473a673258a6fdd74fef15c4b5e8b&site=9066712ed0451b2295dbbee0b5d87d0e&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&source=puv3_onetier&score=1&deploy_env=prod&strategy_ids=25,122&media_type=0&expected_qn=250&hdr_type=0&strategy_type=0&codec=0&pp=&sk=06975cbb839f6f1765d51a65ffb2f3c9&info_source=origin&hot_cdn=57345&origin_bitrate=661&strategy_types=0,1&suffix=2500&sl=2&ld=jchz&p2p_type=-1&strategy_id=25&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="[原画] _天宗宗 · 111" tvg-name="[原画] _天宗宗 · 111" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/c96786d5d7a3.webp" group-title="B站",[原画] _天宗宗 · 111
+https://d1--ov-gotcha105.bilivideo.com/live-bvc/879319/live_ye9kr152re_SMjrl2Z_767k3.m3u8?expires=1791192687&len=0&oi=96970087&pt=web&qn=10000&trid=100317b0826d0c9771d7679800f9f66ac360&bmt=2&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha105&sign=277a83a161ab7e17c176caa1ff3b3c1b&site=9066712ed0451b2295dbbee0b5d87d0e&free_type=0&mid=0&sche=ban&trace=0&isp=other&rg=other&pv=other&media_type=0&info_source=origin&strategy_id=72&codec=0&score=1&sk=8d4041c6044c89bb7512d87a93b962e7&deploy_env=prod&strategy_types=0,1&source=puv3_onetier&sl=1&hot_cdn=0&p2p_type=-1&origin_bitrate=4421&strategy_type=0&pp=&strategy_ids=72,72&expected_qn=250&suffix=origin&ld=dizhi&hdr_type=0&vd=bc&src=puv3&order=1
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/334aadbf9379.webp" group-title="广东",广州综合
+https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=709e2b6adc8362dbc442435967e4b337&txTime=1a10aae66d5
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ee7f842153a8.webp" group-title="广东",广州新闻
+https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=f5ea73d3210be20e49aa58b3e6100b7f&txTime=1a10aae66d8
+#EXTINF:-1 tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/e350ca150d80.webp" group-title="广东",广州南国都市4K
+https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=3bd6f32bf2070380b133bec1f6ae8472&txTime=1a10aae66d9
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/4aaf546b6fe8.webp" group-title="贵州",贵州卫视
+https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=96edd8e912f90eaa6f00c60fd536f6fb&txTime=6AC33D0C
+#EXTINF:-1 tvg-id="贵州公共" tvg-name="贵州公共" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/3a22ef6e26f9.webp" group-title="贵州",贵州公共
+https://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=b9084ed17cf2b2fe22b46e4f2e78607a&txTime=6AC338EC
+#EXTINF:-1 tvg-id="贵州影视文艺" tvg-name="贵州影视文艺" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ec6c14c65886.webp" group-title="贵州",贵州影视文艺
+https://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=d6414773b237c8d8dccf63cfeb3514ac&txTime=6AC33E65
+#EXTINF:-1 tvg-id="贵州大众生活" tvg-name="贵州大众生活" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/80dbc4cdda1a.webp" group-title="贵州",贵州大众生活
+https://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=62d7e0df325888b983781c070efa3f96&txTime=6AC33AC1
+#EXTINF:-1 tvg-id="贵州生态乡村" tvg-name="贵州生态乡村" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/7b9307a05a72.webp" group-title="贵州",贵州生态乡村
+https://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=74f8d71eccc812abb5efdfa82b80dd4c&txTime=6AC3390A
+#EXTINF:-1 tvg-id="贵州经济" tvg-name="贵州经济" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dbdab9b8f12d.webp" group-title="贵州",贵州经济
+https://9bwaz8y2.gzstv.com/live/CH09_lo.m3u8?txSecret=56817a2cd1adcbe84552cd4bbed883e3&txTime=6AC3390F
+#EXTINF:-1 tvg-id="贵州移动电视" tvg-name="贵州移动电视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/89a885f9a865.webp" group-title="贵州",贵州移动电视
+https://9bwaz8y2.gzstv.com/live/CH13_lo.m3u8?txSecret=cab2ae406d61c32518d86bb0f444a9b6&txTime=6AC33910
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/ea6dee2bd50e.webp" group-title="海南",海南卫视
+https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=c471ea7d1791187078
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/f178e9dcdff8.webp" group-title="海南",三沙卫视
+https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8?_upt=78873a951791187077
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/a43efab15837.webp" group-title="海南",海南自贸
+https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=30a949c31791187077
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/36a10aefdad7.webp" group-title="海南",海南新闻
+https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=51b3cdd31791187078
+#EXTINF:-1 tvg-id="海南社会与法" tvg-name="海南社会与法" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/1b26fbc9fc4c.webp" group-title="海南",海南社会与法
+https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=bb761fca1791187079
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/9e5c9e63bf86.webp" group-title="海南",海南文旅
+https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=cdefdf271791187078
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/bef7283e2b19.webp" group-title="河南",河南卫视
+https://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=68c1f0b395e50c1123748e480120edbb&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0538fff5c87b.webp" group-title="河南",河南新闻
+https://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c64f94d1796ec35889d989f9c504af35&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/4dd7baba27d6.webp" group-title="河南",河南都市
+https://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=19030f0dec0c50e0b98ae47eee9ae0e3&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/7c045ccaa19a.webp" group-title="河南",河南民生
+https://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=fb8f5ac7d8f5d20d3bfe9dbd9f4b99a1&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/70b1eddb4718.webp" group-title="河南",河南法治
+https://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=49f85f3c58c9b2f2551335828201ac47&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0e2d1863a804.webp" group-title="河南",河南公共
+https://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=b36e88b0f2fdddca7efabedb8e23eddd&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/253d331aff37.webp" group-title="河南",河南乡村
+https://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=04ada009367e7a6b31fc8e01dc8bf781&wsTime=1791193106
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/55f55a44c79f.webp" group-title="河南",河南电视剧
+https://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=305b7bd73b8df408f379107e0d5e07f5&wsTime=1791193106
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/1af7c671f996.webp" group-title="河南",梨园频道
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=ebea42451370372b34e6343654e5d4d6&wsTime=1791193106
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/d2c85c06655e.webp" group-title="河南",文物宝库
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6922e4aa61479359bf7dcda431f5cf5a&wsTime=1791193106
+#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/e21b88f551e2.webp" group-title="河南",睛彩中原
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=6f6b8b9a1922615c71ca23ed49ac3b65&wsTime=1791193106
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/0fa9278e0f1d.webp" group-title="河南",国学频道
+https://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=ea37b0a793e4259220921da374be4b3c&wsTime=1791193106
+#EXTINF:-1 tvg-id="昭通综合" tvg-name="昭通综合" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/66b191d46166.webp" group-title="云南",昭通综合
+https://hwapi.yntv.cn/ew265l/5fkqnm.m3u8
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放（李嘉伟） 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放（李嘉伟） 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/048/5106928048/media/5106928048_5344052126_55.mp4.m3u8?msisdn=20261005140226645db3d092eb46e8808445a92727c044&mdspid=&spid=800033&netType=0&sid=5702000214&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968122197&ParentNodeID=-99&assertID=5702000214&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928048&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=40080fdb10756074aa006a838ddebae9&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放（赛场原声） 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 全场回放（赛场原声） 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/049/5106928049/media/5106928049_5344056640_96.mg001.mp4.m3u8?msisdn=202610051402269beb5e2c3b6546f6a7e85383aa6a7bee&mdspid=&spid=800033&netType=0&sid=5702000215&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968123420&ParentNodeID=-99&assertID=5702000215&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928049&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c544b7b18e35fed5c7180d94efbcf2f1&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海横沙誉民18:17北京控股 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/043/5106928043/media/5106928043_5344048846_55.mp4.m3u8?msisdn=20261005140226f4392a52e6b3442d9b97090df784e300&mdspid=&spid=800033&netType=0&sid=5702000179&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968120850&ParentNodeID=-99&assertID=5702000179&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928043&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c850f7d1440d3604c6bf3f64b98420af&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】贵州贵阳丝恋14:18浙江普徕 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/044/5106928044/media/5106928044_5344050360_55.mp4.m3u8?msisdn=202610051402261e8f542ac3344bb288ab4b6f6c7ad58e&mdspid=&spid=800033&netType=0&sid=5702000192&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968121512&ParentNodeID=-99&assertID=5702000192&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928044&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0956e9e6a7145072da13823bccf629c1&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】上海久事21:16成都和众 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/045/5106928045/media/5106928045_5344050769_55.mp4.m3u8?msisdn=2026100514022667b71d779c634c08a3b290adb22a8973&mdspid=&spid=800033&netType=0&sid=5702000197&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968121706&ParentNodeID=-99&assertID=5702000197&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928045&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=13a8cdbcfabe1f2d4fd929d09edbc7f3&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 四分之一决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】宁波海曙捷英21:14深圳龙华启航 13:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 四分之一决赛 【回放】宁波海曙捷英21:14深圳龙华启航 13:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/047/5106928047/media/5106928047_5344051897_55.mp4.m3u8?msisdn=202610051402269301bdd907414b98a258d52fc7341d7b&mdspid=&spid=800033&netType=0&sid=5702000206&pid=2028597139&timestamp=20261005140226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968122101&ParentNodeID=-99&assertID=5702000206&client_ip=5.199.165.103&SecurityKey=20261005140226&promotionId=&mvid=5106928047&mcid=1003&mpid=120000595458&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c19c27cffb40e241637473c9867a5bc0&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放（王冠证） 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放（王冠证） 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/148/5106928148/media/5106928148_5344065481_55.mp4.m3u8?msisdn=2026100514022787f27502610f4aba97a94c81b353776e&mdspid=&spid=800033&netType=0&sid=5702000356&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968126944&ParentNodeID=-99&assertID=5702000356&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928148&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=535b50cd651e7d631bb66ef2c856c45b&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放（赛场原声） 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 全场回放（赛场原声） 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/149/5106928149/media/5106928149_5344066797_96.mg001.mp4.m3u8?msisdn=20261005140227eba8004503ea42f7b960d36e13f963b2&mdspid=&spid=800033&netType=0&sid=5702000362&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968127791&ParentNodeID=-99&assertID=5702000362&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928149&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4f78ff5211372ea2961ed9f35ffa8778&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民19:21上海久事 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/147/5106928147/media/5106928147_5344064800_55.mp4.m3u8?msisdn=202610051402273dd2776e9a4243bdb9f15daa0b01c2d8&mdspid=&spid=800033&netType=0&sid=5702000354&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968126885&ParentNodeID=-99&assertID=5702000354&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928147&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=94714bc7d616edd42f721e65337d8806&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海久事22:12宁波海曙捷英 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/145/5106928145/media/5106928145_5344062197_55.mp4.m3u8?msisdn=2026100514022734fbd4aa551a4f7c91c71c3d7cc98803&mdspid=&spid=800033&netType=0&sid=5702000324&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968125748&ParentNodeID=-99&assertID=5702000324&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928145&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e8935054b7e20a71a39f5006b11e5829&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】浙江普徕22:17宁波海曙捷英 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/146/5106928146/media/5106928146_5344063855_55.mp4.m3u8?msisdn=202610051402271125ff001f554e998efe11df1b8273fb&mdspid=&spid=800033&netType=0&sid=5702000347&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968126437&ParentNodeID=-99&assertID=5702000347&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928146&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b3445418b6a8bbcd5da69dd901d06af6&sv=10004&ct=android
+#EXTINF:-1 tvg-id="超三联赛 北京密云争霸赛 半决赛及决赛" tvg-name="超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/dfbe8b155d35.webp" group-title="体育-昨天",超三联赛 超三联赛 北京密云争霸赛 半决赛及决赛 【回放】上海横沙誉民18:16浙江普徕 18:55
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/144/5106928144/media/5106928144_5344061038_55.mp4.m3u8?msisdn=2026100514022768514abcc3514837ab7e4217d1edef7d&mdspid=&spid=800033&netType=0&sid=5702000308&pid=2028597139&timestamp=20261005140227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968125181&ParentNodeID=-99&assertID=5702000308&client_ip=5.199.165.103&SecurityKey=20261005140227&promotionId=&mvid=5106928144&mcid=1003&mpid=120000595459&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aefaad9ba7170ebece34c757a5cdac64&sv=10004&ct=android
+#EXTINF:-1 tvg-id="杭州81-84江山" tvg-name="浙BA 杭州81-84江山 2026浙江省城市篮球联赛全场回放：杭州VS江山（赛场原声） 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-昨天",浙BA 杭州81-84江山 2026浙江省城市篮球联赛全场回放：杭州VS江山（赛场原声） 19:30
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/150/5106928150/media/5106928150_5344069554_96.mg001.mp4.m3u8?msisdn=202610051402283feea8e052cd4f70b7c22f81eb1812c5&mdspid=&spid=800033&netType=0&sid=5702000411&pid=2028597139&timestamp=20261005140228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968129155&ParentNodeID=-99&assertID=5702000411&client_ip=5.199.165.103&SecurityKey=20261005140228&promotionId=&mvid=5106928150&mcid=1003&mpid=120000595255&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4858644c7e13160317dd938df76bcd35&sv=10004&ct=android
+#EXTINF:-1 tvg-id="台州86-67安吉" tvg-name="浙BA 台州86-67安吉 2026浙江省城市篮球联赛全场回放：台州VS安吉（赛场原声） 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-昨天",浙BA 台州86-67安吉 2026浙江省城市篮球联赛全场回放：台州VS安吉（赛场原声） 19:30
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/151/5106928151/media/5106928151_5344069539_96.mg001.mp4.m3u8?msisdn=202610051402282b40e8b2b10946159644e0962086d238&mdspid=&spid=800033&netType=0&sid=5702000418&pid=2028597139&timestamp=20261005140228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968129129&ParentNodeID=-99&assertID=5702000418&client_ip=5.199.165.103&SecurityKey=20261005140228&promotionId=&mvid=5106928151&mcid=1003&mpid=120000595256&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=30b425d21cb82aca0e4d6442776b74db&sv=10004&ct=android
+#EXTINF:-1 tvg-id="桐乡55-88余姚" tvg-name="浙BA 桐乡55-88余姚 2026浙江省城市篮球联赛全场回放：桐乡VS余姚（赛场原声） 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-昨天",浙BA 桐乡55-88余姚 2026浙江省城市篮球联赛全场回放：桐乡VS余姚（赛场原声） 19:30
+http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/928/152/5106928152/media/5106928152_5344069443_96.mg001.mp4.m3u8?msisdn=20261005140228c471756368fb43169701a49a66f5377e&mdspid=&spid=800033&netType=0&sid=5702000423&pid=2028597139&timestamp=20261005140228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968129088&ParentNodeID=-99&assertID=5702000423&client_ip=5.199.165.103&SecurityKey=20261005140228&promotionId=&mvid=5106928152&mcid=1003&mpid=120000595257&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4ab968bf81d68a8fd17bb405a229f923&sv=10004&ct=android
+#EXTINF:-1 tvg-id="丽水VS临安" tvg-name="浙BA 丽水VS临安 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-今天",浙BA 丽水VS临安 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic151/53/20220106/index.m3u8?msisdn=202610051402290871a253dab246dea7ac6bf88db764e1&mdspid=&spid=800033&netType=0&sid=7510536903&pid=2028597139&timestamp=20261005140229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=967998601&ParentNodeID=-99&assertID=7510536903&client_ip=5.199.165.103&SecurityKey=20261005140229&promotionId=&mvid=7510268117&mcid=500020&mpid=120000595258&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4d6c760d93b2439702b45fa02c87ea98&sv=10004&ct=android
+#EXTINF:-1 tvg-id="永康VS瑞安" tvg-name="浙BA 永康VS瑞安 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-今天",浙BA 永康VS瑞安 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic152/53/20220106/index.m3u8?msisdn=2026100514022916450c5573c640e685cf380999d72c42&mdspid=&spid=800033&netType=0&sid=7510536919&pid=2028597139&timestamp=20261005140229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=967999586&ParentNodeID=-99&assertID=7510536919&client_ip=5.199.165.103&SecurityKey=20261005140229&promotionId=&mvid=7510268125&mcid=500020&mpid=120000595259&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58dcc4601279eec57d3f56ff40541370&sv=10004&ct=android
+#EXTINF:-1 tvg-id="绍兴VS舟山" tvg-name="浙BA 绍兴VS舟山 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-今天",浙BA 绍兴VS舟山 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic153/53/20220106/index.m3u8?msisdn=20261005140229ecb285d664df44e284d582ba111b6022&mdspid=&spid=800033&netType=0&sid=7510536933&pid=2028597139&timestamp=20261005140229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968000483&ParentNodeID=-99&assertID=7510536933&client_ip=5.199.165.103&SecurityKey=20261005140229&promotionId=&mvid=7510268132&mcid=500020&mpid=120000595260&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4c645eca25af83df248be1f1d93340cf&sv=10004&ct=android
+#EXTINF:-1 tvg-id="undefined" tvg-name="咪咕体育日报 undefined 咪咕体育日报 第202期 08:00" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/fb1c78b1bf20.webp" group-title="体育-明天",咪咕体育日报 undefined 咪咕体育日报 第202期 08:00
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic196/53/20220106/index.m3u8?msisdn=202610051402309b0b523e9037424a83681558add69ca8&mdspid=&spid=800033&netType=0&sid=7510537845&pid=2028597139&timestamp=20261005140230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=968047624&ParentNodeID=-99&assertID=7510537845&client_ip=5.199.165.103&SecurityKey=20261005140230&promotionId=&mvid=7510268588&mcid=500020&mpid=130000194870&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=aa5e65893b5f23c872f0cbd5c2830fc7&sv=10004&ct=android
+#EXTINF:-1 tvg-id="温州VS宁海" tvg-name="浙BA 温州VS宁海 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-明天",浙BA 温州VS宁海 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic151/53/20220106/index.m3u8?msisdn=20261005140232c1803992895748b2be01598cf6766a33&mdspid=&spid=800033&netType=0&sid=7510536905&pid=2028597139&timestamp=20261005140232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=967998673&ParentNodeID=-99&assertID=7510536905&client_ip=5.199.165.103&SecurityKey=20261005140232&promotionId=&mvid=7510268118&mcid=500020&mpid=120000595261&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d0097603f5a2e3256b2459c9bf100f08&sv=10004&ct=android
+#EXTINF:-1 tvg-id="诸暨VS玉环" tvg-name="浙BA 诸暨VS玉环 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-明天",浙BA 诸暨VS玉环 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic152/53/20220106/index.m3u8?msisdn=20261005140232d400172ec0124c11b97abbd89a85d976&mdspid=&spid=800033&netType=0&sid=7510536917&pid=2028597139&timestamp=20261005140232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=967999389&ParentNodeID=-99&assertID=7510536917&client_ip=5.199.165.103&SecurityKey=20261005140232&promotionId=&mvid=7510268124&mcid=500020&mpid=120000595262&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f3a42a7ae75a7b6f0e112f2b1458e199&sv=10004&ct=android
+#EXTINF:-1 tvg-id="金华VS衢州" tvg-name="浙BA 金华VS衢州 赛场原声 19:30" tvg-logo="https://iptv-hub-q7m2.web.zaka.live/logos/56ff8874e97b.webp" group-title="体育-明天",浙BA 金华VS衢州 赛场原声 19:30
+http://hlszymgsplive.miguvideo.com:8080/migu/sports/olympic153/53/20220106/index.m3u8?msisdn=20261005140232e36823c780804ac186d3e85c7d2d0982&mdspid=&spid=800033&netType=0&sid=7510536923&pid=2028597139&timestamp=20261005140232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=967999869&ParentNodeID=-99&assertID=7510536923&client_ip=5.199.165.103&SecurityKey=20261005140232&promotionId=&mvid=7510268127&mcid=500020&mpid=120000595263&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d659c73e16676d02016b383934368217&sv=10004&ct=android

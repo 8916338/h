@@ -11,6 +11,1680 @@
       "quickSearch": 0,
       "indexs": 1,
       "filterable": 1
+    },
+    {
+      "key": "py_ceshi",
+      "name": "白嫖 | py",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/yueer521/Tvbox/main/lib/白嫖影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "可可影视",
+      "name": "可可影视",
+      "type": 3,
+      "api": "https://clun.top/py/kkys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "韩小圈",
+      "name": "韩小圈",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "红果短剧",
+      "name": "🎬红果｜短剧",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "应该可以",
+      "name": "💝分享4|K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "央视PY",
+      "name": "央视丨栏目",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "新影视",
+      "name": "New | 影视",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/新影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jieys",
+      "name": "界影视",
+      "type": 3,
+      "api": "https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "甜圈短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "河马短剧",
+      "name": "河马短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "橘子py",
+      "name": "🙊橘子｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "皮皮虾",
+      "name": "♨️皮虾｜4K",
+      "type": 3,
+      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fy",
+      "name": "🐛枫叶｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱看剧",
+      "name": "爱看丨视频",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追剧",
+      "name": "🐭追剧｜不错",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "华数",
+      "name": "华数｜影视",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/华数.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_嘶哩嘶哩",
+      "name": "🌈嘶哩｜动漫",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_河马短剧[短]",
+      "name": "🥝河马短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/河马短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_剧王短剧[短]",
+      "name": "🥝剧王短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/剧王短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_星星短剧[短]",
+      "name": "🥝星星短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/星星短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_七猫短剧[短]",
+      "name": "🥝七猫短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/七猫短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_西饭短剧[短]",
+      "name": "🥝西饭短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/西饭短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_碎片剧场[短]",
+      "name": "🥝碎片剧场[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/碎片剧场.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_妞妞短剧[短]",
+      "name": "🥝妞妞短剧[短][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/短/妞妞短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_追新影视大全",
+      "name": "🍑追新[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/AppMov.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_TVB云播",
+      "name": "🍑TVB云播[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/Appfox.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_月亮影视",
+      "name": "🍑月亮[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/skapp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_热播影视大全",
+      "name": "🍑热播[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/RJAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_瓜萌视频",
+      "name": "🍑瓜萌[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/XinJie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_拾光视频",
+      "name": "🍑拾光[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/Hmys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_剧永久",
+      "name": "🍑剧永久[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/APPV2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "聚搜",
+      "name": "🚗聚搜｜平安™",
+      "type": 3,
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_央视片库",
+      "name": "🍑央视片库[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/央视片库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_看客TV",
+      "name": "🍑看客TV[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/看客TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_壹影视",
+      "name": "🍑壹影视[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/壹影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_独播库",
+      "name": "🍑独播库[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/独播库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_老地方影院",
+      "name": "🍑老地方[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/老地方影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_47电影天堂",
+      "name": "🍑电影天堂[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/47电影天堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_4K影视",
+      "name": "🍑4K影视[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/4K影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_可可影视",
+      "name": "🍑可可影视[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/可可.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_山有木兮",
+      "name": "🍑山有木兮[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/山有木兮.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_K电影APP",
+      "name": "🍑K电影[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/K-movie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_端木APP",
+      "name": "🍑端木[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/新端木视频3.4单线.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_开端APP",
+      "name": "🍑开端[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/开端.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_哇哇APP",
+      "name": "🍑哇哇[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/app/哇哇APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_爱瓜TVAPP",
+      "name": "🍑爱瓜[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/app/爱瓜TVAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_1905",
+      "name": "🍑1905[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/1905.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_国外剧APP",
+      "name": "🍑国外剧[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/app/国外剧APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_零度",
+      "name": "🍑零度[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/零度.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_爱电影",
+      "name": "🍑爱电影[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/html/爱电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_华数",
+      "name": "🍑华数[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/华数TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_哔哩视频",
+      "name": "🍑哔哩[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/哔哩视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_界影视",
+      "name": "🍑界影视[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/界影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_懒懒视频",
+      "name": "🍑懒懒[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/懒懒视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_麻雀视频",
+      "name": "🍑麻雀[影][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/综/麻雀视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_三号动漫APP",
+      "name": "🍇三号动漫[漫][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/app/三号动漫APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_嗷呜动漫",
+      "name": "🍇嗷呜动漫[漫][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/漫/嗷呜动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_森林动漫",
+      "name": "🍇森林动漫[漫][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/FeiApp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_番薯动漫",
+      "name": "🍇番薯动漫[漫][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/模板/AppGet.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_网易云",
+      "name": "🍈网易云[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/网易云音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_深港音乐",
+      "name": "🍈深港音乐[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/深港音乐汇.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_爱听音乐",
+      "name": "🍈爱听音乐[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/爱听音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_HIFI音乐",
+      "name": "🍈HIFI音乐[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/HIFI音乐APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_YY音乐",
+      "name": "🍈YY音乐[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/yymp3.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_枫叶音乐",
+      "name": "🍈枫叶音乐[音][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/音/枫叶音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_聚合直播[直]",
+      "name": "🥦聚合直播[直][PY]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jak0099/dr/master/py/直/网络直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追番达人",
+      "name": "🐂达人｜平安™",
+      "type": 3,
+      "api": "https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "剧下饭",
+      "name": "♨️下饭｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "抖音直播",
+      "name": "抖音｜直播",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/抖音.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩直播",
+      "name": "哔哩｜直播",
+      "type": 3,
+      "api": "https://tv.sxi.qzz.io/py/哔哩直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "斗鱼｜直播",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/斗鱼直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "虎牙直播",
+      "name": "虎牙｜直播",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/虎牙直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "YY直播",
+      "name": "YY｜直播",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/YY直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "快手直播",
+      "name": "快手｜直播",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/快手直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PPTV",
+      "name": "皮皮｜1K(JX)",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/pp.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩合集",
+      "name": "哔哩｜合集(JX)",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/合集.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩搜合",
+      "name": "哔哩｜合搜(JX)",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/合搜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩综合",
+      "name": "哔哩｜试用(JX)",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/综合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "冠军",
+      "name": "冠军｜替换(JX)",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/冠军.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "19005",
+      "name": "1905｜流畅",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/1905.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "华夏",
+      "name": "华夏｜流畅",
+      "type": 3,
+      "api": "http://nn.4688888.xyz/py/华夏.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影视筛选",
+      "name": "影视筛选",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/豆瓣导航.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yszb",
+      "name": "电视台直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/ywzb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "央卫直播",
+      "name": "央卫直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "咕噜直播",
+      "name": "咕噜直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/glzb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "网络直播",
+      "name": "网络｜直播",
+      "type": 3,
+      "api": "https://tv.sxi.qzz.io/py/网络直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "热播APP",
+      "name": "热播┃PY",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/热播APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "咕噜咕噜",
+      "name": "咕噜4k",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/咕噜咕噜.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影探",
+      "name": "影探4k",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影探.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆花影视",
+      "name": "豆花 | 影院",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/豆花电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "七味",
+      "name": "七味┃PY",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/七味.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看客TV",
+      "name": "看客TV",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/看客TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "橘汁视频",
+      "name": "橘汁视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/橘汁视频（新）.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_文才",
+      "name": "文才影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/apiv585apiv1583文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追影_遮天法",
+      "name": "追影",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/追影_遮天法.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4K影视",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/4K影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "66大片网",
+      "name": "66大片网",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/66大片网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "茶杯狐PY",
+      "name": "茶杯狐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/茶杯狐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小皮影院",
+      "name": "小皮影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小皮影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "极速追剧",
+      "name": "极速追剧",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/极速追剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "多瑙影院",
+      "name": "多瑙影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/多瑙影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "一起看",
+      "name": "一起看",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/一起看.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/苹果影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "808影院",
+      "name": "808影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/808影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ddyy",
+      "name": "低端影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/低端影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ago影院",
+      "name": "ago影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/ago影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kkvm",
+      "name": "可可影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/可可影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蜗牛影视",
+      "name": "蜗牛影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/蜗牛影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "GZ",
+      "name": "瓜子PY",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/瓜子APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "vidhub",
+      "name": "vidhub┃PY",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/vidhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "草莓影视",
+      "name": "草莓影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/草莓影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "初见影视",
+      "name": "初见影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/初见影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "电影侠",
+      "name": "电影侠",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/电影侠.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "毒舌影视",
+      "name": "毒舌影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/毒舌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天龙影院",
+      "name": "天龙影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/天龙影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兔岛影院",
+      "name": "兔岛影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/兔岛影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小苹果.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "真狼影视",
+      "name": "真狼影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/真狼影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "6080新视觉",
+      "name": "6080新视觉",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/6080新视觉.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Auete影视",
+      "name": "Auete影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/Auete影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "宝园",
+      "name": "宝园影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/宝园影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "高清点播",
+      "name": "高清点播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/高清点播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "共青春",
+      "name": "共青春",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/共青春.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "好剧屋",
+      "name": "好剧屋",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/好剧屋.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "华谊影视",
+      "name": "华谊影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影视大全",
+      "name": "影视大全",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影视大全.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hstv",
+      "name": "华数TV",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/华数TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "FoFo影院",
+      "name": "FoFo影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/FoFo影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wstv",
+      "name": "威视TV",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/威视TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "migu",
+      "name": "咪咕视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/migu.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cctv",
+      "name": "央视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/cctv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "哔哩视频",
+      "name": "哔哩视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/哔哩视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/西瓜视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "pomo",
+      "name": "pomo",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "枫叶影院PY",
+      "name": "枫叶影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/枫叶影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "275听书",
+      "name": "275听书",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/275听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "枫叶",
+      "name": "枫叶音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/枫叶.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "KW音乐",
+      "name": "KW音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/KW音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "千千音乐",
+      "name": "千千音乐",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/千千音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "饮料音乐",
+      "name": "饮料音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/饮料音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱听音乐",
+      "name": "爱听丨音乐",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "影子音乐",
+      "name": "影子音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影子音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "音乐聚合",
+      "name": "音乐聚合",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/音乐聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "12年教育",
+      "name": "十二年教育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/十二年教育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小学课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/初中课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "高中课堂",
+      "name": "高中课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/高中课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飞球体育",
+      "name": "飞球体育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/飞球体育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "JRKAN体育",
+      "name": "JRKAN体育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/JRKAN体育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kf",
+      "name": "咖啡体育直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/咖啡直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongguo",
+      "name": "红果·短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hongguo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ejatv",
+      "name": "ejatv",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ejatv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "轻音乐",
+      "name": "轻音乐",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/轻音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "听书网",
+      "name": "听书网",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/听书网456.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "企鹅体育",
+      "name": "企鹅体育",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py/企鹅体育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "耐看点播",
+      "name": "耐看点播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py5/耐看点播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "猎手影视",
+      "name": "猎手影视",
+      "type": 3,
+      "api": "http://47.96.82.41:5188/svip/py/猎手影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "橘汁",
+      "name": "橘汁",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/橘汁.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "追剧达人",
+      "name": "追剧达人",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "咸鱼影视",
+      "name": "咸鱼影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看剧AI",
+      "name": "看剧AI",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "不错",
+      "name": "不错",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "开端影视",
+      "name": "开端影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "枫叶影院",
+      "name": "枫叶影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "布布",
+      "name": "布布",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飞快",
+      "name": "飞快",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/飞快[推].py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飞流视频",
+      "name": "飞流视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/飞流视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "一起影视",
+      "name": "一起影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/一起影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "看戏影视",
+      "name": "看戏影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/看戏影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VS影院",
+      "name": "VS影院",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/VS影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "VIP兔",
+      "name": "VIP兔 | 影视",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/VIP兔.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "蝶卡影视",
+      "name": "蝶卡影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/蝶卡影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "搜TV啦",
+      "name": "搜TV啦",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/搜TV啦.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bl",
+      "name": "❤小哩｜4K测试",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "山木",
+      "name": "♨️山木｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "山楂",
+      "name": "♨️山楂｜4K线路",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "妙看",
+      "name": "🌀妙看｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "多多",
+      "name": "🌀多多｜1920",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "七星短剧",
+      "name": "🎬七星丨短剧",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "TVB云播",
+      "name": "TVB云播 | 影视",
+      "type": 3,
+      "api": "https://tv.sxi.qzz.io/py/TVB云播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "italkbbtv",
+      "name": "ITalkBB｜外",
+      "type": 3,
+      "api": "https://tv.sxi.qzz.io/py/ITalkBBTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽｜短剧",
+      "type": 3,
+      "api": "https://tv.sxi.qzz.io/py/星芽短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷我音乐",
+      "name": "酷我丨音乐",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/酷我音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "FreeOK",
+      "name": "FreeOK | 影视",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/FreeOK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "资源大集合",
+      "name": "资源｜集合",
+      "type": 3,
+      "api": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/搜剧AI.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
