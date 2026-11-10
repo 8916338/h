@@ -1,0 +1,1308 @@
+{
+  "spider": "https://gitee.com/kevin0973/lc/raw/master/lib/lcys.jar",
+  "logo": "https://gitee.com/kevin0973/lc/raw/master/lib/5.gif",
+  "wallpaper": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php",
+  "lives": [
+    {
+      "name": "咪咕1",
+      "type": 0,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+    },
+    {
+      "name": "央卫港",
+      "type": 0,
+      "url": "https://mpimg.cn/down.php/8a7c70ba5d709b2876b54c63d0acda08.txt"
+    },
+    {
+      "name": "咕噜直播",
+      "url": "https://dl.kstore.dev/download/14851/gulu_live.m3u"
+    },
+    {
+      "name": "央卫直播",
+      "type": 0,
+      "url": "https://jianhancloud.cn/lcys/陆城直播.json",
+      "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "央视频",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py",
+      "ext": {},
+      "type": 3
+    },
+    {
+      "name": "裤佬直播",
+      "type": 0,
+      "url": "https://iptv.445569.xyz/live.m3u"
+    },
+    {
+      "name": "体育和地区直播",
+      "type": 0,
+      "url": "https://iptv-hub-q7m2.web.zaka.live/playlist.m3u"
+    },
+    {
+      "name": "祥总直播",
+      "type": 0,
+      "url": "http://xiang.hyperphp.com/migu.txt"
+    },
+    {
+      "name": "GNTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🏮陆城影视🏮（🧨🧨🧨祝大家马上有钱、马到成功！🧨🧨🧨）",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/lcggg.jar",
+      "searchable": 0
+    },
+    {
+      "key": "影视筛选",
+      "name": "影视筛选",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/豆瓣导航.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "更新",
+      "name": "应用商店",
+      "type": 3,
+      "jar": "https://11145.kstore.space/lcby/lib/vox.jar",
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://11145.kstore.space/lcby/lib/market.json"
+    },
+    {
+      "key": "LCYS",
+      "name": "陆城影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/lcys.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "陆城直播",
+      "name": "陆城直播",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14851/lib/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://d.kstore.dev/download/14851/lib/陆城直播.json"
+    },
+    {
+      "key": "豆瓣1",
+      "name": "公告",
+      "type": 3,
+      "api": "csp_Notice",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/jar.php;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+      "ext": "https://gitee.com/kevin0973/lc/raw/master/lib/陆城影视公告.txt"
+    },
+    {
+      "key": "天天",
+      "name": "天天影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/天南.png;md5;939ffbc2941a28ca533f2653fa4b449e",
+      "ext": "https://jianhancloud.cn/lcys/7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
+      "key": "热播影视",
+      "name": "热播影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/lc0828.jar",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "yszb",
+      "name": "电视台直播",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/ywzb.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "央卫直播",
+      "name": "央卫直播",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "咕噜直播",
+      "name": "咕噜直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/glzb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": ""
+    },
+    {
+      "key": "网络直播",
+      "name": "网络直播",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/wlzb.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "热播APP",
+      "name": "热播┃PY",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/热播APP.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/金牌影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "咕噜咕噜",
+      "name": "咕噜4k",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/咕噜咕噜.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "影探",
+      "name": "影探4k",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影探.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "豆花影视",
+      "name": "豆花影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/豆花影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "七味",
+      "name": "七味┃PY",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/七味.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "看客TV",
+      "name": "看客TV",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/看客TV.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "橘汁视频",
+      "name": "橘汁视频",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/橘汁视频（新）.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "py_文才",
+      "name": "文才影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/apiv585apiv1583文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "追影_遮天法",
+      "name": "追影",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/追影_遮天法.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "4K影视",
+      "name": "4K影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/4K影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "66大片网",
+      "name": "66大片网",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/66大片网.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "茶杯狐PY",
+      "name": "茶杯狐",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/茶杯狐.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "小皮影院",
+      "name": "小皮影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小皮影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "极速追剧",
+      "name": "极速追剧",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/极速追剧.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "多瑙影院",
+      "name": "多瑙影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/多瑙影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "一起看",
+      "name": "一起看",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/一起看.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/苹果影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "808影院",
+      "name": "808影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/808影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "ddyy",
+      "name": "低端影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/低端影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "ago影院",
+      "name": "ago影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/ago影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "kkvm",
+      "name": "可可影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/可可影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "蜗牛影视",
+      "name": "蜗牛影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/蜗牛影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "GZ",
+      "name": "瓜子PY",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/瓜子APP.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "vidhub",
+      "name": "vidhub┃PY",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/vidhub.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "草莓影视",
+      "name": "草莓影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/草莓影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "初见影视",
+      "name": "初见影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/初见影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "电影侠",
+      "name": "电影侠",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/电影侠.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "毒舌影视",
+      "name": "毒舌影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/毒舌影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "天龙影院",
+      "name": "天龙影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/天龙影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "兔岛影院",
+      "name": "兔岛影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/兔岛影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小苹果.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "真狼影视",
+      "name": "真狼影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/真狼影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "6080新视觉",
+      "name": "6080新视觉",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/6080新视觉.py",
+      "ext": "",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "Auete影视",
+      "name": "Auete影视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/Auete影视.py",
+      "ext": "",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "宝园",
+      "name": "宝园影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/宝园影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "高清点播",
+      "name": "高清点播",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/高清点播.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "共青春",
+      "name": "共青春",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/共青春.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "好剧屋",
+      "name": "好剧屋",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/好剧屋.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "华谊影视",
+      "name": "华谊影视",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/华谊影视.py",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "影视大全",
+      "name": "影视大全",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影视大全.py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "hstv",
+      "name": "华数TV",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/华数TV.py",
+      "ext": "",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "FoFo影院",
+      "name": "FoFo影院",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/FoFo影院.py",
+      "ext": "",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "wstv",
+      "name": "威视TV",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/威视TV.py",
+      "ext": "",
+      "category": "综合",
+      "searchable": 1
+    },
+    {
+      "key": "migu",
+      "name": "咪咕视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/migu.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "cctv",
+      "name": "央视",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/cctv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "哔哩视频",
+      "name": "哔哩视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/哔哩视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "西瓜视频",
+      "name": "西瓜视频",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/西瓜视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "pomo",
+      "name": "pomo",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "枫叶影院PY",
+      "name": "枫叶影院",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/枫叶影院.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "csp_Jbdj",
+      "name": "聚合┃短剧",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/jkzj.jar",
+      "api": "csp_Jhdj",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "官采",
+      "name": "官采┃[采集]",
+      "type": 1,
+      "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "农民影视",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/260304.jar",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "王子",
+      "name": "王子影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/260304.jar",
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "https://jianhancloud.cn/lcys/5a9w6x58dsq6z3a6",
+        "dataIv": "https://jianhancloud.cn/lcys/5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key": "韩小圈",
+      "name": "韩小圈",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "还行",
+      "name": "无意影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "骚火影视",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xm.jar",
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "泥巴影视",
+      "name": "泥巴影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/kevin0973/lc/raw/master/lib/泥巴影视.json"
+    },
+    {
+      "key": "电影天堂",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "playUrl": "",
+      "categories": [
+        "短剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "动画片"
+      ]
+    },
+    {
+      "key": "360zy",
+      "name": "360zy",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+    },
+    {
+      "key": "机器人弹幕",
+      "name": "机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "360资源短剧",
+      "name": "360┃短剧",
+      "type": 1,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "categories": [
+        "爽文短剧",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧",
+        "女频恋爱",
+        "成长逆袭"
+      ]
+    },
+    {
+      "key": "乐哥特供-VS影院",
+      "name": "VS影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "https://jianhancloud.cn/lcys/User-Agent$MOBILE_UA",
+        "编码": "https://jianhancloud.cn/lcys/UTF-8",
+        "主页url": "https://www.kxdaishu.com/",
+        "数组": "https://jianhancloud.cn/lcys/lazyload\"&&</a>",
+        "标题": "https://jianhancloud.cn/lcys/title=\"&&\"",
+        "图片": "https://jianhancloud.cn/lcys/data-original=\"&&\"",
+        "副标题": "https://jianhancloud.cn/lcys/text-\">&&<",
+        "链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "简介": "https://jianhancloud.cn/lcys/简介：&&</p>",
+        "线路数组": "https://jianhancloud.cn/lcys/\\#playlist&&a>",
+        "线路标题": "https://jianhancloud.cn/lcys/陆城专线",
+        "播放数组": "https://jianhancloud.cn/lcys/class=\"myui-content&&</ul>",
+        "播放列表": "https://jianhancloud.cn/lcys/<a&&a>[不包含:APP秒播]",
+        "播放链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放标题": "https://jianhancloud.cn/lcys/>&&</",
+        "跳转播放链接": "https://jianhancloud.cn/lcys/var player_*\"url\":\"&&\"",
+        "分类url": "https://www.kxdaishu.com/ybsitp/{cateId}-{catePg}.html",
+        "分类": "https://jianhancloud.cn/lcys/电影$1#电视剧$2#综艺$3#动漫$4#动画片$31#短剧$5",
+        "筛选": "1",
+        "类型": "https://jianhancloud.cn/lcys/动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$13||国产剧$17#港台剧$18#日韩剧$20#欧美剧$21#其它剧$22||大陆综艺$23#日韩综艺$24#港台综艺$26#欧美综艺$25||国产动漫$27#日韩动漫$28#欧美动漫$29#其它动漫$30||空||空"
+      }
+    },
+    {
+      "key": "乐哥特供-哆啦新番社",
+      "name": "哆啦A梦",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "https://jianhancloud.cn/lcys/User-Agent$MOBILE_UA",
+        "编码": "https://jianhancloud.cn/lcys/UTF-8",
+        "主页url": "https://dora.xiaoxinbk.com/",
+        "数组": "https://jianhancloud.cn/lcys/class=\"card-img-bili\"&&</a>",
+        "标题": "https://jianhancloud.cn/lcys/alt=\"&&\"",
+        "图片": "https://p3.itc.cn/images01/20210326/93827cff964b4497a04f315ca47d530e.jpeg",
+        "链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放数组": "https://jianhancloud.cn/lcys/class=\"card-body button-list\"&&</div>",
+        "播放列表": "https://jianhancloud.cn/lcys/<a&&a>",
+        "播放链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放标题": "https://jianhancloud.cn/lcys/>&&</",
+        "分类url": "https://www.dora-video.cn/search/sy/?niandai={year}&cat={class}&tag={cateId}&gaojijiansuo=1&zhuangtai={by}",
+        "分类": "https://jianhancloud.cn/lcys/全部$0#动画$20#剧场版$21#MV$22#预告片$23#同人$25#民间$26#中篇$30",
+        "剧情": "https://jianhancloud.cn/lcys/哆啦A梦新番$1#新哆啦A梦 台湾配音$2#哆啦A梦剧场版$3#最新预告片$6#剧场版集合$7#哆啦A梦MV$4#哆啦A梦七小子集合$11#生日特别篇$19#哆啦A梦生日特别篇$12#哆啦美生日特别篇$14#大雄生日特别篇$13#静香生日特别篇$15#胖虎生日特别篇$16#小夫生日特别篇$17#24小时直播$24#哆啦A梦中篇附映$29#哆啦A梦大山版 - 哆啦a梦1979版国语旧版 - 旧版$31#哆啦A梦大山修复&补档区$32#藤子·F·不二雄【其它动画】$33",
+        "排序": "https://jianhancloud.cn/lcys/全部$0#完结$2#连载$1#待定$-1"
+      }
+    },
+    {
+      "key": "乐哥特供-电影先生1",
+      "name": "先生影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "https://jianhancloud.cn/lcys/User-Agent$MOBILE_UA",
+        "编码": "https://jianhancloud.cn/lcys/UTF-8",
+        "主页url": "https://silidm.com/",
+        "数组": "https://jianhancloud.cn/lcys/class=\"module-item-cover\"&&</div>",
+        "标题": "https://jianhancloud.cn/lcys/title=\"&&\"",
+        "图片": "https://jianhancloud.cn/lcys/data-original=\"&&\"",
+        "链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放数组": "https://jianhancloud.cn/lcys/class=\"play-source-content&&</div>",
+        "播放列表": "https://jianhancloud.cn/lcys/<a&&a>",
+        "播放链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放标题": "https://jianhancloud.cn/lcys/>&&</",
+        "线路数组": "https://jianhancloud.cn/lcys/class=\"play-source-tab\"&&div>",
+        "线路标题": "https://jianhancloud.cn/lcys/陆城专线",
+        "跳转播放链接": "https://jianhancloud.cn/lcys/var player_*\"url\":\"&&\"",
+        "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "https://jianhancloud.cn/lcys/电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+      "key": "乐哥特供-4K动漫",
+      "name": "4K┃动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "https://jianhancloud.cn/lcys/User-Agent$MOBILE_UA",
+        "编码": "https://jianhancloud.cn/lcys/UTF-8",
+        "主页url": "https://cn.agekkkk.com/",
+        "数组": "https://jianhancloud.cn/lcys/lazyload\"&&</a>",
+        "标题": "https://jianhancloud.cn/lcys/title=\"&&\"",
+        "图片": "https://jianhancloud.cn/lcys/data-original=\"&&\"",
+        "副标题": "https://jianhancloud.cn/lcys/bbFB text-right\"><b>&&</b>",
+        "链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放数组": "https://jianhancloud.cn/lcys/class=\"play-list-content\"&&</ul>",
+        "播放列表": "https://jianhancloud.cn/lcys/<a&&a>",
+        "播放链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "播放标题": "https://jianhancloud.cn/lcys/>&&</",
+        "线路数组": "https://jianhancloud.cn/lcys/href=\"\\#playlist&&</a>",
+        "线路标题": "https://jianhancloud.cn/lcys/陆城专线",
+        "跳转播放链接": "https://jianhancloud.cn/lcys/urlDecode(var player_*\"url\":\"&&\")",
+        "搜索url": "https://cn.agekkkk.com/search/{wd}----------{pg}---.html",
+        "搜索数组": "https://jianhancloud.cn/lcys/lazyload\"&&</a>",
+        "搜索标题": "https://jianhancloud.cn/lcys/title=\"&&\"",
+        "搜索图片": "https://jianhancloud.cn/lcys/data-original=\"&&\"",
+        "搜索副标题": "https://jianhancloud.cn/lcys/bbFB text-right\"><b>&&</b>",
+        "搜索链接": "https://jianhancloud.cn/lcys/href=\"&&\"",
+        "简介": "https://jianhancloud.cn/lcys/style=\"display: none;\">&&</span>",
+        "分类url": "https://cn.agekkkk.com/type/{cateId}-{catePg}.html",
+        "分类": "https://jianhancloud.cn/lcys/日韩漫$1#国产漫$2#动态漫$5#特摄片$4#欧美漫$3"
+      }
+    },
+    {
+      "key": "275听书",
+      "name": "275听书",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/275听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "枫叶",
+      "name": "枫叶音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/枫叶.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "KW音乐",
+      "name": "KW音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/KW音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "千千音乐",
+      "name": "千千音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/千千音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "饮料音乐",
+      "name": "饮料音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/饮料音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "KG音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/Yoursmile.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "爱听音乐",
+      "name": "爱听音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/爱听音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "影子音乐",
+      "name": "影子音乐",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影子音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "音乐聚合",
+      "name": "音乐聚合",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/音乐聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝",
+      "name": "兔小贝",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/lcby.jar",
+      "ext": "https://gitee.com/kevin0973/lc/raw/master/lib/兔小贝.json"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "兔小贝2",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/lcby.jar",
+      "ext": "https://gitee.com/kevin0973/lc/raw/master/lib/兔小贝2.json"
+    },
+    {
+      "key": "csp_XYQHiker_播视童趣",
+      "name": "播视童趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/lcby.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitee.com/kevin0973/lc/raw/master/lib/播视童趣.json"
+    },
+    {
+      "key": "lycq",
+      "name": "梨园戏曲",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/梨园戏曲.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "12年教育",
+      "name": "十二年教育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/十二年教育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/小学课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/初中课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "高中课堂",
+      "name": "高中课堂",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/高中课堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "瓜子",
+      "name": "瓜子┃体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/fm.png",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "order_num": 0,
+      "changeable": 0
+    },
+    {
+      "key": "飞球体育",
+      "name": "飞球体育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/飞球体育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "JRKAN体育",
+      "name": "JRKAN体育",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/JRKAN体育.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "酷克PHP",
+      "name": "⚽酷克┃[体育]",
+      "type": 4,
+      "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
+      "searchable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "kf",
+      "name": "咖啡体育直播",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/咖啡直播.py",
+      "ext": "",
+      "category": "体育/直播",
+      "searchable": 1
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果短剧",
+      "type": 3,
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/新红短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "push_agent1",
+      "name": "同尘搬源",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "push_agent2",
+      "name": "一切资源均来源于网络",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "仅供学习使用",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+  "rules": [
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "测试解析",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=voxjx&url="
+    },
+    {
+      "name": "龙解析",
+      "type": 1,
+      "url": "https://www.mtosz.com/m3u8.php?url="
+    },
+    {
+      "name": "淘片解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "-云解析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "手动解析①",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析②",
+      "type": 0,
+      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析③",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析④",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "手动解析⑤",
+      "type": 0,
+      "url": "https://okjx.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    }
+  ]
+}

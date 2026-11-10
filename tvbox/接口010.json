@@ -1,0 +1,500 @@
+{
+  "spider": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/jar/XBPQ.jar",
+  "lives": [
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/live/JY_live.txt"
+    }
+  ],
+  "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣┃热播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/豆瓣推荐.js"
+    },
+    {
+      "key": "77",
+      "name": "七七┃影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "drpy_js_007影视",
+      "name": "007┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/007影视.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/360影视.js"
+    },
+    {
+      "key": "drpy_js_9U电影",
+      "name": "9U┃电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/9U电影.js"
+    },
+    {
+      "key": "drpy_js_B站影视",
+      "name": "B站┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/B站影视.js"
+    },
+    {
+      "key": "drpy_js_FreeOK",
+      "name": "FreeOK┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/FreeOK.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "LIBVIO┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_TVB云播",
+      "name": "TVB┃云播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/TVB云播.js"
+    },
+    {
+      "key": "drpy_js_voflix",
+      "name": "voflix┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/voflix.js"
+    },
+    {
+      "key": "drpy_js_两个BT",
+      "name": "BT┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/两个BT.js"
+    },
+    {
+      "key": "drpy_js_低端影视",
+      "name": "低端┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/低端影视.js"
+    },
+    {
+      "key": "drpy_js_农民影视",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/农民影视.js"
+    },
+    {
+      "key": "drpy_js_南瓜",
+      "name": "南瓜┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/南瓜.js"
+    },
+    {
+      "key": "drpy_js_厂长资源",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/厂长资源.js"
+    },
+    {
+      "key": "drpy_js_吼吼",
+      "name": "吼吼┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/吼吼.js"
+    },
+    {
+      "key": "drpy_js_四个圈影视",
+      "name": "四圈┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/四个圈影视.js"
+    },
+    {
+      "key": "drpy_js_多瑙影视",
+      "name": "多瑙┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/多瑙影视.js"
+    },
+    {
+      "key": "drpy_js_大师兄影视",
+      "name": "师兄┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大师兄影视.js"
+    },
+    {
+      "key": "drpy_js_大米星球",
+      "name": "大米┃星球",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/大米星球.js"
+    },
+    {
+      "key": "drpy_js_搜狗视频",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/搜狗视频.js"
+    },
+    {
+      "key": "drpy_js_欧帝影院",
+      "name": "欧帝┃影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/欧帝影院.js"
+    },
+    {
+      "key": "drpy_js_热播库",
+      "name": "热播库┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/热播库.js"
+    },
+    {
+      "key": "drpy_js_爱奇艺",
+      "name": "爱奇艺┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱奇艺.js"
+    },
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看┃机器",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/爱看机器人.js"
+    },
+    {
+      "key": "drpy_js_电影先生",
+      "name": "电影┃先生",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/电影先生.js"
+    },
+    {
+      "key": "drpy_js_看了么",
+      "name": "看了┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/看了么.js"
+    },
+    {
+      "key": "drpy_js_秋霞",
+      "name": "秋霞┃电影",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/秋霞.js"
+    },
+    {
+      "key": "drpy_js_米爱影视",
+      "name": "米爱┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/米爱影视.js"
+    },
+    {
+      "key": "drpy_js_素白白",
+      "name": "素白白┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/素白白.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞┃影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+    },
+    {
+      "key": "drpy_js_网飞.TV",
+      "name": "网飞┃影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/网飞.TV.js"
+    },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "胖虎┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/胖虎影视.js"
+    },
+    {
+      "key": "drpy_js_芒果",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/芒果.js"
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "荐片┃视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/荐片.js"
+    },
+    {
+      "key": "drpy_js_西瓜影视",
+      "name": "西瓜┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/西瓜影视.js"
+    },
+    {
+      "key": "drpy_js_起飞影院",
+      "name": "起飞┃影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/起飞影院.js"
+    },
+    {
+      "key": "drpy_js_金曼影视",
+      "name": "金曼┃影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/金曼影视.js"
+    },
+    {
+      "key": "drpy_js_69美剧",
+      "name": "69┃美剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/js/69美剧.js"
+    }
+  ],
+  "rules": [
+    {
+      "host": "www.djuu.com",
+      "rule": [
+        "mp4.djuu.com",
+        "m4a"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "sovv.qianpailive.com",
+        "vid="
+      ],
+      "filter": []
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "douyin.com",
+        "/play/"
+      ]
+    },
+    {
+      "host": "m.ysxs8.vip",
+      "rule": [
+        "ysting.ysxs8.vip:81",
+        "xmcdn.com"
+      ],
+      "filter": []
+    },
+    {
+      "host": "hdmoli.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://api.live.bilibili.com",
+      "rule": [
+        "bilivideo.com",
+        "/index.m3u8"
+      ],
+      "filter": [
+        "data.bilibili.com/log/web",
+        "i0.hdslb.com/bfs/live/"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.fun4k.com",
+      "rule": [
+        "https://hd.ijycnd.com/play",
+        "index.m3u8"
+      ]
+    },
+    {
+      "host": "zjmiao.com",
+      "rule": [
+        "play.videomiao.vip/API.php",
+        "time=",
+        "key=",
+        "path="
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "杰森",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "战狼",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": ""
+        }
+      }
+    },
+    {
+      "name": "不累",
+      "type": 0,
+      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "qq",
+          "letv",
+          "sohu",
+          "youku",
+          "mgtv",
+          "bilibili",
+          "wasu",
+          "xigua",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "cod",
+      "type": 0,
+      "url": "https://ksksl.codjx.com/?url="
+    },
+    {
+      "name": "byg解析",
+      "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "26db",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "FreeOK",
+      "type": 0,
+      "url": "https://play.86516.tk/OKPlayer/?url="
+    },
+    {
+      "name": "free",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    }
+  ],
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+}

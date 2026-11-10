@@ -1,0 +1,985 @@
+{
+  "wallpaper": "https://picsum.photos/1280/720",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;9f391d889e28d3c40092fabb562f408c",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://tv.520993.xyz/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly90djEubGFuMndhbi50b3AvbGl2ZS50eHQ="
+          ]
+        }
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "key": "csp_DoubanForTVBox",
+      "name": "💕防失联关注公众号[CandyMuj]",
+      "type": 3,
+      "api": "csp_DoubanForTVBox",
+      "searchable": 0
+    },
+    {
+      "key": "csp_CandyMuj_freeok",
+      "name": "💖FreeOK",
+      "type": 3,
+      "api": "csp_CandyMuj_freeok",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/freeok.json"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "💖玩偶影视4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/CandyMuj",
+        "filter": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/wogg.json"
+      }
+    },
+    {
+      "key": "csp_CandyMuj_hjtv",
+      "name": "💖韩剧TV",
+      "type": 3,
+      "api": "csp_CandyMuj_hjtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_netflixgc",
+      "name": "💖奈飞工厂",
+      "type": 3,
+      "api": "csp_CandyMuj_netflixgc",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/netflixgc.json"
+    },
+    {
+      "key": "csp_CandyMuj_haokongbu",
+      "name": "💖好恐怖",
+      "type": 3,
+      "api": "csp_CandyMuj_haokongbu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_taoju",
+      "name": "💖淘剧影院",
+      "type": 3,
+      "api": "csp_CandyMuj_taoju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_dyls",
+      "name": "💖极速影视",
+      "type": 3,
+      "api": "csp_CandyMuj_dyls",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/dyls.json"
+    },
+    {
+      "key": "csp_CandyMuj_cokemv",
+      "name": "💖Cokemv",
+      "type": 3,
+      "api": "csp_CandyMuj_cokemv",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_yinfans",
+      "name": "💖音范丝4K(磁力)",
+      "type": 3,
+      "api": "csp_CandyMuj_yinfans",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_nkvod",
+      "name": "💖耐看点播",
+      "type": 3,
+      "api": "csp_CandyMuj_nkvod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_yzzy",
+      "name": "💖优质资源",
+      "type": 3,
+      "api": "csp_CandyMuj_yzzy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_qiqiyy",
+      "name": "💖琪琪影院",
+      "type": 3,
+      "api": "csp_CandyMuj_qiqiyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_CandyMuj_lm5",
+      "name": "💖星辰影院",
+      "type": 3,
+      "api": "csp_CandyMuj_lm5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_CandyMuj_duanju",
+      "name": "💕短剧网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/短剧网.js"
+    },
+    {
+      "key": "csp_XBPQ_短剧吧",
+      "name": "💕短剧吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+        "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
+      },
+      "jar": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/jar/xbpq.jar"
+    },
+    {
+      "key": "csp_CandyMuj_iwant",
+      "name": "💖iwant(墙外)",
+      "type": 3,
+      "api": "csp_CandyMuj_iwant",
+      "click": ".vjs-big-play-button",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/192.168.101.11:10031"
+    },
+    {
+      "key": "csp_CandyMuj_rou",
+      "name": "💖肉视频(墙外)",
+      "type": 3,
+      "api": "csp_CandyMuj_rou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/192.168.101.11:10031"
+    },
+    {
+      "key": "csp_Bili_1",
+      "name": "💕哔哩综合",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/综合.json"
+      }
+    },
+    {
+      "key": "我的哔哩(js)",
+      "name": "💕哔哩合集",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/我的哔哩.js"
+    },
+    {
+      "key": "csp_Bili_2",
+      "name": "💕幼儿少儿",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/幼儿少儿.json"
+      }
+    },
+    {
+      "key": "csp_Bili_3",
+      "name": "💕国学",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/国学.json"
+      }
+    },
+    {
+      "key": "csp_Bili_4",
+      "name": "💕科学",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/科学.json"
+      }
+    },
+    {
+      "key": "csp_Bili_5",
+      "name": "💕小学课堂",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/小学.json"
+      }
+    },
+    {
+      "key": "csp_Bili_6",
+      "name": "💕初中课堂",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/初中.json"
+      }
+    },
+    {
+      "key": "csp_Bili_7",
+      "name": "💕高中课堂",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/高中.json"
+      }
+    },
+    {
+      "key": "csp_Bili_9",
+      "name": "💕相声小品",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/相声小品.json"
+      }
+    },
+    {
+      "key": "csp_Bili_8",
+      "name": "💕健身",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/健身.json"
+      }
+    },
+    {
+      "key": "csp_Bili_10",
+      "name": "💕戏曲",
+      "type": 3,
+      "api": "csp_Bili1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/bili/戏曲.json"
+      }
+    },
+    {
+      "key": "JZTV3┃动漫-动漫巴士",
+      "name": "💕动漫巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/json/dmbs.json"
+    },
+    {
+      "key": "JZTV3┃影视-NanGua",
+      "name": "💕南瓜(标清)",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "changeable": 2,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/null$$$1",
+      "jar": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/jar/xhkw0104.jar"
+    },
+    {
+      "key": "JZTV4┃追剧-csp_xBPQ_TVB",
+      "name": "💕TVB云播(标清)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/json/TVB云播.json"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "💕厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1
+    },
+    {
+      "key": "厂长(js)",
+      "name": "💕厂长-备用",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/厂长资源.js"
+    },
+    {
+      "key": "csp_Ddrk",
+      "name": "💕低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "click": "ddys.pro;#vjsp > button",
+      "searchable": 1
+    },
+    {
+      "key": "低端(js)",
+      "name": "💕低端影视-备用",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/ddys.js"
+    },
+    {
+      "key": "子子影视(js)",
+      "name": "💕子子影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/子子影视.js"
+    },
+    {
+      "key": "两个BT(js)",
+      "name": "💕两个BT",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/两个BT.js"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "💕动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1
+    },
+    {
+      "key": "怡萱动漫(js)",
+      "name": "💕怡萱动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/怡萱动漫.js"
+    },
+    {
+      "key": "csp_BTPiaoHua",
+      "name": "💕新飘花电影网(磁力)",
+      "type": 3,
+      "api": "csp_BTPiaoHua",
+      "searchable": 1
+    },
+    {
+      "key": "csp_SixV",
+      "name": "💕6V电影网(磁力)",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "ext": "https://www.6vdy.org/"
+    },
+    {
+      "key": "csp_Live2Vod_1",
+      "name": "💕电视直播",
+      "type": 3,
+      "api": "csp_Live2Vod",
+      "searchable": 0,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/南风$https:/gcore.jsdelivr.net/gh/yoursmile66/TVBox/live.txt#饭太硬$https://www.huichunniao.cn/xh/lib/live.txt&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider@main/other/pic/live.png"
+    },
+    {
+      "key": "csp_Live2Vod_2",
+      "name": "💕电视直播(远程配置版)",
+      "type": 3,
+      "api": "csp_Live2Vod",
+      "searchable": 0,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/live.json"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "💕直播综合",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_童趣",
+      "name": "💕童趣(少儿)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/童趣.js"
+    },
+    {
+      "key": "drpy_js_兔小贝",
+      "name": "💕兔小贝(少儿)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/兔小贝.js"
+    },
+    {
+      "key": "drpy_js_有声绘本网",
+      "name": "💕有声绘本(少儿)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"
+    },
+    {
+      "key": "csp_zhibo_douyu",
+      "name": "💕斗鱼直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/斗鱼直播.js"
+    },
+    {
+      "key": "csp_zhibo_huya",
+      "name": "💕虎牙直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/虎牙直播.js"
+    },
+    {
+      "key": "csp_zhibo_bili",
+      "name": "💕哔哩直播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/哔哩直播.js"
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "💕310直播(体育)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js"
+    },
+    {
+      "key": "drpy_js_88看球",
+      "name": "💕88看球(体育)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/88看球.js"
+    },
+    {
+      "key": "JZTV1┃看球-88看球",
+      "name": "💕88看球(体育)-备1",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/js/88看球.js"
+    },
+    {
+      "key": "JZTV2┃看球-看球",
+      "name": "💕看球(体育)",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/jztv/jar/xhkw0104.jar"
+    },
+    {
+      "key": "drpy_js_JRKAN直播",
+      "name": "💕JRKAN直播(体育)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js"
+    },
+    {
+      "key": "drpy_js_抓饭体育",
+      "name": "💕抓饭体育(体育)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/js/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js"
+    },
+    {
+      "key": "csp_Local",
+      "name": "💕本地",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_AList",
+      "name": "💕AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/conf/alist.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "🍓推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "ext": {
+        "domain": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/",
+        "aliToken": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/CandyMuj"
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/Demo"
+    },
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/Parallel"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/Sequence"
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "醉仙",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url="
+    },
+    {
+      "name": "playerjy",
+      "type": 0,
+      "url": "https://jx.playerjy.com/?url="
+    },
+    {
+      "name": "BL",
+      "type": 0,
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "http://www.pangujiexi.cc/jiexi.php?url="
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "CK",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "ZJTV在线",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "m3u8-77lehuo",
+      "type": 0,
+      "url": "https://player.77lehuo.com/aliplayer/?url="
+    },
+    {
+      "name": "m3u8-dadiapi",
+      "type": 0,
+      "url": "https://play.dadiapi.com/watch?url="
+    },
+    {
+      "name": "m3u8-ttbfp1",
+      "type": 0,
+      "url": "https://jiexi.ttbfp1.com/m3u8/?url="
+    },
+    {
+      "name": "m3u8-zykbf",
+      "type": 0,
+      "url": "https://vip.zykbf.com/?url="
+    },
+    {
+      "name": "m3u8-jx",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "m3u8-sstv",
+      "type": 0,
+      "url": "https://live.fanmingming.com/player/?vurl="
+    },
+    {
+      "name": "m3u8-PM",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
+    }
+  ],
+  "rules": [
+    {
+      "host": "rebozj.pro",
+      "rule": [
+        ".mp4",
+        ".m3u8",
+        "https://p3-sign.douyinpic.com",
+        "m3u8"
+      ]
+    },
+    {
+      "host": "brovod.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "https://www1.gntv.live",
+      "rule": [
+        ".m3u8",
+        "m3u8?",
+        "4k.clyjx.cn:97"
+      ]
+    },
+    {
+      "host": "renren.pro",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "v.t-ui.cn",
+      "rule": [
+        ".m3u8",
+        "m3u8?",
+        "vip.ffzy-play4.com"
+      ]
+    },
+    {
+      "host": "cj.ffzyapi.com",
+      "rule": [
+        ".m3u8",
+        "m3u8?"
+      ]
+    },
+    {
+      "host": "siguyy.com",
+      "rule": [
+        "mp4",
+        ".m3u8",
+        "https://ccp-bj29-video-preview.oss-enet.aliyuncs.com",
+        "aliyuncs.com"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "host": "movie.bulei.cc",
+      "rule": [
+        ".mp4",
+        ".m3u8",
+        "?vkey=",
+        "1ftn_handler",
+        "http://1.71.18.153",
+        "mu.dcd1.cn",
+        "aliyundrive.net",
+        "m3u8"
+      ]
+    },
+    {
+      "host": "jx.jsonplayer.com",
+      "rule": [
+        ".mp4",
+        ".m3u8",
+        "?vkey=",
+        "110.42.2.115",
+        "m3u8"
+      ]
+    },
+    {
+      "host": "v.3412.net.cn",
+      "rule": [
+        ".mp4",
+        "security-token=",
+        "aliyuncs.com",
+        "m3u8",
+        ".m3u8",
+        ".m3u8?"
+      ]
+    },
+    {
+      "host": "piaku.cc",
+      "rule": [
+        ".mp4",
+        ".m3u8",
+        "?auth_token",
+        "m3u8"
+      ]
+    },
+    {
+      "name": "海外看",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "#EXTINF:(0|1|2|7\\.90).*?\\s+.*?921c07e8bfad6789.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "暴风",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ]
+}

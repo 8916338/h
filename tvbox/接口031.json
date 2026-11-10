@@ -1,0 +1,37 @@
+{
+  "spider": "https://ym.wya6.cn/tz/wyxs.php;md5;803ee0bcfa247f0cb839b914e8aea5dd",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://jikefuye.cn/touxiang.jpg",
+  "sites": [
+    {
+      "key": "douban",
+      "name": "防失联加Q群:719390643",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/MMpQwoycF4anEkz5K1ZfMO0mqIDjObj5/豆瓣.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "name": "盛世直播"
+    },
+    {
+      "name": "Jack直播(翻)",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://mg.cttv.vip/index.php/m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://www.cttv.vip/ys/images/{name}.png"
+    }
+  ],
+  "parses": []
+}

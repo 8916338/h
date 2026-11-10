@@ -1,0 +1,562 @@
+{
+  "spider": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/JAR/XiaoYiChaHang.jar",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/TV/zby.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ],
+  "sites": [
+    {
+      "key": "js_豆瓣荐片",
+      "name": "🅱️追剧影院|T热播",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/JS/lib/doubanjianpian1.js",
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/JS/js/doubanjianpian2.js"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🅱️荷城量子|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/量子资源网.json"
+    },
+    {
+      "key": "csp_非凡",
+      "name": "🅱️茶秀非凡|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/非凡资源网.json"
+    },
+    {
+      "key": "csp_端木",
+      "name": "🅱️端木蓝光|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/端木蓝光.json"
+    },
+    {
+      "key": "csp_魔力",
+      "name": "🅱️魔力影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/魔力影视.json"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "🅱️明帝影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/明帝影视.json"
+    },
+    {
+      "key": "csp_落攻阁",
+      "name": "🅱️落攻影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/落攻阁影视.json"
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "🅱️奇优影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/奇优影视.json"
+    },
+    {
+      "key": "csp_xBPQ_二次萌",
+      "name": "🅱️慈盟影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/二次萌影视.json"
+    },
+    {
+      "key": "csp_小站",
+      "name": "🅱️无名小站|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/无名小站.json"
+    },
+    {
+      "key": "csp_莫扎兔",
+      "name": "🅱️墨图影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/莫扎兔.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🅱️农民影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/农民影视.json"
+    },
+    {
+      "key": "csp_西瓜",
+      "name": "🅱️西瓜影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/西瓜影视.json"
+    },
+    {
+      "key": "csp_我爱",
+      "name": "🅱️我爱看剧|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/52看剧.json"
+    },
+    {
+      "key": "csp_xBPQ_视觉",
+      "name": "🅱️视觉影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/新视觉影视.json"
+    },
+    {
+      "key": "csp_91",
+      "name": "🅱️玖摇影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/91影视.json"
+    },
+    {
+      "key": "csp_Free",
+      "name": "🅱️Free影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/Free影视.json"
+    },
+    {
+      "key": "csp_xBPQ_神马",
+      "name": "🅱️神马影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/神马影视.json"
+    },
+    {
+      "key": "csp_看看",
+      "name": "🅱️看看影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/看看剧.json"
+    },
+    {
+      "key": "csp_土豪",
+      "name": "🅱️土豪影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/土豪影视.json"
+    },
+    {
+      "key": "csp_蛋蛋",
+      "name": "🅱️蛋蛋影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/蛋蛋影视.json"
+    },
+    {
+      "key": "csp_xBPQ_野荷塘",
+      "name": "🅱️荷塘影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/野荷塘影视.json"
+    },
+    {
+      "key": "csp_xBPQ_思古",
+      "name": "🅱️思古影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/思古影视.json"
+    },
+    {
+      "key": "csp_花猫",
+      "name": "🅱️花猫影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/花猫影视.json"
+    },
+    {
+      "key": "csp_xBPQ_66",
+      "name": "🅱️鎏琉影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/66影视.json"
+    },
+    {
+      "key": "csp_xBPQ_油壶",
+      "name": "🅱️油壶影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/油壶影视.json"
+    },
+    {
+      "key": "csp_xBPQ_口袋",
+      "name": "🅱️口袋影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/口袋影视.json"
+    },
+    {
+      "key": "csp_大米",
+      "name": "🅱️大米星球|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/大米星球.json"
+    },
+    {
+      "key": "csp_爱看",
+      "name": "🅱️爱看影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/爱看影视.json"
+    },
+    {
+      "key": "csp_王者",
+      "name": "🅱️王者影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/王者影视.json"
+    },
+    {
+      "key": "csp_段友",
+      "name": "🅱️段友影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/段友影视.json"
+    },
+    {
+      "key": "csp_大豆",
+      "name": "🅱️大豆高清|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/大豆高清.json"
+    },
+    {
+      "key": "py_cctv_full",
+      "name": "📺央视栏目大全",
+      "type": 3,
+      "api": "py_cctv_full",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/TV/py_ysdq.py"
+    },
+    {
+      "key": "py_cctv",
+      "name": "📺央视栏目自选",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/TV/py_yszx.py"
+    },
+    {
+      "key": "YiSo",
+      "name": "🔍阿里|易搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"
+    },
+    {
+      "key": "PanSou",
+      "name": "🔍阿里|盘搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"
+    },
+    {
+      "key": "UpYun",
+      "name": "🔍阿里|优盘搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🔍阿里|找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/hkyh/ysm/raw/branch/master/token/alitoken.txt"
+    },
+    {
+      "key": "mtv_xp_动漫巴士",
+      "name": "动漫丨巴士",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/动漫巴士.json"
+    },
+    {
+      "key": "mtv_xp_维奇动漫",
+      "name": "维奇丨动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/维奇动漫.json"
+    },
+    {
+      "key": "演唱会自定义",
+      "name": "👀看演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/看演唱会.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "👀相声小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/相声小品.json"
+    },
+    {
+      "key": "美食",
+      "name": "️🅱天下美食",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/天下美食.json"
+    },
+    {
+      "key": "mtv_xp_儿童乐园",
+      "name": "🅱儿童乐园",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/儿童乐园.json"
+    },
+    {
+      "key": "mtv_xp_学习课堂",
+      "name": "🅱学习课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/学习课堂.json"
+    },
+    {
+      "key": "mtv_xp_戏曲杂苑",
+      "name": "🅱戏曲杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/xBPQ/戏曲杂苑.json"
+    }
+  ],
+  "parses": [
+    {
+      "name": "白茶嗅探",
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "showType": 1
+    },
+    {
+      "name": "青柑嗅探",
+      "type": 0,
+      "url": "http://www.miaoys.cc/vip/?url="
+    },
+    {
+      "name": "岩茶嗅探",
+      "type": 0,
+      "url": "https://jx.ppjbk.cn/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "小种嗅探",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "普洱嗅探",
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "红茶嗅探",
+      "type": 0,
+      "url": "https://jx.4kdv.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        },
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    }
+  ]
+}
