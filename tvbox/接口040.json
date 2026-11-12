@@ -24,6 +24,11 @@
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "全网通",
+      "type": 0,
+      "url": "https://jianhancloud.cn/lcys/%E5%85%A8%E7%BD%91%E5%A4%AE%E5%8D%AB%E7%9B%B4%E6%92%AD.json"
+    },
+    {
       "name": "央视频",
       "api": "https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py",
       "ext": {},

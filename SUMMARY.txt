@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261112_063141
+TVBox 接口抓取报告  20261113_060640
 ==============================================================
 
 [接口001] okhttp/3.15
@@ -226,10 +226,10 @@ TVBox 接口抓取报告  20261112_063141
   文件: tvbox/接口045.json
   成功URL: http://zhangqun1818.serv00.net/zq/api.json
 
-[接口046] okhttp/3.15
-  状态: JSON
-  文件: tvbox/接口046.json
-  成功URL: https://raw.giteeusercontent.com/wpider/original-aspiration/raw/master/%E5%88%9D%E5%BF%83.json
+[接口046] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [接口047] okhttp/3.15
   状态: JSON
