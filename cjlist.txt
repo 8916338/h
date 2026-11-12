@@ -59,12 +59,11 @@ csp_xml_光速|❤光速资源|type: 1|api: https://api.guangsuapi.com/api.php/p
 zy360|360资源|type: 1|api: https://360zy.com/api.php/provide/vod/?ac=list
 快车资源|快车资源|type: 1|api: https://caiji.kczyapi.com/api.php/provide/vod/
 日诚影院|日诚影院(聚)|type: 1|api: http://tv.rcz168.com/api.php/provide/vod/
-魔都动漫|🌻魔都动漫🌻|type: 1|api: https://caiji.moduapi.cc/api.php/provide/vod
 无尽资源|无尽资源(切)|type: 1|api: https://wujinzy.com/api.php/provide/vod/
 vod_光速|雷蒙影视 | 🚀光速|type: 1|api: https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list
-mdzy|魔都资源|type: 1|api: https://www.mdzyapi.com/api.php/provide/vod/?ac=list
 ruyi|如意资源|type: 1|api: https://cj.rycjapi.com/api.php/provide/vod/?ac=list
 巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
+TV无尽|🌻TV无尽🌻|type: 1|api: https://api.wujinapi.cc/api.php/provide/vod
 csp_xml_CK资源|🐝CK资源|type: 1|api: https://ckzy.me/api.php/provide/vod/
 爱奇艺会员〔官源〕|🐝爱奇艺〔官源〕|type: 1|api: https://ikaola.tv/api.php/provide/vod/from/qiyi/?ac=list
 优酷视频会员〔官源〕|🐝优酷〔官源〕|type: 1|api: https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list
@@ -110,6 +109,7 @@ csp_xml_鱼乐资源|🐝鱼乐资源|type: 1|api: https://www.ylzy1.com/api.php
 MV_vod|🎶明星┃MV|type: 1|api: https://mv.wogg.link/mv/vod
 猫咪资源|猫咪影院|type: 1|api: http://zy.xmm.hk/api.php/provide/vod/?ac=list
 旺旺|旺旺短剧|type: 1|api: https://api.wwzy.tv/api.php/provide/vod/?ac=list
+魔都资源|魔都影院|type: 1|api: https://www.mdzyapi.com/api.php/provide/vod/?ac=list
 电影天堂|影视 | 电影天堂|type: 1|api: http://caiji.dyttzyapi.com/api.php/provide/vod
 天涯资源|天涯资源|type: 1|api: https://tyyszyapi.com/api.php/provide/vod/at/?ac=list
 非凡资源|非凡资源|type: 1|api: http://api.ffzyapi.com/api.php/provide/vod/?ac=list
@@ -159,6 +159,7 @@ t1_爱奇艺|🍃爱奇艺┃采集|type: 1|api: https://www.iqiyizyapi.com/api.
 t1_豆瓣|🍃豆瓣┃采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/
 如意|如意｜平安™|type: 1|api: https://cj.rycjapi.com/api.php/provide/vod/
 淘片|淘片｜平安™|type: 0|api: https://taopianapi.com/cjapi/mc/vod/xml
+52a69bcb-934b-47a8-8315-75c9d6bbd194|魔漫｜平安™|type: 1|api: https://caiji.moduapi.cc/api.php/provide/vod/
 a9e6e326-5a44-5764-fcd1-addc4c76ab76|最大｜平安™|type: 1|api: https://api.zuidapi.com/api.php/provide/vod/
 6768cdcf-4d18-5fef-10d2-98d513b1f991|新浪｜平安™|type: 1|api: https://api.xinlangapi.com/xinlangapi.php/provide/vod/
 飘零影视|飘零影视|type: 1|api: https://p2100.net/api.php/provide/vod/?ac=list
@@ -266,6 +267,8 @@ OK|OK|点播|type: 1|api: https://okzyw9.com/api.php/provide/vod/
 csp_xml_yule|🐝鱼乐资源|type: 1|api: https://api.ylzy.me/api.php/provide/vod/
 csp_xml_ok资源|🐝ok资源|type: 1|api: https://api.okzy.org/api.php/provide/vod/
 csp_xml_麻花资源|🐝麻花资源|type: 1|api: https://api.1080zyku.com/inc/api_mac10.php
+魔都动漫|🌻魔都动漫🌻|type: 1|api: https://caiji.moduapi.cc/api.php/provide/vod
+mdzy|魔都资源|type: 1|api: https://www.mdzyapi.com/api.php/provide/vod/?ac=list
 haiwaikan|海外看|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 暴風|影视 | 暴風[直连]|type: 1|api: https://bfzyapi.com/api.php/provide/vod/?ac=list
 量子|量子|type: 1|api: https://cj.lziapi.com/api.php/provide/vod

@@ -589,6 +589,12 @@
       "source": "接口040"
     },
     {
+      "name": "全网通",
+      "url": "https://jianhancloud.cn/lcys/%E5%85%A8%E7%BD%91%E5%A4%AE%E5%8D%AB%E7%9B%B4%E6%92%AD.json",
+      "ua": "",
+      "source": "接口040"
+    },
+    {
       "name": "裤佬直播",
       "url": "https://iptv.445569.xyz/live.m3u",
       "ua": "",
