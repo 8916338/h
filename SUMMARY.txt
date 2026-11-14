@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261114_054935
+TVBox 接口抓取报告  20261115_042911
 ==============================================================
 
 [接口001] okhttp/3.15
@@ -62,7 +62,7 @@ TVBox 接口抓取报告  20261114_054935
   成功URL: https://raw.githubusercontent.com/niuo0/tvbox/main/tvbox.json
 
 [接口013] okhttp/3.15
-  状态: JSON
+  状态: TEXT
   文件: tvbox/接口013.json
   成功URL: https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json
 

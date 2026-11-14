@@ -202,6 +202,86 @@
       "type": 3
     },
     {
+      "key": "大师兄影视",
+      "name": "大师兄影视",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "https://jianhancloud.cn/lcys/AppV7Dsx",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "闪电APP",
+      "name": "闪电APP",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAiYueYueGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "粉猪追剧",
+      "name": "粉猪追剧",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "https://jianhancloud.cn/lcys/AppV7Fz",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "咸鱼APP",
+      "name": "咸鱼APP",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "https://jianhancloud.cn/lcys/AppV7Xy",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "蒙太奇",
+      "name": "蒙太奇",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "https://jianhancloud.cn/lcys/AppV7Mtq",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
+      "key": "零零七影视",
+      "name": "零零七影视",
+      "type": 3,
+      "jar": "https://gitee.com/kevin0973/lc/raw/master/lib/xs1.jpg",
+      "api": "csp_WexAppV7Guard",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "config": "https://jianhancloud.cn/lcys/AppV7Llq",
+        "proxyImg": false
+      },
+      "timeout": 120
+    },
+    {
       "key": "影探",
       "name": "影探4k",
       "api": "https://gitee.com/kevin0973/lc/raw/master/lib/影探.py",
