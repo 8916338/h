@@ -1015,7 +1015,7 @@
       "key": "草莓影视",
       "name": "草莓影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/草莓影视.py",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/草莓影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1033,7 +1033,7 @@
       "key": "电影侠",
       "name": "电影侠",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/电影侠.py",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/电影侠.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1141,7 +1141,7 @@
       "key": "华谊影视",
       "name": "华谊影视",
       "type": 3,
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/华谊影视.py",
+      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/华谊影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1700,6 +1700,15 @@
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ptt影院",
+      "name": "ptt影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ptt影院.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

@@ -133,48 +133,6 @@
       "source": "接口010"
     },
     {
-      "name": "🐯牛虎 ┃ 官方综合",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "EasyTV ┃ 熵侦卫视",
-      "url": "https://easyzz.dpdns.org/api/tv.png",
-      "ua": "",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.allinone",
-      "url": "http://127.0.0.1:35457/tv.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.bililive",
-      "url": "http://127.0.0.1:35457/bililive.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.huyayqk",
-      "url": "http://127.0.0.1:35457/huyayqk.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.douyuyqk",
-      "url": "http://127.0.0.1:35457/douyuyqk.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.yylunbo",
-      "url": "http://127.0.0.1:35457/yylunbo.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
       "name": "live3线",
       "url": "https://tv.520993.xyz/live.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",

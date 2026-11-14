@@ -518,9 +518,9 @@
     },
     {
       "key": "极速资源",
-      "name": "极速影院",
+      "name": "极速资源",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1060,7 +1060,7 @@
       "key": "360资源",
       "name": "360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/at/json",
+      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2228,7 +2228,7 @@
     },
     {
       "key": "U酷资源風",
-      "name": "影视 • 尤酷[直连]",
+      "name": "影视 | 尤酷[直连]",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -2510,6 +2510,42 @@
       "name": "巨量资源",
       "type": 1,
       "api": "https://api.juliang.live/api/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_红牛资源",
+      "name": "🐝红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taopian",
+      "name": "🕹️淘片┃采集",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🚨暴风",
+      "name": "暴风资源🔥无界",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "未来4K",
+      "name": "未来4K",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
