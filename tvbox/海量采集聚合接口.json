@@ -518,9 +518,9 @@
     },
     {
       "key": "极速资源",
-      "name": "极速资源",
+      "name": "极速影院",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1060,7 +1060,7 @@
       "key": "360资源",
       "name": "360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/?ac=list",
+      "api": "https://360zy.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2228,7 +2228,7 @@
     },
     {
       "key": "U酷资源風",
-      "name": "影视 | 尤酷[直连]",
+      "name": "影视 • 尤酷[直连]",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,

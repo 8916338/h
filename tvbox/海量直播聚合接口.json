@@ -133,6 +133,90 @@
       "source": "接口010"
     },
     {
+      "name": "🐯牛虎 ┃ 官方综合",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🍚饭太硬 ┃ 精选频道",
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🐎小马综合 ┃ 高清直播",
+      "url": "https://szyyds.cn/tv/live/x.txt",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "📡自动更新 ┃ 全国电视",
+      "url": "https://z.szyyds.cn/iptv",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🎵音乐台 ┃ 现场MV",
+      "url": "https://szyyds.cn/tv/live/yy.txt",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🐯虎牙 ┃ 一起看公网",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "📺EasyTV ┃ 熵侦卫视",
+      "url": "https://easyzz.dpdns.org/api/tv.png",
+      "ua": "",
+      "source": "接口013"
+    },
+    {
+      "name": "🌐Guovin ┃ 全网聚合",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🐟斗鱼 ┃ 一起看公网",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "feiyang.allinone",
+      "url": "http://127.0.0.1:35457/tv.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "feiyang.bililive",
+      "url": "http://127.0.0.1:35457/bililive.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "feiyang.huyayqk",
+      "url": "http://127.0.0.1:35457/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "feiyang.douyuyqk",
+      "url": "http://127.0.0.1:35457/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "feiyang.yylunbo",
+      "url": "http://127.0.0.1:35457/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
       "name": "live3线",
       "url": "https://tv.520993.xyz/live.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
@@ -346,24 +430,6 @@
       "name": "develop2021线",
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
-      "source": "接口033"
-    },
-    {
-      "name": "范明明（需开启V6网络）",
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "ua": "",
-      "source": "接口033"
-    },
-    {
-      "name": "虎牙一起看",
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "ua": "okHttp/Mod-1.4.0.0",
-      "source": "接口033"
-    },
-    {
-      "name": "斗鱼一起看",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "ua": "okHttp/Mod-1.4.0.0",
       "source": "接口033"
     },
     {
