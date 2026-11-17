@@ -20,11 +20,11 @@
       "quickSearch": 0
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
       "key": "豆瓣2",
       "name": "豆瓣 2",
       "type": 3,
       "api": "csp_Douban",
+      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
       "searchable": 0
     },
     {
@@ -239,6 +239,14 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果短剧",
+      "type": 3,
+      "api": "https://clun.top/py/hongguo.py",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
@@ -584,6 +592,54 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "影探聚合",
+      "name": "影探聚合",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "采集合集",
+      "name": "采集合集",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "聚合平台",
+      "name": "聚合平台",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "采集",
+      "name": "采集",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/72b7239d.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "网盘",
+      "name": "网盘",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/261c1664.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "短剧",
+      "name": "短剧",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/29b94aff.py",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "耐看点播",
@@ -1262,6 +1318,22 @@
       "name": "三哥资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "索尼资源",
+      "name": "索尼资源",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "创享采集",
+      "name": "创享采集",
+      "type": 1,
+      "api": "https://ys.cxkjg.cn/api/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
