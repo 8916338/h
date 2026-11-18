@@ -157,6 +157,12 @@ ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/
 轻音乐|轻音乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/轻音乐.py
 听书网|听书网|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/听书网456.py
 企鹅体育|企鹅体育|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py/企鹅体育.py
+影探聚合|影探聚合|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py
+采集合集|采集合集|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py
+聚合平台|聚合平台|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py
+采集|采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
+网盘|网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py
+短剧|短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
 耐看点播|耐看点播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py5/耐看点播.py
 猎手影视|猎手影视|type: 3|api: http://47.96.82.41:5188/svip/py/猎手影视.py
 橘汁|橘汁|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/橘汁.py
@@ -169,8 +175,6 @@ ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/
 搜TV啦|搜TV啦|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/搜TV啦.py
 ptt影院|ptt影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ptt影院.py
 bl|❤小哩｜4K测试|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py
-山木|♨️山木｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py
-山楂|♨️山楂｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py
 妙看|🌀妙看｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py
 多多|🌀多多｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py
 七星短剧|🎬七星丨短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py
@@ -179,6 +183,8 @@ italkbbtv|ITalkBB｜外|type: 3|api: https://tv.sxi.qzz.io/py/ITalkBBTV.py
 星芽短剧|星芽｜短剧|type: 3|api: https://tv.sxi.qzz.io/py/星芽短剧.py
 酷我音乐|酷我丨音乐|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/酷我音乐.py
 资源大集合|资源｜集合|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/搜剧AI.py
+山木|♨️山木｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py
+山楂|♨️山楂｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py
 追剧达人|追剧达人|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py
 咸鱼影视|咸鱼影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py
 不错|不错|type: 3|api: https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py

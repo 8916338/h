@@ -191,7 +191,7 @@ maoer|猫儿FM｜电台(JX)|type: 1|api: http://nm.4688888.xyz/vod/maoer/maoer.p
 kuwomv|酷我｜MV(JX)|type: 1|api: http://nm.4688888.xyz/vod/kuwo/kwmv.php/provide/vod/
 京城|京城｜1K|type: 1|api: https://nm.4688888.xyz/vod/jc.php/provide/vod/
 官采|官采┃[采集]|type: 1|api: https://cj.jusj.top/api.php/provide/vod/?ac=list
-索尼资源|索尼┃资源|type: 1|api: https://suoniapi.com/api.php/provide/vod/from/snm3u8/
+索尼资源|索尼资源|type: 0|api: https://suoniapi.com/api.php/provide/vod/at/xml/
 快帆|快帆|type: 1|api: https://api.kuaifan.tv/api.php/provide/vod
 新浪资源|新浪资源|type: 0|api: https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/
 如意资源网|如意资源网|type: 0|api: https://cj.rycjapi.com/api.php/provide/vod/at/xml/
@@ -241,9 +241,9 @@ CNTV低分辨|CNTV低分辨|type: 1|api: http://zhangqun1818.serv00.net/cctv.php
 U酷资源|U酷资源|type: 1|api: https://api.ukuapi88.com/api.php/provide/vod/?ac=list
 金鹰点播|金鹰点播|type: 1|api: https://jinyingzy.com/api.php/provide/vod/?ac=list
 如意资源|如意资源|type: 1|api: https://www.ryzyw.com/api.php/provide/vod/
+创享采集|创享采集|type: 1|api: https://ys.cxkjg.cn/api/provide/vod/
 爱奇艺资源|爱奇艺资源|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod/
 天涯采集|影视 | 天涯|type: 1|api: http://tyyszy.com/api.php/provide/vod
-索尼|影视 | 索尼[直连]|type: 0|api: https://suoniapi.com/api.php/provide/vod/at/xml/
 卧龙资源|影视 | 卧龙资源[直连]|type: 1|api: https://wolongzyw.com/api.php/provide/vod/?ac=list
 金蝉采集|影视 | 金蝉|type: 1|api: https://zy.jinchancaiji.com/api.php/provide/vod
 小绵阳采集|影视 | 小绵阳|type: 1|api: https://vs.okcdn100.top/api.php/provide/vod
@@ -265,6 +265,7 @@ OK|OK|点播|type: 1|api: https://okzyw9.com/api.php/provide/vod/
 csp_xml_yule|🐝鱼乐资源|type: 1|api: https://api.ylzy.me/api.php/provide/vod/
 csp_xml_ok资源|🐝ok资源|type: 1|api: https://api.okzy.org/api.php/provide/vod/
 csp_xml_麻花资源|🐝麻花资源|type: 1|api: https://api.1080zyku.com/inc/api_mac10.php
+索尼|影视 | 索尼[直连]|type: 0|api: https://suoniapi.com/api.php/provide/vod/at/xml/
 csp_xml_红牛资源|🐝红牛资源|type: 1|api: https://www.hongniuzy2.com/api.php/provide/vod/
 csp_xml_无尽资源|🐝无尽资源|type: 1|api: https://api.wujinapi.com/api.php/provide/vod/
 taopian|🕹️淘片┃采集|type: 1|api: https://taopianapi.com/cjapi/mc/vod/json.html
