@@ -28,6 +28,14 @@
       "searchable": 0
     },
     {
+      "key": "豆瓣[py]",
+      "name": "豆瓣[py]",
+      "type": 3,
+      "api": "https://clun.top/py/douban.py",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
       "key": "豆瓣推荐",
       "name": "豆瓣推荐(LFJS)",
       "type": 3,
@@ -186,7 +194,7 @@
       "key": "喜马拉雅",
       "name": "喜马拉雅",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/喜马拉雅.js",
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/喜马拉雅.py",
       "searchable": 0,
       "quickSearch": 0
     },
@@ -241,39 +249,6 @@
       }
     },
     {
-      "key": "红果短剧",
-      "name": "红果短剧",
-      "type": 3,
-      "api": "https://clun.top/py/hongguo.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "瓜子影视",
-      "name": "瓜子 • 影视",
-      "type": 3,
-      "api": "csp_Gz360"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "金牌影视",
-      "name": "金牌 • 影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "爱看机器人",
-      "name": "爱看 • 影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
       "key": "苹果",
       "name": "苹果 • APP",
@@ -295,303 +270,135 @@
       }
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "下饭",
-      "name": "下饭 • APP",
+      "key": "金牌影院",
+      "name": "金牌影院",
       "type": 3,
-      "api": "csp_JuXiaFan",
+      "api": "https://clun.top/py/goldmedal.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "一起影视",
-      "name": "一起 • APP",
+      "key": "瓜子",
+      "name": "瓜子",
       "type": 3,
-      "api": "csp_AppYQK",
+      "api": "https://clun.top/py/guazi.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
+      "key": "酷客",
+      "name": "酷客",
+      "type": 3,
+      "api": "https://clun.top/py/8kvod.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "布布追剧",
+      "name": "布布追剧",
+      "type": 3,
+      "api": "https://clun.top/py/bubuzhuiju.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "红果短剧",
+      "name": "红果短剧",
+      "type": 3,
+      "api": "https://clun.top/py/hongguo.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "A站平台",
+      "name": "A站平台",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "咕噜",
-      "name": "咕噜 • APP",
+      "name": "咕噜",
       "type": 3,
-      "api": "csp_Gulu",
+      "api": "http://150.158.52.248/tgyg/py/%E5%92%95%E5%99%9C1080p.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "山楂影视",
+      "name": "山楂影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "云播",
+      "name": "云播",
+      "type": 3,
+      "api": "https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "山木",
+      "name": "山木",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "文才影视",
+      "name": "文才影视",
+      "type": 3,
+      "api": "https://clun.top/py/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "布布",
-      "name": "布布 • APP",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "https://raw.githubusercontent.com/zheng197600/tvbox/main/WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.web.player",
-        "sk": "https://raw.githubusercontent.com/zheng197600/tvbox/main/WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "https://raw.githubusercontent.com/zheng197600/tvbox/main/8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "https://raw.githubusercontent.com/zheng197600/tvbox/main/ddtvf65f3a83d6d9ad6f"
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "马猴影视",
-      "name": "马猴 • APP",
+      "key": "移动影院",
+      "name": "移动影院",
       "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://skykb.com",
-        "finger": "https://raw.githubusercontent.com/zheng197600/tvbox/main/SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "https://raw.githubusercontent.com/zheng197600/tvbox/main/43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "https://raw.githubusercontent.com/zheng197600/tvbox/main/vivo",
-        "deviceModel": "https://raw.githubusercontent.com/zheng197600/tvbox/main/V2309A",
-        "pkg": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.damahou.tv",
-        "sk": "https://raw.githubusercontent.com/zheng197600/tvbox/main/SK-woniu-thanks",
-        "ver": "1"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "热播影视",
-      "name": "热播 • APP",
-      "type": 3,
-      "api": "csp_AppRJ",
+      "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/%E7%A7%BB%E5%8A%A84k.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "半日99",
-      "name": "半日 • APP",
+      "key": "华谊影视",
+      "name": "华谊影视",
       "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "versionName": "https://raw.githubusercontent.com/zheng197600/tvbox/main/3.5.8",
-        "name": "https://raw.githubusercontent.com/zheng197600/tvbox/main/半日闲",
-        "package": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "https://raw.githubusercontent.com/zheng197600/tvbox/main/A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "天堂",
-      "name": "天堂 • APP",
-      "type": 3,
-      "api": "csp_AppDrama",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "https://raw.githubusercontent.com/zheng197600/tvbox/main/电影天堂",
-        "publicKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "https://raw.githubusercontent.com/zheng197600/tvbox/main/3.0.0.7",
-        "decrypt": "0"
-      }
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "橘汁",
-      "name": "橘汁 • APP",
+      "key": "LIBVIO",
+      "name": "LIBVIO",
       "type": 3,
-      "api": "csp_AppDrama",
+      "api": "https://clun.top/py/libvio.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "https://raw.githubusercontent.com/zheng197600/tvbox/main/橘汁",
-        "publicKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.asjdhjhd.mgd.p3",
-        "host": "",
-        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
-        "version": "https://raw.githubusercontent.com/zheng197600/tvbox/main/3.0.7.0",
-        "decrypt": "1"
-      }
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "华谊",
-      "name": "华谊 • APP",
+      "key": "懂片帝AI",
+      "name": "懂片帝AI",
       "type": 3,
-      "api": "csp_AppDrama",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/懂片帝AI.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "https://raw.githubusercontent.com/zheng197600/tvbox/main/华谊",
-        "publicKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "https://raw.githubusercontent.com/zheng197600/tvbox/main/com.lxf.sncgtzxyx",
-        "host": "",
-        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
-        "version": "https://raw.githubusercontent.com/zheng197600/tvbox/main/6.0.0.1",
-        "decrypt": "0"
-      }
+      "quickSearch": 1
     },
     {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "蓝鹰",
-      "name": "蓝鹰 • APP",
+      "key": "多多影视",
+      "name": "多多影视",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/dd.py",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://103.217.190.91:5566",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/hagYExMdMkeWfemK",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/hagYExMdMkeWfemK",
-        "init": "https://raw.githubusercontent.com/zheng197600/tvbox/main/initV122",
-        "ua": "https://raw.githubusercontent.com/zheng197600/tvbox/main/okhttp/3.10.0"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "蓝鸟",
-      "name": "蓝鸟 • APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/oW5UxZ5kWVr1DI69",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/oW5UxZ5kWVr1DI69",
-        "init": "https://raw.githubusercontent.com/zheng197600/tvbox/main/initV122",
-        "ua": "https://raw.githubusercontent.com/zheng197600/tvbox/main/okhttp/3.10.0"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "王子",
-      "name": "王子 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/5a9w6x58dsq6z3a6",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "茉莉Get",
-      "name": "茉莉 • APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "https://raw.githubusercontent.com/zheng197600/tvbox/main/88689667dce61725",
-        "dataIv": "https://raw.githubusercontent.com/zheng197600/tvbox/main/88689667dce61725"
-      }
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "三六零",
-      "name": "三六零 • 视频",
-      "type": 3,
-      "api": "csp_SP360"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "懂片",
-      "name": "懂片 • 影视",
-      "type": 3,
-      "api": "csp_DongPian"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "星辰影视",
-      "name": "星辰 • 影视",
-      "type": 3,
-      "api": "csp_XingChen"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "飞娱影视",
-      "name": "飞娱 • 影视",
-      "type": 3,
-      "api": "csp_Feiyu"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "旺旺影视",
-      "name": "旺旺 • 影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "独播影视",
-      "name": "独播 • 影视",
-      "type": 3,
-      "api": "csp_Duboku"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "厂长影视",
-      "name": "厂长 • 影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cz01.vip"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "骚火影视",
-      "name": "骚火 • 影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "ext": "https://shdy5.us"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "New6v",
-      "name": "New6V • 磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "jar": "https://raw.githubusercontent.com/zheng197600/tvbox/main/jar/spider.jar",
-      "key": "电影港",
-      "name": "电影港 • 磁力",
-      "type": 3,
-      "api": "csp_DianYingG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     },
     {
       "key": "影探聚合",
@@ -642,10 +449,18 @@
       "quickSearch": 1
     },
     {
-      "key": "耐看点播",
-      "name": "耐看点播",
+      "key": "饭团",
+      "name": "饭团",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py5/耐看点播.py",
+      "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/py/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "HDmoli",
+      "name": "HDmoli",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/HDmoli.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -674,22 +489,6 @@
       "quickSearch": 1
     },
     {
-      "key": "剧下饭",
-      "name": "剧下饭",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "可可影视",
-      "name": "可可影视",
-      "type": 3,
-      "api": "https://clun.top/py/kkys.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "飞快",
       "name": "飞快",
       "type": 3,
@@ -702,22 +501,6 @@
       "name": "飞流视频",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/飞流视频.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "一起影视",
-      "name": "一起影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/一起影视.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "看戏影视",
-      "name": "看戏影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/看戏影视.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -770,10 +553,42 @@
       "quickSearch": 1
     },
     {
-      "key": "ptt影院",
-      "name": "ptt影院",
+      "key": "欧克影视",
+      "name": "欧克影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ptt影院.py",
+      "api": "https://yydsys.top/duo/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "大马猴",
+      "name": "大马猴",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/pytesx1/大马猴.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "味精Emby",
+      "name": "味精Emby",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "网飞猫",
+      "name": "网飞猫",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/py/Ncat.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "兄弟影院",
+      "name": "兄弟影院",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -801,6 +616,13 @@
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/json1/爱看影院.json"
     },
     {
+      "key": "飞快影视",
+      "name": "飞快影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://clun.top/js/s/飞快.json"
+    },
+    {
       "key": "全网看",
       "name": "全网看",
       "type": 3,
@@ -824,31 +646,10 @@
       "ext": "https://raw.githubusercontent.com/zheng197600/tvbox/main/js/网易公版影像.js"
     },
     {
-      "key": "味精┃Emby",
-      "name": "味精┃Emby",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "影探",
       "name": "影探",
       "type": 4,
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "咖啡",
-      "name": "咖啡",
-      "type": 4,
-      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
-    },
-    {
-      "key": "老张影视",
-      "name": "老张影视",
-      "type": 4,
-      "api": "http://zhangqun1818.serv00.net/zh/2242.php"
     },
     {
       "key": "淘片资源",
@@ -1102,6 +903,28 @@
       }
     },
     {
+      "key": "看戏影视",
+      "name": "看戏影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.kanxiya.com/"
+      }
+    },
+    {
+      "key": "一起影视",
+      "name": "一起影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.yiqiys.com/"
+      }
+    },
+    {
       "key": "龙马",
       "name": "龙马",
       "type": 1,
@@ -1140,6 +963,14 @@
       "type": 0,
       "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
       "搜索url": "https://lz.118318.xyz/index.php/vod/search.html?wd={wd}",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "电影星球",
+      "name": "电影星球",
+      "type": 1,
+      "api": "https://www.ysxq.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1
     },
