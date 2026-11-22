@@ -23,9 +23,9 @@
     },
     {
       "key": "可可影视",
-      "name": "可可影视",
+      "name": "可可 | 影视",
       "type": 3,
-      "api": "https://clun.top/py/kkys.py",
+      "api": "https://easy888.dpdns.org/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1141,7 +1141,7 @@
       "key": "华谊影视",
       "name": "华谊影视",
       "type": 3,
-      "api": "https://gitee.com/kevin0973/lc/raw/master/lib/华谊影视.py",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1589,9 +1589,9 @@
     },
     {
       "key": "山木",
-      "name": "♨️山木｜4K线路",
+      "name": "山木",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1699,7 +1699,7 @@
       "key": "gulu",
       "name": "🐧咕噜丨蓝光秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1763,6 +1763,204 @@
       "name": "短剧",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/29b94aff.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "SZ",
+      "name": "山楂影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬八戒PY",
+      "name": "👖裤佬丨八戒丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆瓣[py]",
+      "name": "豆瓣[py]",
+      "type": 3,
+      "api": "https://clun.top/py/douban.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "喜马拉雅",
+      "name": "喜马拉雅",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/喜马拉雅.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影院",
+      "name": "金牌影院",
+      "type": 3,
+      "api": "https://clun.top/py/goldmedal.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "瓜子",
+      "name": "瓜子",
+      "type": 3,
+      "api": "https://clun.top/py/guazi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷客",
+      "name": "酷客",
+      "type": 3,
+      "api": "https://clun.top/py/8kvod.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "布布追剧",
+      "name": "布布追剧",
+      "type": 3,
+      "api": "https://clun.top/py/bubuzhuiju.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "A站平台",
+      "name": "A站平台",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "咕噜",
+      "name": "咕噜",
+      "type": 3,
+      "api": "http://150.158.52.248/tgyg/py/%E5%92%95%E5%99%9C1080p.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "云播",
+      "name": "云播",
+      "type": 3,
+      "api": "https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "文才影视",
+      "name": "文才影视",
+      "type": 3,
+      "api": "https://clun.top/py/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "移动影院",
+      "name": "移动影院",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/%E7%A7%BB%E5%8A%A84k.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "LIBVIO",
+      "name": "LIBVIO",
+      "type": 3,
+      "api": "https://clun.top/py/libvio.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "懂片帝AI",
+      "name": "懂片帝AI",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/懂片帝AI.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "多多影视",
+      "name": "多多影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/dd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "饭团",
+      "name": "饭团",
+      "type": 3,
+      "api": "https://bitbucket.org/guot55/ygbh/raw/main/pro/py/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "HDmoli",
+      "name": "HDmoli",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/HDmoli.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "欧克影视",
+      "name": "欧克影视",
+      "type": 3,
+      "api": "https://yydsys.top/duo/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "大马猴",
+      "name": "大马猴",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/pytesx1/大马猴.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "网飞猫",
+      "name": "网飞猫",
+      "type": 3,
+      "api": "https://fastly.jsdelivr.net/gh/dql521/TVBox@main/py/Ncat.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "兄弟影院",
+      "name": "兄弟影院",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

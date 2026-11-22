@@ -134,7 +134,13 @@
     },
     {
       "name": "🐯牛虎 ┃ 官方综合",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/niubihu1/tvbox/main/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "接口013"
+    },
+    {
+      "name": "🐟斗鱼 ┃ 一起看公网",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
@@ -145,20 +151,14 @@
       "source": "接口013"
     },
     {
-      "name": "🐎小马综合 ┃ 高清直播",
-      "url": "https://szyyds.cn/tv/live/x.txt",
+      "name": "🎙️YY轮播 ┃ 影视公网",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "📡自动更新 ┃ 全国电视",
-      "url": "https://z.szyyds.cn/iptv",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "🎵音乐台 ┃ 现场MV",
-      "url": "https://szyyds.cn/tv/live/yy.txt",
+      "name": "🌐Guovin ┃ 全网聚合",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
@@ -175,14 +175,14 @@
       "source": "接口013"
     },
     {
-      "name": "🌐Guovin ┃ 全网聚合",
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+      "name": "📡自动更新 ┃ 全国电视",
+      "url": "https://z.szyyds.cn/iptv",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "🐟斗鱼 ┃ 一起看公网",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "name": "🐎小马综合 ┃ 高清直播",
+      "url": "https://szyyds.cn/tv/live/x.txt",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
@@ -435,12 +435,6 @@
     {
       "name": "B站直播",
       "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "ua": "okHttp/Mod-1.4.0.0",
-      "source": "接口033"
-    },
-    {
-      "name": "YY轮播",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "ua": "okHttp/Mod-1.4.0.0",
       "source": "接口033"
     },
