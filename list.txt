@@ -188,7 +188,7 @@ gh_proxy_org.json|20261124|19.2K|https://raw.github.com/tly824/TM-TY/main/8.10.j
 d_kstore_dev_download.json|20261124|17.9K|https://d.kstore.dev/download/14782/%E5%BD%B1%E8%A7%86%E4%BB%93.json
 apple.json|20261124|22.1K|https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
 www_ls660_com_TV.json|20261124|14.9K|https://www.ls660.com/TV/feimao.json
-极速.json|20261124|9.0K|https://jszyapi.com/api.php/provide/vod/at/json
+极速.json|20261124|9.1K|https://jszyapi.com/api.php/provide/vod/at/json
 zwz.json|20261124|96B|https://api.starlink.fan/api/FwaII1.json
 tvbox放飞.json|20261124|30.0K|https://jinenge.us.kg/app/tvbox/tvbox.json
 gh_proxy_org_https.json|20261124|23.1K|https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json

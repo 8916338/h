@@ -5,7 +5,7 @@
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wallpaper",
 "danmaku":"http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites": [
-{"key":"豆瓣2","name":"📢网络收集免费仅限测试用内置接口会崩溃！","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢公告失效","type":3,"api":"csp_Douban","searchable": 0"},
 {"key": "config", "name": "接口失效","type": 3,"jar":"https://ncstatic-file.clewm.net/rsrc/2026/1117/18/45678ed1358a44f98727c98d82eca819.jpg;md5;b18f7557c71aadb6940634372f8be59a","api": "csp_Config","searchable": 0},
 {"key":"配置中心","name":"关注公众号","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
