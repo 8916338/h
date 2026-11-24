@@ -1,0 +1,166 @@
+{
+  "spider": "https://13537.kstore.vip/tvbox/lib/spider.jar",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
+  "logo": "https://5b0988e595225.cdn.sohucs.com/images/20190707/bac7909ac304469398f1ca62b0908814.gif",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🔰苍蓝Q群：1030964575🔰",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
+      "key": "文件",
+      "name": "🔰影链视界4K接口🔰",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "https://13537.kstore.vip/tvbox/lib/机哥剧圈.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://13537.kstore.vip/tvbox/lib/机哥.js"
+    },
+    {
+      "key": "热播影视",
+      "name": "🔰热播✨测试🔰",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "💯最佳搭档，OK影视app💯",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 25
+    }
+  ],
+  "parses": [
+    {
+      "name": "QQ群：1091398307",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    }
+  ],
+  "lives": [
+    {
+      "name": "🔰苍蓝小屋🔰",
+      "type": 0,
+      "url": "http://150.158.52.248/tgyg/lib/kjtwzb.txt",
+      "playerType": 2,
+      "timeout": 10
+    }
+  ],
+  "rules": [
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "农民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驴",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
+    },
+    {
+      "name": "czzy",
+      "hosts": [
+        "10086.cn"
+      ],
+      "regex": [
+        "/storageWeb/servlet/downloadServlet"
+      ]
+    },
+    {
+      "name": "bdys",
+      "hosts": [
+        "bytetos.com",
+        "byteimg.com",
+        "bytednsdoc.com",
+        "pstatp.com"
+      ],
+      "regex": [
+        "/tos-cn"
+      ],
+      "exclude": [
+        ".m3u8"
+      ]
+    },
+    {
+      "name": "bdys10",
+      "hosts": [
+        "bdys10.com"
+      ],
+      "regex": [
+        "/obj/"
+      ],
+      "exclude": [
+        ".m3u8"
+      ]
+    }
+  ]
+}

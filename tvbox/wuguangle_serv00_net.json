@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "🔥爱在指尖｜影视🔥",
+      "url": "./TV/zy.json"
+    },
+    {
+      "name": "🔥爱在指尖｜短剧🔥",
+      "url": "./dj.json"
+    },
+    {
+      "name": "📚听书｜乐哥",
+      "url": "./Ting/ts.json"
+    },
+    {
+      "name": "🎵音乐｜乐哥",
+      "url": "./Ting/yy.json"
+    }
+  ]
+}

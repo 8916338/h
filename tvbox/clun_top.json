@@ -1,0 +1,285 @@
+{
+ "sites":[
+  {
+   "key": "精品资源站",
+   "name": "精品 | 采集",
+   "type": 1,
+   "api": "https://www.jingpinx.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
+   "key": "souav",
+   "name": "souav | 采集",
+   "type": 1,
+   "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+   "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_porn",
+   "name": "肉视频[py]",
+   "type": 3,
+   "api": "./js/ss/porn.py",
+   "ext": ""
+  },
+  {
+   "key": "py_huangguo",
+   "name": "黄果短剧[py]",
+   "type": 3,
+   "api": "./js/ss/huangguo.py",
+   "ext": ""
+  },
+  {
+   "key": "py_huangguo2",
+   "name": "黄果剧场[py]",
+   "type": 3,
+   "api": "./js/ss/黄果剧场.py",
+   "ext": ""
+  },
+  {
+   "key": "py_huangdou",
+   "name": "黄豆短剧[py]",
+   "type": 3,
+   "api": "./js/ss/huangdou.py",
+   "ext": ""
+  },
+  {
+   "key": "py_lsys111",
+   "name": "恋丝影视[py]",
+   "type": 3,
+   "api": "./js/ss/lsys111.py",
+   "ext": ""
+  },
+  {
+   "key": "py_rolizxwnoble",
+   "name": "乱伦仓库[py]",
+   "type": 3,
+   "api": "./js/ss/rolizxwnoble.py",
+   "ext": ""
+  },
+  {
+   "key": "py_shaofu36",
+   "name": "少妇喝了[py]",
+   "type": 3,
+   "api": "./js/ss/shaofu36.py",
+   "ext": ""
+  },
+  {
+   "key": "py_xx01",
+   "name": "猎奇影视[py]",
+   "type": 3,
+   "api": "./js/ss/xx01.py",
+   "ext": ""
+  },
+  {
+   "key": "py_ybhz51",
+   "name": "玉蚌含珠[py]",
+   "type": 3,
+   "api": "./js/ss/ybhz51.py",
+   "ext": ""
+  },
+  {
+   "key": "py_花都",
+   "name": "花都影院[py]",
+   "type": 3,
+   "api": "./js/ss/花都影院.py",
+   "ext": ""
+  },
+  {
+   "key": "py_redtube",
+   "name": "RedTube[py]",
+   "type": 3,
+   "api": "./js/ss/redtube.py",
+   "ext": ""
+  },
+  {
+   "key": "py_Youavhub",
+   "name": "Youavhub[py]",
+   "type": 3,
+   "api": "./js/ss/youav.py",
+   "ext": ""
+  },
+  {
+   "key": "py_owoav",
+   "name": "owoav[py]",
+   "type": 3,
+   "api": "./js/ss/owoav.py",
+   "ext": ""
+  },
+  {
+   "key": "py_91porn",
+   "name": "91porn[py]",
+   "type": 3,
+   "api": "./js/ss/91porn.py",
+   "ext": ""
+  },
+  {
+   "key": "py_Youavhub",
+   "name": "Youavhub[py]",
+   "type": 3,
+   "api": "./js/ss/youav.py",
+   "ext": ""
+  },
+  {
+   "key": "py_xigua",
+   "name": "51吃瓜[py]",
+   "type": 3,
+   "api": "./js/ss/xigua51.py",
+   "ext": {
+    "h265": true
+   }
+  },
+  {
+   "key": "py_51短剧",
+   "name": "51短剧[py]",
+   "type": 3,
+   "api": "./js/ss/51短剧.py",
+   "ext": ""
+  },
+  {
+   "key": "xp天堂",
+   "name": "XP天堂[js]",
+   "type": 3,
+   "filterable": 0,
+   "changeable": 0,
+   "api": "./js/ss/xp天堂.js"
+  },
+  {
+   "key": "女优色库",
+   "name": "女优色库[py]",
+   "type": 3,
+   "filterable": 0,
+   "changeable": 0,
+   "api": "./js/ss/女优色库.py"
+  },
+  {
+   "key": "Jable",
+   "name": "Jable[js]",
+   "jar": "./jar/gm.jar",
+   "type": 3,
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 0,
+   "filterable": 1,
+   "timeout": 60,
+   "style": {
+    "type": "rect",
+    "ratio": 1.48
+   },
+   "api": "csp_GM",
+   "ext": {
+    "userScript": "./js/jable.user.js",
+    "debug": false,
+    "webViewSettings": {
+     "blockNetworkImage": true,
+     "blockList":[
+      "*.ico*",
+      "*.png*",
+      "*.css*",
+      "https:/
+*/master.m3u8*",
+     "https:/v.mp4",
+     "https:/playlist.m3u8*"
+    ],
+    "spider": {
+     "homeContent": {
+      "loadUrl": "https://netflav.com/trending"
+     },
+     "categoryContent": {
+      "loadUrl": "https://netflav.com/${tid}&page=${pg:-1}${range:-}"
+     },
+     "detailContent": {
+      "loadUrl": "https://netflav.com/video?id=${id}/"
+     },
+     "playerContent": {
+      "loadUrl": "https://netflav.com/video?id=${vod_id}#${src}"
+     },
+     "searchContent": {
+      "loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title"
+     }
+    }
+   }
+  },
+  {
+   "key": "123av",
+   "name": "123AV[js]",
+   "jar": "./jar/gm.jar",
+   "type": 3,
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 0,
+   "filterable": 1,
+   "timeout": 60,
+   "style": {
+    "type": "rect",
+    "ratio": 1.49
+   },
+   "api": "csp_GM",
+   "ext": {
+    "userScript": "./js/123av.user.js",
+    "debug": false,
+    "webViewSettings": {
+     "blockNetworkImage": true,
+     "blockList":[
+      "*.ico",
+      "*.png",
+      "*.jpg",
+      "*.vtt",
+      "*.css*",
+      "https:/
+v.m3u8"
+    ],
+    "spider": {
+     "homeContent": {
+      "loadUrl": "https://123av.com/zh/dm9"
+     },
+     "categoryContent": {
+      "loadUrl": "https://123av.com/zh/${tid}?page=${pg:-1}${filter:-}${sort:-}"
+     },
+     "detailContent": {
+      "loadUrl": "https://123av.com/zh/${id}"
+     },
+     "playerContent": {
+      "loadUrl": "https://123av.com/zh/${vod_id}"
+     },
+     "searchContent": {
+      "loadUrl": "https://123av.com/zh/search?keyword=${key}&page=${pg:-1}"
+     }
+    }
+   }
+  },
+  {
+   "key": "MissAV",
+   "name": "MissAV[js]",
+   "jar": "./jar/gm.jar",
+   "type": 3,
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 0,
+   "filterable": 1,
+   "timeout": 60,
+   "style": {
+    "type": "rect",
+    "ratio": 1.49
+   },
+   "api": "csp_GM",
+   "ext": {
+    "userScript": "./js/missav.user.js",
+    "debug": false,
+    "webViewSettings": {
+     "blockNetworkImage": true,
+     "blockList":[
+      "*.ico",
+      "*.png",
+      "*.css",
+      "*.svg",
+      "https:/
+prebid.min.js",
+      "https://divisiondrearilyunfiled.com
+master.m3u8*",
+     "https:/
+*.m3u8",
+     "https:/master.m3u8*",
+     "https://dood.la/pass_md5

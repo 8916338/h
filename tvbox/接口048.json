@@ -457,6 +457,14 @@
       "quickSearch": 1
     },
     {
+      "key": "VIP兔",
+      "name": "VIP兔",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/VIP兔.py",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "HDmoli",
       "name": "HDmoli",
       "type": 3,
@@ -489,22 +497,6 @@
       "quickSearch": 1
     },
     {
-      "key": "飞快",
-      "name": "飞快",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/飞快[推].py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "飞流视频",
-      "name": "飞流视频",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/飞流视频.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "FoFo影院",
       "name": "FoFo影院",
       "type": 3,
@@ -513,34 +505,10 @@
       "quickSearch": 1
     },
     {
-      "key": "pomo",
-      "name": "pomo",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/pomo.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "VIP兔",
-      "name": "VIP兔",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/VIP兔.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "蝶卡影视",
       "name": "蝶卡影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/蝶卡影视.py",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "多瑙影院",
-      "name": "多瑙影院",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/多瑙影院.py",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -652,10 +620,10 @@
       "api": "http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list"
     },
     {
-      "key": "淘片资源",
-      "name": "淘片资源",
-      "type": 0,
-      "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -671,7 +639,7 @@
       "key": "量子资源",
       "name": "量子资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+      "api": "http://23.224.101.30/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -679,7 +647,7 @@
       "key": "电影天堂",
       "name": "电影天堂",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://dyttzy.tv/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -870,17 +838,6 @@
       }
     },
     {
-      "key": "雪糕TV",
-      "name": "雪糕TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "分类url": "https://www.xgitv.com/"
-      }
-    },
-    {
       "key": "电影人生",
       "name": "电影人生",
       "type": 3,
@@ -925,44 +882,10 @@
       }
     },
     {
-      "key": "龙马",
-      "name": "龙马",
-      "type": 1,
-      "api": "http://jhysj.jiaheyy.top/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://kx.zyzqcb.cc/api/?key=df8bfba9c7ce22ff751465ec8cb73623&url=",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "剧屋影视",
-      "name": "剧屋影视",
-      "type": 1,
-      "api": "https://m.juwu.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "大众影视",
       "name": "大众影视",
       "type": 1,
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "飘零电影",
-      "name": "飘零电影",
-      "type": 1,
-      "api": "https://p2100.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "快龙影视",
-      "name": "快龙影视",
-      "type": 0,
-      "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
-      "搜索url": "https://lz.118318.xyz/index.php/vod/search.html?wd={wd}",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -979,22 +902,6 @@
       "name": "艾旦影视",
       "type": 1,
       "api": "https://www.lovedan.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "新浪资源",
-      "name": "新浪资源",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "非凡资源",
-      "name": "非凡资源",
-      "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1047,6 +954,14 @@
       "quickSearch": 1
     },
     {
+      "key": "淘片资源",
+      "name": "淘片资源",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "猫眼资源",
       "name": "猫眼资源",
       "type": 1,
@@ -1089,26 +1004,10 @@
       "quickSearch": 1
     },
     {
-      "key": "暴风资源",
-      "name": "暴风资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "豪华资源",
       "name": "豪华资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "速博资源",
-      "name": "速博资源",
-      "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1149,14 +1048,6 @@
       "name": "三哥资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "索尼资源",
-      "name": "索尼资源",
-      "type": 0,
-      "api": "https://suoniapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1
     },
