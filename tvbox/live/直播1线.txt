@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="直播1线",直播1线
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="YOUTUBE音乐",YOUTUBE音乐
+js=https://clonglii.serv00.net/youtube06.js?t=1795484671000
+Decoder=3
+
+RELEASED,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484672000
+Decoder=3
+
+New Releases On Vevo,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484672000
+Decoder=3
+
+The Hit List,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484673000
+Decoder=3
+
+Pop Certified,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484673000
+Decoder=3
+
+Highline R&amp;B,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484674000
+Decoder=3
+
+The Short List,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484675000
+Decoder=3
+
+Pop Before It Breaks,#genre#
+
+js=https://clonglii.serv00.net/youtube06.js?t=1795484675000
+Decoder=3
+
+Endless R&amp;B Throwbacks,#genre#
+
+Files have been successfully merged and displayed.

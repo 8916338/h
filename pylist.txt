@@ -1,24 +1,246 @@
+bilibili|B站｜星源|type: 3|api: https://11405.kstore.space/xiaye/js/哔哩合集.py
+华数|华数｜影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/华数.py
+星芽短剧|星芽｜短剧|type: 3|api: https://play.iptv365.org/潇洒/api/XYDJ.py
+瓜子影视|💥｜瓜子 | 影视|type: 3|api: https://chigua.eu.org/py/瓜子影视.py
+QD4K|🐷┃猪猪┃影视|type: 3|api: https://13826.kstore.vip/AppV2.py
+剧王短剧|剧王｜短剧|type: 3|api: https://play.iptv365.org/潇洒/api/JWDJ.py
+py_cctv|央视┃PY|type: 3|api: https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/py/央视片库.py
+italkbbtv|ITalkBB｜外|type: 3|api: https://tv.sxi.qzz.io/py/ITalkBBTV.py
+OleLive|欧乐影院 • 外|type: 3|api: https://qist.ugigc.dpdns.org/py/OleLive.py
+华谊影视|华谊影视|type: 3|api: https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py
+Didahd|嘀嗒影视|type: 3|api: https://qist.ugigc.dpdns.org/py/Didahd.py
+TVB云播|TVB云播 | 影视|type: 3|api: https://tv.sxi.qzz.io/py/TVB云播.py
+红果短剧|红果 • 短剧|type: 3|api: https://oss-v1.wangmeipo.cn/236/红果短剧.py
+世界听书|世界 • 听书|type: 3|api: https://oss-v1.wangmeipo.cn/236/世界听书.py
+Ncat|网飞猫|type: 3|api: https://qist.ugigc.dpdns.org/py/Ncat.py
+py_douban|豆瓣[py]|type: 3|api: https://clun.top/py/douban.py
+py_yangshipin|直播[py]|type: 3|api: https://clun.top/py/yangshipin.py
+py_shortfilm|短剧[py]|type: 3|api: https://clun.top/py/shortfilm.py
+py_apples|苹果[py]|type: 3|api: https://clun.top/py/apples.py
+py_maple|枫叶[py]|type: 3|api: https://clun.top/py/maple.py
+py_juzong|剧踪[py]|type: 3|api: https://clun.top/py/juzong.py
+py_hongguo|红果[py]|type: 3|api: https://clun.top/py/hongguo.py
+py_guazi|瓜子[py]|type: 3|api: https://clun.top/py/guazi.py
+py_pianku4k|片库[py]|type: 3|api: https://clun.top/py/pianku4k.py
+py_huavod|华视[py]|type: 3|api: https://clun.top/py/huavod.py
+py_Asyouwish|如意[py]|type: 3|api: https://clun.top/py/ruyishipin.py
+py_8kvod|酷客[py]|type: 3|api: https://clun.top/py/8kvod.py
+py_pufferfish|河豚[py]|type: 3|api: https://clun.top/py/pufferfish.py
+py_ppnix|PPnix[py]|type: 3|api: https://clun.top/py/ppnix.py
+py_libvio|LIBVIO[py]|type: 3|api: https://clun.top/py/libvio.py
+py_wbbb|歪比巴卜[py]|type: 3|api: https://clun.top/py/wbbb.py
+py_kkys|可可追剧[py]|type: 3|api: https://clun.top/py/kkys.py
+py_bubuzhuiju|布布追剧[py]|type: 3|api: https://clun.top/py/bubuzhuiju.py
+py_dsystv|袋鼠影视[py]|type: 3|api: https://clun.top/py/dsystv.py
+py_ysttv|影视天堂[py]|type: 3|api: https://clun.top/py/ysttv.py
+py_xlys|雪落影视[py]|type: 3|api: https://clun.top/py/xlys.py
+py_shanzha|山楂影视[py]|type: 3|api: https://clun.top/py/shanzha.py
+py_qiyoudy|奇优影视[py]|type: 3|api: https://clun.top/py/qiyoudy.py
+py_dantatv|蛋挞影视[py]|type: 3|api: https://clun.top/py/dantatv.py
+py_yangguang|阳光影视[py]|type: 3|api: https://clun.top/py/yangguang.py
+py_saohuo|骚火影视[py]|type: 3|api: https://clun.top/py/saohuo.py
+py_duoduo|多多影视[py]|type: 3|api: https://clun.top/py/duoduo.py
+py_oule|欧乐影院[py]|type: 3|api: https://clun.top/py/oule.py
+py_juok3|剧OK[py]|type: 3|api: https://clun.top/py/juok3.py
+py_fqdm|番茄动漫[py]|type: 3|api: https://clun.top/py/fqdm.py
+py_高清电影|高清电影[py]|type: 3|api: https://clun.top/py/高清电影.py
+py_金牌影院|金牌影院[py]|type: 3|api: https://clun.top/py/goldmedal.py
+py_奇优动漫|奇优动漫[py]|type: 3|api: https://clun.top/py/奇优动漫.py
+py_粤漫动漫|粤漫动漫[py]|type: 3|api: https://clun.top/py/粤漫.py
+py_jieyingshi|📀SY┃4K|type: 3|api: http://183.131.83.37:40782/mob/lib/Symx.py
+py_aigua|爱瓜TV[py]|type: 3|api: https://clun.top/py/aigua.py
+py_guowaiju|国外剧情[py]|type: 3|api: https://clun.top/py/guowaiju.py
+py_偷乐|雷蒙影视 | 🧿偷乐(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/偷乐短剧.py
+py_嗨皮|嗨皮影视[py]|type: 3|api: https://clun.top/py/嗨皮影视.py
+py_云端|雷蒙影视 | 🧿云端(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云端APP.py
+py_云速|雷蒙影视 | 🧿云速(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/云速影视APP.py
+py_农牧|农牧影视[py]|type: 3|api: https://clun.top/py/农民影视.py
+py_文才|文才影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/apiv585apiv1583文才影视.py
+py_4KAV|雷蒙影视 | 🧿4KAV(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/4KAV.py
+py_YYMP3|YYMP3[py]|type: 3|api: https://clun.top/py/yymp3.py
+py_mifun|MiFun｜动漫|type: 3|api: https://clun.top/py/mifun.py
+py_yinhuaone|樱花｜动漫|type: 3|api: https://clun.top/py/yinhuaone.py
+文才|🔔文才|HD2K|type: 3|api: http://183.131.83.37:40782/mob/lib/文才影视.py
+808yr|808影院|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/808影院.py
+gqc|共青春影院|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/共青春影院.py
+zzvm|枝枝影视|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枝枝影视.py
+knvm|柯南影视|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/柯南影视.py
+teys|太乙影视|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/太乙影视.py
+wkvm|悟空影视|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/悟空影视.py
+xmvm|神马影视|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/神马影视.py
+甜圈短剧|甜圈｜短剧|type: 3|api: https://play.iptv365.org/潇洒/api/TQDJ.py
+py聚合短剧|短剧丨聚合短剧|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/短剧聚合2.py
+爱听音乐|爱听丨音乐|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py
+网络直播|网络｜直播|type: 3|api: https://play.iptv365.org/潇洒/api/WLZB.py
+哔哩直播|哔哩｜直播|type: 3|api: https://play.iptv365.org/潇洒/api/BLZB.py
+光鸭社区|光鸭｜社区搜索|type: 3|api: https://gitee.com/fuleishu/fulei/raw/master/py/光鸭社区.py
+裤佬聚合备用|👖裤佬丨聚合丨备用|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py
+裤佬哔哩直播|👖裤佬丨哔哩丨直播|type: 3|api: https://mpimg.cn/down.php/d18d26a80c0d820e716be81e51568488.py
+裤佬枫叶影视|👖裤佬丨枫叶丨影视|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
+裤佬追剧影视|👖裤佬丨追剧丨影视|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E8%BF%BD%E5%89%A7.py
+裤佬看剧影视|👖裤佬丨看剧丨影视|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py
+裤佬华数影视|👖裤佬丨华数丨影视|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py
+裤佬端木PY|👖裤佬丨端木丨PY|type: 3|api: https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py
+裤佬八戒PY|👖裤佬丨八戒丨PY|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py
+裤佬威士PY|👖裤佬丨威士丨PY|type: 3|api: https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py
+裤佬云播PY|👖裤佬丨云播丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/天天影视.py
+裤佬剧吧PY|👖裤佬丨剧吧丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/JB.py
+裤佬爱剧PY|👖裤佬丨爱剧丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py
+裤佬热播PY|👖裤佬丨热播丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py
+裤佬哔哩PY|👖裤佬丨哔哩丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/哔哩视频.py
+裤佬努努PY|👖裤佬丨努努丨PY|type: 3|api: https://d.kstore.dev/download/4127/PY/分享努努.py
+裤佬哇哇PY|👖裤佬丨哇哇丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py
+裤佬MiFunPPY|👖裤佬丨MiFunP丨PY|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py
+裤佬两个BT|👖裤佬丨2BT丨PY|type: 3|api: https://mpimg.cn/down.php/447cf39f4cb26681ecacfd7f29cd0029.py
+裤佬猎手PY|👖裤佬丨猎手丨PY|type: 3|api: https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py
+裤佬芒果PY|👖裤佬丨芒果丨PY|type: 3|api: https://mpimg.cn/down.php/643d3f9a0b601f25d3e372eeb66e82a5.py
+裤佬兄弟PY|👖裤佬丨兄弟丨PY|type: 3|api: https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py
+裤佬央视PY|👖裤佬丨央视丨PY|type: 3|api: https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py
+裤佬栏目PY|👖裤佬丨栏目丨PY|type: 3|api: https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py
+裤佬七星短剧|👖裤佬丨七星丨短剧|type: 3|api: https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py
+裤佬爱听音乐|👖裤佬丨爱听丨音乐|type: 3|api: https://mpimg.cn/down.php/b3284feb00815ddd5d7e71e1468d9cf1.py
+裤佬枫叶音乐|👖裤佬丨枫叶丨音乐|type: 3|api: https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py
+裤佬网易音乐|👖裤佬丨网易丨音乐|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py
+裤佬嘶哩动漫|👖裤佬丨嘶哩丨动漫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py
+看剧影视|聚合三方🥇看剧🥇影视|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py
+猎手|聚合三方🥇猎手🥇聚合资源，部分有广|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py
+央视|聚合三方央视🥇影视|type: 3|api: https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py
+山楂影视|💥｜山楂 | 影视|type: 3|api: https://chigua.eu.org/py/山楂影视.py
+哔哩直播py|🌇｜哔哩｜直播|type: 3|api: https://chigua.eu.org/py/哔哩直播.py
+爱听音乐py|♦｜爱听｜音乐|type: 3|api: https://chigua.eu.org/py/爱听音乐.py
+央视片库|🇨🇳分享央视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py
+央视综艺|🇨🇳分享综艺|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央视综艺.py
+py_直播平台|平台┃直播|type: 3|api: assets://bhdc/宝盒/lib/直播平台.py
+TangDou_Spider|💝分享糖豆|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者糖豆.py
+csp_XYQHikerNm|💖分享在线|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py
+小苹果.py|💝分享苹果|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/分享者小苹果.py
+橘汁|橘汁|type: 3|api: https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py
+影探|影探4k|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/影探.py
+聚会.py|💝分享多源|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/影探聚合.py
+懂骗_py|💝分享懂片|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/懂片.py
+片帝.py|💝分享片帝|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/片帝4K.py
+hT.py|💝分享河豚|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/河豚.py
+mnyy|💝分享米诺|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者mino.py
+qkyy|💝分享全看|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者全看.py
+华视影视.py|💝分享华视|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/华视影院.py
+大米星球.py|💝分享大米|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/大米星球.py
+db_agent|💝分享豆播|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/豆播AI.py
+tx_py|💝分享迅腾|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/腾讯4K.py
+咕噜|咕噜|type: 3|api: http://150.158.52.248/tgyg/py/%E5%92%95%E5%99%9C1080p.py
+分享者咕噜.py|💝分享咕嘟|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者咕噜.py
+分享多多.py|💝分享多多|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/dd.py
+大马猴|大马猴|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/pytesx1/大马猴.py
+分享半日|💝分享半日|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/app99.py
+快映fox|💝分享快映|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/Appfox.py
+小鸡看看|💝分享看看|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/小鸡看看.py
+看剧AI|💝分享看剧|type: 3|api: https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py
+kky_py|💝分享看鸭|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/看看鸭.py
+sf_py|💝分享珊瑚|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/珊瑚影视.py
+py_金牌影视|💖分享金牌|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py
+壹影.py|💝分享壹影|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/壹影视.py
+剧迷TV[APP]|💝分享剧迷|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/看客TV.py
+魔方|💝分享魔方|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py
+独播库_async|💝分享独播|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/py/独播库.py
+看客联盟[skapp]|💝分享联盟|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/skapp.py
+美剧侠.py|💝分享美剧|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/美剧侠.py
+小蜜蜂|💝分享蜜蜂|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/小蜜蜂.py
+麦田影院[AppV2]|💝分享麦田|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/AppV2.py
+山有木兮|💝分享木兮|type: 3|api: https://fastlink.cokey.xyz/f/p6rZcj/山有木兮.py
+nn|💝分享牛牛|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者牛牛.py
+电影侠.py|💝分享影侠|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/电影侠.py
+lX.py|💝分享洛雪|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/落雪.py
+py_极速|💖分享极速|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/极速追剧.py
+追剧达人|💝分享达人|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/追剧达人.py
+分享者影巢.py|💝分享影巢|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/分享者影巢.py
+jy.py|💝分享界影|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/界影视.py
+开端影视|💝分享开端|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/开端影视.py
+果果短剧|💝分享果果|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/果果短剧.py
+白洋影院|💝分享白洋|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/白洋影院.py
+剧下饭|♨️下饭｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py
+枫叶,影院|💝分享红叶|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py
+歪比巴卜|巴卜|type: 3|api: https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py
+高清点播|高清点播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/高清点播.py
+草莓影视|草莓影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/草莓影视.py
+腾爱优b站.js|💝分享AYTM|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/腾爱优芒B.py
+一起影视|💝分享一起|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/一起看.py
+厂长影视|💝分享厂长|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/厂长影视.py
+GZ|瓜子PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/瓜子APP.py
+VS影院|💝分享影院|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/VS影院.py
+布布|💝分享布布|type: 3|api: https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py
+爱剧|💝分享爱剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py
+py_酷我|💖分享酷我|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/酷我音乐.py
+csp_七猫|💖分享七猫|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/七猫.py
+皮皮虾|♨️皮虾｜4K|type: 3|api: http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py
+Acfun|💖分享Acfun|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
+菠菜_py|💝分享菠菜|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/菠菜园.py
+csp_猎手|💖分享猎手|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/X/main/py/LSYS.py
+py_fk|💝分享飞快|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/飞快[推].py
+永乐|💝分享永乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/X/main/py/永乐视频.py
+py_jutouse|💝分享剧透|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/剧透社.py
+py_dianyingyunji|💝分享云集|type: 3|api: https://d.kstore.dev/download/4127/py/电影云集.py
+爱奇艺|💝分享奇艺|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/爱奇艺.py
+YK|💝分享优酷|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/优酷视频.py
+txvm|💝分享腾讯|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/腾讯视频.py
+MGtv|💝分享芒果|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/芒果TV.py
+土豆浏览器|💝分享土豆|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/土豆浏览器.py
+py_ MiFunP动漫|💖分享MiFunP|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py
+py_爱听|💖分享爱听|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/爱听音乐.py
+py_枫叶音乐|🍈枫叶音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/枫叶音乐.py
+py_网易云音乐|💖分享网易|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py
+push_agent|UC盘|type: 3|api: https://fastlink.cokey.xyz/f/wwbBcj/%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2.py
+未来赶不上|赶不上未来|type: 3|api: https://mpimg.cn/down.php/efe726ad69c79898714773fc6ab499af.py
+秒看|秒看|APP|type: 3|api: https://pan.szfx.top/down.php/82192de86986cf1d3146ecdcf3b6dc7d.py
+红果|红果|type: 3|api: https://meow.668yun.top/api/s/75EKQrnPG4inVvDlqfph3ygaFWsZdMv5/红果.py
+qkw1|全看影院|type: 3|api: https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py
+洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
+SZ|山楂影视|type: 3|api: https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py
+西瓜|西瓜|type: 3|api: https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py
+懂骗|懂骗|type: 3|api: https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py
+移动|移动|type: 3|api: https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py
+影|影|type: 3|api: https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py
+山木|山木|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py
+青麦|青麦|type: 3|api: https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py
+漫闪|漫闪|type: 3|api: https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py
+云播|云播|type: 3|api: https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py
+4kav|4kav|type: 3|api: https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py
+哔幕|哔哩4K|type: 3|api: https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py
+我的哔哩|我的哔哩|type: 3|api: https://meow.668yun.top/api/s/d26yObEbm8rr5LbHYgdJg2OsfmN3Skue/我的哔哩影视.py
+jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
+文才影视|文才影视|type: 3|api: https://clun.top/py/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py
+聚搜影|聚搜影视|type: 3|api: https://pan.szfx.top/down.php/56ac2028f2dd8336dccad017927cbef1.py
+丧尸|丧尸|type: 3|api: https://mpimg.cn/down.php/9678aa77539e99560d71475e0dd0fddd.py
+鬼片网|鬼屋|type: 3|api: https://fastlink.cokey.xyz/f/5EGnHd/%E9%AC%BC%E7%89%87%E7%BD%91.py
+鬼|鬼片之家|type: 3|api: https://fastlink.cokey.xyz/f/nL1Acm/%E9%AC%BC%E7%89%87%E4%B9%8B%E5%AE%B6.py
+短剧｜聚合|聚合剧➋|type: 3|api: http://nn.4688888.xyz/py/短剧聚合.py
+界影PY|界影|type: 3|api: https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py
+央视PY|央视丨栏目|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py
+耐看|👀耐看┃|type: 3|api: https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py
+星辰影院|🪐星辰|type: 3|api: https://mpimg.cn/down.php/a89881364b7134fb2db0ab0ddeffa018.py
+人人影视|♨️人人｜影视|type: 3|api: https://17264.kstore.space/人人影视.py
+七猫|七猫｜短剧|type: 3|api: https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py
+qw|七味|type: 3|api: https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py
+猎手影视|🐆┃猎手┃影视|type: 3|api: https://play.iptv365.org/肥猫/api/LSYS.py
+bl|❤小哩｜4K测试|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py
+妙看|🌀妙看｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py
+多多|🌀多多｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py
+七星短剧|🎬七星丨短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py
+咕噜1080p.py|咕噜1080|type: 3|api: http://150.158.52.248/tgyg/py/咕噜1080p.py
+九合一版|九合一版.py|type: 3|api: http://150.158.52.248/tgyg/py/九合一版.py
+各种豆采集.py|各种豆采集|type: 3|api: http://150.158.52.248/tgyg/py/各种豆采集.py
+初见影视.py|初见影视.py|type: 3|api: http://150.158.52.248/tgyg/py/初见影视.py
+4k-av|💓‍4k-av|type: 3|api: https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py
 py_ceshi|白嫖 | py|type: 3|api: https://raw.githubusercontent.com/yueer521/Tvbox/main/lib/白嫖影视.py
 新影视|New | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/新影视.py
 VIP兔|VIP兔 | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/VIP兔.py
 可可影视|可可 | 影视|type: 3|api: https://easy888.dpdns.org/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py
 FreeOK|FreeOK | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/FreeOK.py
-央视PY|央视丨栏目|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/央视.py
 枫叶影院PY|枫叶影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/枫叶影院.py
-SZ|山楂影视|type: 3|api: https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py
-裤佬八戒PY|👖裤佬丨八戒丨PY|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py
 gulu|🐧咕噜丨蓝光秒播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py
 韩小圈|韩小圈|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py
 jieys|界影视|type: 3|api: https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py
-甜圈短剧|甜圈短剧|type: 3|api: https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/甜圈短剧.py
-河马短剧|河马短剧|type: 3|api: https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/河马短剧.py
+河马短剧|🦛┃河马┃短剧|type: 3|api: https://play.iptv365.org/肥猫/api/HMDJ.py
 橘子py|🙊橘子｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.py
-皮皮虾|♨️皮虾｜4K|type: 3|api: http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py
-fy|🐛枫叶｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
-爱看剧|爱看丨视频|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py
 追剧|🐭追剧｜不错|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py
-华数|华数｜影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/华数.py
-py_嘶哩嘶哩|🌈嘶哩｜动漫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py
 py_河马短剧[短]|🥝河马短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/河马短剧.py
 py_剧王短剧[短]|🥝剧王短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/剧王短剧.py
 py_星星短剧[短]|🥝星星短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/星星短剧.py
@@ -50,7 +272,7 @@ py_哇哇APP|🍑哇哇[影][PY]|type: 3|api: https://raw.githubusercontent.com/
 py_爱瓜TVAPP|🍑爱瓜[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/app/爱瓜TVAPP.py
 py_1905|🍑1905[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/综/1905.py
 py_国外剧APP|🍑国外剧[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/app/国外剧APP.py
-py_零度|🍑零度[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/综/零度.py
+py_零度|雷蒙影视 | 🧿零度(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/零度影视APP.py
 py_爱电影|🍑爱电影[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/html/爱电影.py
 py_华数|🍑华数[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/综/华数TV.py
 py_哔哩视频|🍑哔哩[影][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/综/哔哩视频.py
@@ -63,15 +285,12 @@ py_森林动漫|🍇森林动漫[漫][PY]|type: 3|api: https://raw.githubusercon
 py_番薯动漫|🍇番薯动漫[漫][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/模板/AppGet.py
 py_网易云|🍈网易云[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/网易云音乐.py
 py_深港音乐|🍈深港音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/深港音乐汇.py
-py_爱听音乐|🍈爱听音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/爱听音乐.py
+py_爱听音乐|雷蒙影视 | 🧿爱听(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱听音乐.py
 py_HIFI音乐|🍈HIFI音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/HIFI音乐APP.py
 py_YY音乐|🍈YY音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/yymp3.py
-py_枫叶音乐|🍈枫叶音乐[音][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/音/枫叶音乐.py
 py_聚合直播[直]|🥦聚合直播[直][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/直/网络直播.py
 追番达人|🐂达人｜平安™|type: 3|api: https://pan.vma.cc/pan/down.php/5ee3676775064c1a83199653817a8104.py
-剧下饭|♨️下饭｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py
 抖音直播|抖音｜直播|type: 3|api: http://nn.4688888.xyz/py/抖音.py
-哔哩直播|哔哩｜直播|type: 3|api: https://tv.sxi.qzz.io/py/哔哩直播.py
 斗鱼直播|斗鱼｜直播|type: 3|api: http://nn.4688888.xyz/py/斗鱼直播.py
 虎牙直播|虎牙｜直播|type: 3|api: http://nn.4688888.xyz/py/虎牙直播.py
 YY直播|YY｜直播|type: 3|api: http://nn.4688888.xyz/py/YY直播.py
@@ -87,23 +306,20 @@ PPTV|皮皮｜1K(JX)|type: 3|api: http://nn.4688888.xyz/py/pp.py
 yszb|电视台直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/ywzb.py
 央卫直播|央卫直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/yangshipin.py
 咕噜直播|咕噜直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/glzb.py
-网络直播|网络｜直播|type: 3|api: https://tv.sxi.qzz.io/py/网络直播.py
 热播APP|热播┃PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/热播APP.py
 金牌影视|金牌影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/金牌影视.py
 咕噜咕噜|咕噜4k|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/咕噜咕噜.py
-影探|影探4k|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/影探.py
 豆花影视|豆花 | 影院|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/豆花电影.py
 七味|七味┃PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/七味.py
 看客TV|看客TV|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/看客TV.py
 橘汁视频|橘汁视频|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/橘汁视频（新）.py
-py_文才|文才影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/apiv585apiv1583文才影视.py
 追影_遮天法|追影|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/追影_遮天法.py
 4K影视|4K影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/4K影视.py
 66大片网|66大片网|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/66大片网.py
 茶杯狐PY|茶杯狐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/茶杯狐.py
 小皮影院|小皮影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/小皮影院.py
 极速追剧|极速追剧|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/极速追剧.py
-多瑙影院|多瑙影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/多瑙影院.py
+多瑙影院|多瑙影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/多瑙影院.py
 一起看|一起看|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/一起看.py
 苹果影视|苹果影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/苹果影视.py
 808影院|808影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/808影院.py
@@ -111,9 +327,7 @@ ddyy|低端影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/低
 ago影院|ago影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/ago影院.py
 kkvm|可可影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/可可影视.py
 蜗牛影视|蜗牛影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/蜗牛影视.py
-GZ|瓜子PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/瓜子APP.py
 vidhub|vidhub┃PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/vidhub.py
-草莓影视|草莓影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/草莓影视.py
 初见影视|初见影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/初见影视.py
 电影侠|电影侠|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/电影侠.py
 毒舌影视|毒舌影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/毒舌影视.py
@@ -124,10 +338,8 @@ vidhub|vidhub┃PY|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/vi
 6080新视觉|6080新视觉|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/6080新视觉.py
 Auete影视|Auete影视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/Auete影视.py
 宝园|宝园影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/宝园影院.py
-高清点播|高清点播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/高清点播.py
 共青春|共青春|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/共青春.py
 好剧屋|好剧屋|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/好剧屋.py
-华谊影视|华谊影视|type: 3|api: https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/py/%E5%8D%8E%E8%B0%8A%E5%BD%B1%E8%A7%86.py
 影视大全|影视大全|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/影视大全.py
 hstv|华数TV|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/华数TV.py
 FoFo影院|FoFo影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/FoFo影院.py
@@ -136,13 +348,12 @@ migu|咪咕视频|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/mig
 cctv|央视|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/cctv.py
 哔哩视频|哔哩视频|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/哔哩视频.py
 西瓜视频|西瓜视频|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/西瓜视频.py
-pomo|pomo|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/pomo.py
+pomo|pomo|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/pomo.py
 275听书|275听书|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/275听书.py
 枫叶|枫叶音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/枫叶.py
 KW音乐|KW音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/KW音乐.py
 千千音乐|千千音乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/千千音乐.py
 饮料音乐|饮料音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/饮料音乐.py
-爱听音乐|爱听丨音乐|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱听音乐.py
 影子音乐|影子音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/影子音乐.py
 音乐聚合|音乐聚合|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/音乐聚合.py
 12年教育|十二年教育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/十二年教育.py
@@ -152,25 +363,13 @@ KW音乐|KW音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/KW�
 飞球体育|飞球体育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/飞球体育.py
 JRKAN体育|JRKAN体育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/JRKAN体育.py
 kf|咖啡体育直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/咖啡直播.py
-红果短剧|🎬红果｜短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py
 hongguo|红果·短剧|type: 3|api: https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hongguo.py
-豆瓣[py]|豆瓣[py]|type: 3|api: https://clun.top/py/douban.py
 ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ejatv.py
 轻音乐|轻音乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/轻音乐.py
-喜马拉雅|喜马拉雅|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/喜马拉雅.py
+喜马拉雅|🎮┃喜马┃听书|type: 3|api: https://play.iptv365.org/肥猫/api/喜马拉雅.py
 听书网|听书网|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/听书网456.py
 企鹅体育|企鹅体育|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py/企鹅体育.py
-金牌影院|金牌影院|type: 3|api: https://clun.top/py/goldmedal.py
-瓜子|瓜子|type: 3|api: https://clun.top/py/guazi.py
-酷客|酷客|type: 3|api: https://clun.top/py/8kvod.py
-布布追剧|布布追剧|type: 3|api: https://clun.top/py/bubuzhuiju.py
-A站平台|A站平台|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
-咕噜|咕噜|type: 3|api: http://150.158.52.248/tgyg/py/%E5%92%95%E5%99%9C1080p.py
-云播|云播|type: 3|api: https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py
-山木|山木|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py
-文才影视|文才影视|type: 3|api: https://clun.top/py/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py
 移动影院|移动影院|type: 3|api: https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/%E7%A7%BB%E5%8A%A84k.py
-LIBVIO|LIBVIO|type: 3|api: https://clun.top/py/libvio.py
 懂片帝AI|懂片帝AI|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/懂片帝AI.py
 多多影视|多多影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/dd.py
 影探聚合|影探聚合|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py
@@ -181,136 +380,25 @@ LIBVIO|LIBVIO|type: 3|api: https://clun.top/py/libvio.py
 短剧|短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
 饭团|饭团|type: 3|api: https://bitbucket.org/guot55/ygbh/raw/main/pro/py/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py
 HDmoli|HDmoli|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/pytesx/HDmoli.py
-猎手影视|猎手影视|type: 3|api: http://47.96.82.41:5188/svip/py/猎手影视.py
-橘汁|橘汁|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/橘汁.py
-看剧AI|看剧AI|type: 3|api: https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py
-飞快|飞快|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/飞快[推].py
-飞流视频|飞流视频|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/飞流视频.py
 蝶卡影视|蝶卡影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/蝶卡影视.py
 搜TV啦|搜TV啦|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/搜TV啦.py
 欧克影视|欧克影视|type: 3|api: https://yydsys.top/duo/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py
-大马猴|大马猴|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/pytesx1/大马猴.py
 网飞猫|网飞猫|type: 3|api: https://fastly.jsdelivr.net/gh/dql521/TVBox@main/py/Ncat.py
-兄弟影院|兄弟影院|type: 3|api: https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py
-bl|❤小哩｜4K测试|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py
-妙看|🌀妙看｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py
-多多|🌀多多｜1920|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py
-七星短剧|🎬七星丨短剧|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py
-TVB云播|TVB云播 | 影视|type: 3|api: https://tv.sxi.qzz.io/py/TVB云播.py
-italkbbtv|ITalkBB｜外|type: 3|api: https://tv.sxi.qzz.io/py/ITalkBBTV.py
-星芽短剧|星芽｜短剧|type: 3|api: https://tv.sxi.qzz.io/py/星芽短剧.py
 酷我音乐|酷我丨音乐|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/酷我音乐.py
+爱看剧|爱看丨视频|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/爱看剧.py
 资源大集合|资源｜集合|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/搜剧AI.py
-山楂影视|💥｜山楂 | 影视|type: 3|api: https://chigua.eu.org/py/%E5%B1%B1%E6%A5%82%E5%BD%B1%E8%A7%86.py
-耐看点播|耐看点播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py5/耐看点播.py
-一起影视|一起影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/一起影视.py
-看戏影视|看戏影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/看戏影视.py
-ptt影院|ptt影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ptt影院.py
-山楂|♨️山楂｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py
-追剧达人|追剧达人|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/追剧达人.py
-咸鱼影视|咸鱼影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py
-不错|不错|type: 3|api: https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py
-开端影视|开端影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开端影视.py
-枫叶影院|枫叶影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py
-布布|布布|type: 3|api: https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py
-VS影院|VS影院|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/VS影院.py
-应该可以|💝分享4|K|type: 3|api: https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py
-短剧┃搜索1|🏠短剧┃搜1|type: 3|api: https://mpimg.cn/down.php/7e246e896fa4cf52866921b8d7e8cb.py
-短剧搜索|🏠短剧┃搜2|type: 3|api: https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a866.py
-七猫短剧|🎬七猫┃短剧|type: 3|api: https://0.wudaozhe.net/5/lib/qmdj.py
-py_douban|豆瓣[py]|type: 3|api: https://clun.top/py/douban.py
-py_shortfilm|短剧[py]|type: 3|api: https://clun.top/py/shortfilm.py
-py_apples|苹果[py]|type: 3|api: https://clun.top/py/apples.py
-py_maple|枫叶[py]|type: 3|api: https://clun.top/py/maple.py
-py_juzong|剧踪[py]|type: 3|api: https://clun.top/py/juzong.py
-py_hongguo|红果[py]|type: 3|api: https://clun.top/py/hongguo.py
-py_guazi|瓜子[py]|type: 3|api: https://clun.top/py/guazi.py
-py_pianku4k|片库[py]|type: 3|api: https://clun.top/py/pianku4k.py
-py_huavod|华视[py]|type: 3|api: https://clun.top/py/huavod.py
-py_如意|如意[py]|type: 3|api: https://clun.top/py/ruyishipin.py
-py_8kvod|酷客[py]|type: 3|api: https://clun.top/py/8kvod.py
-py_yysub|人人[py]|type: 3|api: https://clun.top/py/yysub.py
-py_ppnix|PPnix[py]|type: 3|api: https://clun.top/py/ppnix.py
-py_libvio|LIBVIO[py]|type: 3|api: https://clun.top/py/libvio.py
-py_wbbb|歪比巴卜[py]|type: 3|api: https://clun.top/py/wbbb.py
-py_kkys|可可追剧[py]|type: 3|api: https://clun.top/py/kkys.py
-py_bubuzhuiju|布布追剧[py]|type: 3|api: https://clun.top/py/bubuzhuiju.py
-py_dsystv|袋鼠影视[py]|type: 3|api: https://clun.top/py/dsystv.py
-py_ysttv|影视天堂[py]|type: 3|api: https://clun.top/py/ysttv.py
-py_xlys|雪落影视[py]|type: 3|api: https://clun.top/py/xlys.py
-py_shanzha|山楂影视[py]|type: 3|api: https://clun.top/py/shanzha.py
-py_qiyoudy|奇优影视[py]|type: 3|api: https://clun.top/py/qiyoudy.py
-py_dantatv|蛋挞影视[py]|type: 3|api: https://clun.top/py/dantatv.py
-py_yangguang|阳光影视[py]|type: 3|api: https://clun.top/py/yangguang.py
-py_saohuo|骚火影视[py]|type: 3|api: https://clun.top/py/saohuo.py
-py_duoduo|多多影视[py]|type: 3|api: https://clun.top/py/duoduo.py
-py_oule|欧乐影院[py]|type: 3|api: https://clun.top/py/oule.py
-py_juok3|剧OK[py]|type: 3|api: https://clun.top/py/juok3.py
-py_fqdm|番茄动漫[py]|type: 3|api: https://clun.top/py/fqdm.py
-py_高清电影|高清电影[py]|type: 3|api: https://clun.top/py/高清电影.py
-py_金牌影院|金牌影院[py]|type: 3|api: https://clun.top/py/goldmedal.py
-py_奇优动漫|奇优动漫[py]|type: 3|api: https://clun.top/py/奇优动漫.py
-py_粤漫动漫|粤漫动漫[py]|type: 3|api: https://clun.top/py/粤漫.py
-py_jieyingshi|界影视[py]|type: 3|api: https://clun.top/py/jieyingshi.py
-py_aigua|爱瓜TV[py]|type: 3|api: https://clun.top/py/aigua.py
-py_guowaiju|国外剧情[py]|type: 3|api: https://clun.top/py/guowaiju.py
-py_偷乐|偷乐短剧[py]|type: 3|api: https://clun.top/py/偷乐短剧.py
-py_嗨皮|嗨皮影视[py]|type: 3|api: https://clun.top/py/嗨皮影视.py
-py_云端|云端影视[py]|type: 3|api: https://clun.top/py/云端影视.py
-py_云速|云速影视[py]|type: 3|api: https://clun.top/py/云速影视.py
-py_农牧|农牧影视[py]|type: 3|api: https://clun.top/py/农民影视.py
-py_4KAV|4KAV[py]|type: 3|api: https://clun.top/py/4KAV.py
-py_YYMP3|YYMP3[py]|type: 3|api: https://clun.top/py/yymp3.py
-py_mifun|MiFun｜动漫|type: 3|api: https://clun.top/py/mifun.py
-py_yinhuaone|樱花｜动漫|type: 3|api: https://clun.top/py/yinhuaone.py
-瓜子影视|瓜子｜影视|type: 3|api: https://11405.kstore.space/xiaye/js/瓜子.py
-哔哩直播py|🌇｜哔哩｜直播|type: 3|api: https://chigua.eu.org/py/哔哩直播.py
-爱听音乐py|♦｜爱听｜音乐|type: 3|api: https://chigua.eu.org/py/爱听音乐.py
-洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
-西瓜|西瓜|type: 3|api: https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py
-懂骗|懂骗|type: 3|api: https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py
-移动|移动|type: 3|api: https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py
-影|影|type: 3|api: https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py
-青麦|青麦|type: 3|api: https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py
-漫闪|漫闪|type: 3|api: https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py
-歪比巴卜|巴卜|type: 3|api: https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py
-4kav|4kav|type: 3|api: https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py
-Acfun|Acfun|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
-哔幕|哔哩4K|type: 3|api: https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py
-我的哔哩|我的哔哩|type: 3|api: https://meow.668yun.top/api/s/d26yObEbm8rr5LbHYgdJg2OsfmN3Skue/我的哔哩影视.py
-jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
-聚搜影|聚搜影视|type: 3|api: https://pan.szfx.top/down.php/56ac2028f2dd8336dccad017927cbef1.py
-丧尸|丧尸|type: 3|api: https://mpimg.cn/down.php/9678aa77539e99560d71475e0dd0fddd.py
-鬼片网|鬼屋|type: 3|api: https://fastlink.cokey.xyz/f/5EGnHd/%E9%AC%BC%E7%89%87%E7%BD%91.py
-鬼|鬼片之家|type: 3|api: https://fastlink.cokey.xyz/f/nL1Acm/%E9%AC%BC%E7%89%87%E4%B9%8B%E5%AE%B6.py
-短剧｜聚合|聚合剧➋|type: 3|api: http://nn.4688888.xyz/py/短剧聚合.py
-界影PY|界影|type: 3|api: https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py
-耐看|👀耐看┃|type: 3|api: https://mpimg.cn/down.php/64822fa89d2b95024b3d621b379dc166.py
-星辰影院|🪐星辰|type: 3|api: https://mpimg.cn/down.php/a89881364b7134fb2db0ab0ddeffa018.py
-人人影视|♨️人人｜影视|type: 3|api: https://17264.kstore.space/人人影视.py
-剧王短剧|剧王｜短剧|type: 3|api: https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py
-七猫|七猫｜短剧|type: 3|api: https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py
-qw|七味|type: 3|api: https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py
-bilibili|B站｜星源|type: 3|api: https://11405.kstore.space/xiaye/js/哔哩合集.py
-咕噜1080p.py|咕噜1080|type: 3|api: http://150.158.52.248/tgyg/py/咕噜1080p.py
-九合一版|九合一版.py|type: 3|api: http://150.158.52.248/tgyg/py/九合一版.py
-各种豆采集.py|各种豆采集|type: 3|api: http://150.158.52.248/tgyg/py/各种豆采集.py
-初见影视.py|初见影视.py|type: 3|api: http://150.158.52.248/tgyg/py/初见影视.py
-4k-av|💓‍4k-av|type: 3|api: https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py
-央库云|🥇央视🔹大全|type: 3|api: https://7337.kstore.vip/xw/py/央库云.py
-央视影视|🥇央视🔹栏目|type: 3|api: https://7337.kstore.vip/xw/py/央视影视.py
-py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
-py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
+央库云|央视｜云聚|type: 3|api: http://47.96.82.41:5188/svip/py/央库云.py
+央视影视|☀央视🔹栏目|type: 3|api: https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/py/央视影视.py
 py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/咖啡直播.py
-世界听书|世界 • 听书|type: 3|api: https://oss-v1.wangmeipo.cn/236/世界听书.py
+py_星芽短剧APP|✨py星芽短剧✨乐哥甄选✨|type: 3|api: https://raw.githubusercontent.com/lege0001/TVbox/main/TV/py/星芽短剧.py
+py_河马短剧APP|✨py河马短剧✨乐哥甄选✨|type: 3|api: https://raw.githubusercontent.com/lege0001/TVbox/main/TV/py/河马短剧.py
+py_西饭短剧APP|✨py稀饭短剧✨乐哥甄选✨|type: 3|api: https://raw.githubusercontent.com/lege0001/TVbox/main/TV/py/西饭短剧.py
+零度|🥶┃零度┃影视|type: 3|api: https://play.iptv365.org/肥猫/api/lingdu.py
 2|👖聚合|type: 3|api: https://jsnz.pages.dev/f/4df9fb60.py
 4|👖娱乐|type: 3|api: https://jsnz.pages.dev/f/26511242.py
 5|👖影视|type: 3|api: https://jsnz.pages.dev/f/9e53615c.py
-6|👖短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
-7|👖采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 8|👖音乐|type: 3|api: https://jsnz.pages.dev/f/eded33cf.py
 9|👖动漫|type: 3|api: https://jsnz.pages.dev/f/7e20bdb7.py
-11|👖网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py
 12|👖磁力|type: 3|api: https://jsnz.pages.dev/f/baad9656.py
 13|👖4k|type: 3|api: https://jsnz.pages.dev/f/af676592.py
 14|👖APP|type: 3|api: https://jsnz.pages.dev/f/77cec76a.py
@@ -320,3 +408,93 @@ py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/�
 23|👖听书|type: 3|api: https://jsnz.pages.dev/f/d44dd2cf.py
 24|👖有声|type: 3|api: https://jsnz.pages.dev/f/e126d1e4.py
 测试专用|📌测试|type: 3|api: https://jsnz.pages.dev/f/e7124867.py
+热热影视|热热｜APP|type: 3|api: http://47.96.82.41:5188/svip/py/热播影视.py
+边缘影视|边缘｜影视|type: 3|api: http://47.96.82.41:5188/svip/py/边缘影视.py
+py_瓜子影视|雷蒙影视 | 🌱瓜子(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/瓜子影视.py
+py_火花_APP|雷蒙影视 | 🧿火花(FOX)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/appfox.py
+py_首发_APP|雷蒙影视 | 🧿首发(QIJI)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/qijiapp.py
+py_金都_APP|雷蒙影视 | 🧿金都(GET)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py
+py_红果|雷蒙影视 | 🧿红果(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/红果网页.py
+py_CliCli|雷蒙影视 | 🧿CliCli(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/CliCli动漫APP.py
+py_HiTV|雷蒙影视 | 🧿HiTV(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/hitvAPP.py
+py_MiFun|雷蒙影视 | 🧿MiFun(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/MiFunAPP.py
+py_热播|雷蒙影视 | 🧿热播(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/热播APP.py
+py_海马|雷蒙影视 | 🧿海马(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/海马影视APP.py
+py_奇迹|雷蒙影视 | 🧿奇迹(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/奇迹APP.py
+py_外剧|雷蒙影视 | 🧿外剧(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/国外剧APP.py
+py_爱瓜|雷蒙影视 | 🧿爱瓜(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/爱瓜TVAPP.py
+py_边缘|雷蒙影视 | 🧿边缘(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/边缘影视APP.py
+py_光速|雷蒙影视 | 🧿光速(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/光速APP.py
+py_火车|雷蒙影视 | 🧿火车(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/火车太顺APP.py
+py_剧多|雷蒙影视 | 🧿剧多(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/剧多短剧APP.py
+py_恋鱼|雷蒙影视 | 🧿恋鱼(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/恋鱼影视APP.py
+py_美帕|雷蒙影视 | 🧿美帕(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/美帕APP.py
+py_魔方|雷蒙影视 | 🧿魔方(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/魔方影视APP.py
+py_胖虎|雷蒙影视 | 🧿胖虎(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/胖虎APP.py
+py_皮虾|雷蒙影视 | 🧿皮虾(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/皮皮虾APP.py
+py_若惜|雷蒙影视 | 🧿若惜(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/若惜追剧APP.py
+py_三号|雷蒙影视 | 🧿三号(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/三号动漫APP.py
+py_视觉|雷蒙影视 | 🧿视觉(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/视觉APP.py
+py_哇哇|雷蒙影视 | 🧿哇哇(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/哇哇APP.py
+py_苹果|雷蒙影视 | 🧿苹果(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/小苹果APP.py
+py_悠悠|雷蒙影视 | 🧿悠悠(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/悠悠APP.py
+py_山楂|雷蒙影视 | 🧿山楂(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/山楂.py
+py_飞快TV|雷蒙影视 | 🧿飞快(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/飞快TV.py
+py_redflix|雷蒙影视 | 🧿REDFLIX(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/redflix.py
+py_456movie|雷蒙影视 | 🧿456Movie(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/456movie.py
+py_LREEOK|雷蒙影视 | 🧿LREEOK(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LREEOK.py
+py_NUNFLIX|雷蒙影视 | 🧿Nunflix(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/NUNFLIX.py
+py_荐片|雷蒙影视 | 🧿荐片(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/荐片.py
+py_厂长|雷蒙影视 | 🧿厂长(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/厂长资源.py
+py_明月|雷蒙影视 | 🧿明月(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/明月影院.py
+py_壹帆|雷蒙影视 | 🧿壹帆(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱壹帆.py
+py_泥视|雷蒙影视 | 🧿泥视(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/泥视频.py
+py_想看|雷蒙影视 | 🧿想看(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/想看影视.py
+py_追星|雷蒙影视 | 🧿追星(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/追星影视.py
+py_猎手|雷蒙影视 | 🧿猎手(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/电影猎手.py
+py_柯南|雷蒙影视 | 🧿柯南(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/柯南影视.py
+py_骚火|雷蒙影视 | 🧿骚火(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/骚火电影.py
+py_剧粑|雷蒙影视 | 🧿剧粑(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/剧粑粑.py
+py_小红|雷蒙影视 | 🧿小红(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/小红影视.py
+py_金牌|雷蒙影视 | 🧿金牌(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/金牌.py
+py_旺旺|雷蒙影视 | 🧿旺旺(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/旺旺.py
+py_绝对|雷蒙影视 | 🧿绝对(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/绝对影视.py
+py_星芽|雷蒙影视 | 🧿星芽(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/星芽短剧.py
+py_剧王|雷蒙影视 | 🧿剧王(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/剧王短剧.py
+py_爱看|雷蒙影视 | 🧿爱看(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/爱看短剧.py
+py_锦鲤|雷蒙影视 | 🧿锦鲤(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/锦鲤短剧.py
+py_河马|雷蒙影视 | 🧿河马(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/河马短剧.py
+py_好帅|雷蒙影视 | 🧿好帅(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/好帅短剧.py
+py_甜圈|雷蒙影视 | 🧿甜圈(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/甜圈短剧.py
+py_嗷呜|雷蒙影视 | 🧿嗷呜(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/嗷呜动漫.py
+py_柠檬|雷蒙影视 | 🧿柠檬(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py
+fy|🐛枫叶｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
+py_嘶哩嘶哩|🌈嘶哩｜动漫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py
+豆瓣[py]|豆瓣[py]|type: 3|api: https://clun.top/py/douban.py
+金牌影院|金牌影院|type: 3|api: https://clun.top/py/goldmedal.py
+瓜子|瓜子|type: 3|api: https://clun.top/py/guazi.py
+酷客|酷客|type: 3|api: https://clun.top/py/8kvod.py
+布布追剧|布布追剧|type: 3|api: https://clun.top/py/bubuzhuiju.py
+A站平台|A站平台|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
+LIBVIO|LIBVIO|type: 3|api: https://clun.top/py/libvio.py
+飞快|飞快|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/飞快[推].py
+飞流视频|飞流视频|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/飞流视频.py
+兄弟影院|兄弟影院|type: 3|api: https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py
+耐看点播|耐看点播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py5/耐看点播.py
+看戏影视|看戏影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/看戏影视.py
+ptt影院|ptt影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ptt影院.py
+山楂|♨️山楂｜4K线路|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py
+咸鱼影视|咸鱼影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咸鱼影视.py
+不错|不错|type: 3|api: https://mpimg.cn/down.php/bc80799ad66c35679f558aa92eb42ebc.py
+枫叶影院|枫叶影院|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/枫叶影院.py
+应该可以|💝分享4|K|type: 3|api: https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py
+短剧┃搜索1|🏠短剧┃搜1|type: 3|api: https://mpimg.cn/down.php/7e246e896fa4cf52866921b8d7e8cb.py
+短剧搜索|🏠短剧┃搜2|type: 3|api: https://mpimg.cn/down.php/18b8bebbf7b64d39a1e3a90c83a866.py
+七猫短剧|🎬七猫┃短剧|type: 3|api: https://0.wudaozhe.net/5/lib/qmdj.py
+py_如意|如意[py]|type: 3|api: https://clun.top/py/ruyishipin.py
+py_yysub|人人[py]|type: 3|api: https://clun.top/py/yysub.py
+py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
+py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
+6|👖短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
+7|👖采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
+11|👖网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py

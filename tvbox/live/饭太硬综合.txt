@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="饭太硬•综合",饭太硬•综合
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>

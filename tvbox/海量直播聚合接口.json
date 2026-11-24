@@ -1,16 +1,1486 @@
 {
   "lives": [
     {
-      "name": "Gather.电视直播",
+      "name": "Guovin",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "ua": "",
+      "source": "11405_kstore_space"
+    },
+    {
+      "name": "平台直播",
+      "url": "http://118.89.172.248:8025/jar/zb.php",
+      "ua": "",
+      "source": "47_120_41_246_8025"
+    },
+    {
+      "name": "港澳台",
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "ua": "",
+      "source": "47_120_41_246_8025"
+    },
+    {
+      "name": "电视狗",
+      "url": "https://zb.7778.uk",
+      "ua": "",
+      "source": "47_96_82_41"
+    },
+    {
+      "name": "电视狗1线",
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "ua": "",
+      "source": "47_96_82_41"
+    },
+    {
+      "name": "电视狗2线",
+      "url": "https://zb.7778.uk/starlink.m3u",
+      "ua": "",
+      "source": "47_96_82_41"
+    },
+    {
+      "name": "榴芒电视",
+      "url": "http://8.138.7.223/so/uploads/jk/lmds.txt",
+      "ua": "bingcha/1.1(mianfeifenxiang)",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "范明明（需开启V6网络）",
+      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "ua": "",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "虎牙一起看",
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "斗鱼一起看",
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "B站直播",
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "YY轮播",
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "8_138_7_223"
+    },
+    {
+      "name": "Kimentanm",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "9280_kstore_space"
+    },
+    {
+      "name": "综合直播",
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "source": "9280_kstore_space"
+    },
+    {
+      "name": "DD",
+      "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt",
+      "ua": "",
+      "source": "Dong_learn9"
+    },
+    {
+      "name": "YM",
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "ua": "",
+      "source": "Dong_learn9"
+    },
+    {
+      "name": "QQ",
+      "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
+      "ua": "",
+      "source": "Dong_learn9"
+    },
+    {
+      "name": "LF",
+      "url": "https://cf.ghproxy.cc/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+      "ua": "",
+      "source": "Dong_learn9"
+    },
+    {
+      "name": "直播",
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "",
+      "source": "Dong_learn9"
+    },
+    {
+      "name": "AI直播",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "OK1"
+    },
+    {
+      "name": "MIGU",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
+      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "source": "OK1"
+    },
+    {
+      "name": "电视Live",
+      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+      "ua": "okhttp/3.15",
+      "source": "OK1"
+    },
+    {
+      "name": "江苏移动",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt",
+      "ua": "",
+      "source": "OK1"
+    },
+    {
+      "name": "一起看",
+      "url": "https://play.iptv365.org/OK/yqk",
+      "ua": "",
+      "source": "OK1"
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "OK1"
+    },
+    {
+      "name": "肥羊B站直播",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "OK1"
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "OK1"
+    },
+    {
+      "name": "肥羊YY轮播",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "OK1"
+    },
+    {
+      "name": "live.ipv6",
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "live.ipv6.m3u",
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "live.ipv6.local",
+      "url": "https://play.iptv365.org/PG/lib/live.ipv6.txt",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "live.fan",
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "PG"
+    },
+    {
+      "name": "YTLive",
+      "url": "https://play.iptv365.org/PG/lib/yo21.txt",
+      "ua": "",
+      "source": "PG"
+    },
+    {
+      "name": "直播1线",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "ua": "",
+      "source": "PG"
+    },
+    {
+      "name": "TXT",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "source": "PG"
+    },
+    {
+      "name": "Json",
+      "url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "source": "PG"
+    },
+    {
+      "name": "live.feimao",
+      "url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
+      "ua": "okhttp/3.12.13",
+      "source": "PG"
+    },
+    {
+      "name": "migu",
+      "url": "https://develop202.github.io/migu_video/interface.txt",
+      "ua": "okhttp/3.8.1",
+      "source": "QIST"
+    },
+    {
+      "name": "live",
+      "url": "https://epg.pw/test_channels.m3u",
+      "ua": "okhttp/3.8.1",
+      "source": "QIST"
+    },
+    {
+      "name": "ipv6",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/tvboxtv.txt",
+      "ua": "okhttp/3.8.1",
+      "source": "QIST"
+    },
+    {
+      "name": "电视直播",
+      "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "ua": "",
+      "source": "android_lushunming_qzz_io"
+    },
+    {
+      "name": "直播2线",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+      "ua": "",
+      "source": "android_lushunming_qzz_io"
+    },
+    {
+      "name": "LIVE",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+      "ua": "",
+      "source": "apple"
+    },
+    {
+      "name": "LIVE_fan",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "ua": "",
+      "source": "apple"
+    },
+    {
+      "name": "LIVE_home",
+      "url": "https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8",
+      "ua": "",
+      "source": "apple"
+    },
+    {
+      "name": "LIVE_Gather",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+      "ua": "",
+      "source": "apple"
+    },
+    {
+      "name": "LIVEfl",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
+      "ua": "",
+      "source": "apple"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "ua": "okhttp/3.15",
+      "source": "cdn_jsdelivr_net"
+    },
+    {
+      "name": "SAO0",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/libs/tv/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "cdn_jsdelivr_net"
+    },
+    {
+      "name": "IPV6",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/lib/tv/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "cdn_jsdelivr_net"
+    },
+    {
+      "name": "cluntop",
+      "url": "https://clun.top/lib/iptv.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "cluntop_test",
+      "url": "https://clun.top/lib/iptv_test.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "歌手直播",
+      "url": "https://mgtv.ottiptv.cc/mglist.m3u",
+      "ua": "okhttp/3.15",
+      "source": "clun"
+    },
+    {
+      "name": "Kimentanm1线",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "wqwqwq",
+      "url": "https://la1.wqwqwq.sbs/tv.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "YanG",
+      "url": "https://https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "suxuang",
+      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "Guovin1线",
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "mlzlzj",
+      "url": "https://raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "gambiarras",
+      "url": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "epg.pw All",
+      "url": "https://m3u.002397.xyz/all.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "iptv.org All",
+      "url": "https://m3u.002397.xyz/o_all.m3u",
+      "ua": "",
+      "source": "clun"
+    },
+    {
+      "name": "develop202",
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "cnmb_cc_cd"
+    },
+    {
+      "name": "冰 茶",
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)",
+      "source": "cnmb_cc_cd"
+    },
+    {
+      "name": "live1线",
+      "url": "http://183.131.83.37:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
+      "ua": "okhttp/3.15",
+      "source": "d_kstore_dev"
+    },
+    {
+      "name": "live.ipv61线",
+      "url": "https://catbox.n13.club/jk/live",
+      "ua": "okhttp/3.15",
+      "source": "d_kstore_dev_download"
+    },
+    {
+      "name": "live.ipv6.m3u1线",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "d_kstore_dev_download"
+    },
+    {
+      "name": "live.ipv6.local1线",
+      "url": "https://catbox.n13.club/jk/lib/live.ipv6.txt",
+      "ua": "okhttp/3.15",
+      "source": "d_kstore_dev_download"
+    },
+    {
+      "name": "live.fan1线",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "d_kstore_dev_download"
+    },
+    {
+      "name": "Json1线",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+      "source": "d_kstore_dev_download"
+    },
+    {
+      "name": "牛播一(新版影视仓/ok影视)",
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV4",
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV6①",
+      "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "IPV6②",
+      "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
+      "ua": "",
+      "source": "dxawi"
+    },
+    {
+      "name": "直播3线",
+      "url": "https://gh-proxy.org/https://raw.github.com/tly824/tly-iptv/main/2026-8.14.txt",
+      "ua": "",
+      "source": "gh_proxy_org"
+    },
+    {
+      "name": "📡央视频",
+      "url": "https://mpimg.cn/down.php/caac7a6dae8f835257a11e7a11291bf2.txt",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8066.0 Safari/537.36",
+      "source": "gh_proxy_org_https"
+    },
+    {
+      "name": "芙蕾测试",
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/js/live.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "咪咕直播",
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "清舒直播",
+      "url": "http://38.75.136.137:88/api/tvlist.php",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "超清测试",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/fuleishu/ceshi/refs/heads/main/aptv.m3u",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "全国组播",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "咪咕速播",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "王子直播",
+      "url": "https://gitee.com/g1753462733/zb/raw/main/itvlist.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "稳定央卫",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "江苏移动1线",
+      "url": "https://gitee.com/fuleishu/fulei/raw/master/zhiboceshi/ceshi1.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
+      "source": "gitee_com"
+    },
+    {
+      "name": "live2线",
+      "url": "https://pan.shangui.cc/f/xamXtZ/%E5%87%AF%E5%BC%9F.txt",
+      "ua": "",
+      "source": "jihulab_com"
+    },
+    {
+      "name": "佛系收集(EXO)",
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/3.15",
-      "source": "接口002"
+      "source": "letian1650"
+    },
+    {
+      "name": "毒盒live",
+      "url": "https://tv.youdu.fan:666/live/live.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "V4聚合（卡顿请按左┃右键换线）",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "Guovin（卡顿请按左┃右键换线）",
+      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "vbskycn(ipv4)",
+      "url": "https://gh.cswklt.top/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "vbskycn(ipv6)",
+      "url": "https://gh.cswklt.top/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "平台直播1线",
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "source": "letian1650"
+    },
+    {
+      "name": "直播4线",
+      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "直播ipv6",
+      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "一木",
+      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "央视频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "地方频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "卫视频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "电影频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/电影频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "儿童频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/儿童频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "其他频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/其他频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "体育频道IPV4",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/体育频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "央视频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/央视频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "地方频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/地方频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "卫视频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/卫视频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "电影频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/电影频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "儿童频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/儿童频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "其他频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/其他频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "体育频道ipv6",
+      "url": "https://live.hacks.tools/tv/ipv6/categories/体育频道.m3u",
+      "ua": "",
+      "source": "letian1650"
+    },
+    {
+      "name": "👖裤佬TV直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖日后TV直播",
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "ua": "okhttp/3",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖涛涛TV直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖易发TV直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖咪咕TV直播",
+      "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖宫殿TV直播",
+      "url": "https://gongdian.top/tv/iptv",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖虎牙TV直播",
+      "url": "https://yg.ygbox.de5.net/huya.php",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖JackTV直播{翻}",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖台湾TV直播{翻}",
+      "url": "https://ha.msbot.dpdns.org/4gtv_api.php",
+      "ua": "okhttp/5.3.2",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "👖全球TV直播{翻}",
+      "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u",
+      "ua": "",
+      "source": "pastecode_dev"
+    },
+    {
+      "name": "①live(EXO)",
+      "url": "https://play.iptv365.org/天天开心/lives/①live(EXO).txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "②Live(IJK)",
+      "url": "https://play.iptv365.org/天天开心/lives/②Live(IJK).txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "③猫TV线路(EXO)",
+      "url": "https://play.iptv365.org/天天开心/lives/③猫TV线路(EXO).txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "④猫TV线路(IJK)",
+      "url": "https://play.iptv365.org/天天开心/lives/④猫TV线路(IJK).txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "Gather.电视直播",
+      "url": "https://play.iptv365.org/天天开心/lives/Gather.电视直播.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
     },
     {
       "name": "Gather.网络直播",
-      "url": "https://tv.iill.top/m3u/Live",
+      "url": "https://play.iptv365.org/天天开心/lives/Gather.网络直播.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
+      "url": "https://play.iptv365.org/天天开心/lives/抖音、斗鱼、B站、YY、Afreeca、Youtube.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "广东银河频道",
+      "url": "https://play.iptv365.org/天天开心/lives/广东银河频道.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "⑪V6明线路",
+      "url": "https://play.iptv365.org/天天开心/lives/⑪V6明线路.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "②⑥范明线路",
+      "url": "https://play.iptv365.org/天天开心/lives/②⑥范明线路.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "③②备用虎牙",
+      "url": "https://play.iptv365.org/天天开心/lives/③②备用虎牙.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "③③备用斗鱼",
+      "url": "https://play.iptv365.org/天天开心/lives/③③备用斗鱼.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "③④16万MV",
+      "url": "https://play.iptv365.org/天天开心/lives/③④16万MV.txt",
+      "ua": "",
+      "source": "play_iptv365_org"
+    },
+    {
+      "name": "ipv61线",
+      "url": "https://qist.ugigc.dpdns.org/tvboxtv.txt",
+      "ua": "okhttp/3.8.1",
+      "source": "qist_ugigc_dpdns_org"
+    },
+    {
+      "name": "Kimentanm2线",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "qist_wyfc_qzz_io"
+    },
+    {
+      "name": "24live",
+      "url": "https://urlzf.zone.id/iptv-api/output/user_result.m3u",
+      "ua": "",
+      "source": "tv_203511_xyz"
+    },
+    {
+      "name": "极直播电视(php)",
+      "url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
+      "ua": "",
+      "source": "tv_203511_xyz"
+    },
+    {
+      "name": "88KQ",
+      "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
+      "ua": "",
+      "source": "tv_203511_xyz"
+    },
+    {
+      "name": "16万•MV",
+      "url": "https://gh.tryxd.cn/raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "ua": "",
+      "source": "tv_203511_xyz"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://jinenge.us.kg/app/tvbox/lib/interface.txt",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "手动不知何时更新",
+      "url": "https://jinenge.us.kg/app/tvbox/lib/x.txt",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "有效期27年7月",
+      "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "自动更新",
+      "url": "https://z.szyyds.cn/iptv",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "音乐所",
+      "url": "https://jinenge.us.kg/app/tvbox/lib/yy.txt",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "一起看1线",
+      "url": "https://jinenge.us.kg/app/tvbox/yqk",
+      "ua": "",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "肥羊虎牙一起看1线",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "肥羊B站直播1线",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/bililive.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "肥羊斗鱼一起看1线",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "肥羊YY轮播1线",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://x.szyyds.cn/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.4.0.0",
+      "source": "tvbox放飞"
+    },
+    {
+      "name": "电视家丰彩-三方-会员过期直播将不稳定",
+      "url": "http://47.94.35.147:8899/m3u",
+      "ua": "",
+      "source": "tvjuhe_mitetech_cn_5622"
+    },
+    {
+      "name": "易发三方-或付费赞助得会员",
+      "url": "https://gh-proxy.org/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+      "ua": "",
+      "source": "tvjuhe_mitetech_cn_5622"
+    },
+    {
+      "name": "电视家test-会员或已过期请兑换后重启软件",
+      "url": "http://jfn.mitetech.cn:280/m3u",
+      "ua": "",
+      "source": "tvjuhe_mitetech_cn_5622"
+    },
+    {
+      "name": "萌萌中心",
+      "url": "https://xymm.1000s.dpdns.org/txt",
+      "ua": "",
+      "source": "tvjuhe_mitetech_cn_5622"
+    },
+    {
+      "name": "牛播一",
+      "url": "http://127.0.0.1:9978/proxy?do=cctva",
+      "ua": "",
+      "source": "www_ls660_com"
+    },
+    {
+      "name": "冰茶",
+      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "source": "www_ls660_com_TV"
+    },
+    {
+      "name": "live3线",
+      "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/lib/tvzb.txt",
+      "ua": "",
+      "source": "xhztv_top"
+    },
+    {
+      "name": "太阳",
+      "url": "http://111.67.196.181/zhibo.txt",
+      "ua": "",
+      "source": "yw88075_js"
+    },
+    {
+      "name": "develop2021线",
+      "url": "http://ztha.top/TVBox/lib/interface.txt",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "Kimentanm3线",
+      "url": "http://ztha.top/TVBox/lib/iptv.m3u",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "挺好直播",
+      "url": "http://ztha.top/TVBox/tv/thtv.txt",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "MV",
+      "url": "http://ztha.top/TVBox/tv/MV.txt",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "范明明（需开启V6网络）1线",
+      "url": "http://ztha.top/TVBox/lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "世界杯",
+      "url": "http://ztha.top/TVBox/lib/fwc.m3u",
+      "ua": "",
+      "source": "ztha_top"
+    },
+    {
+      "name": "虎牙一起看1线",
+      "url": "http://ztha.top/TVBox/lib/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "ztha_top"
+    },
+    {
+      "name": "斗鱼一起看1线",
+      "url": "http://ztha.top/TVBox/lib/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "ztha_top"
+    },
+    {
+      "name": "B站直播1线",
+      "url": "http://ztha.top/TVBox/lib/bililive.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "ztha_top"
+    },
+    {
+      "name": "YY轮播1线",
+      "url": "http://ztha.top/TVBox/lib/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "ztha_top"
+    },
+    {
+      "name": "IPv4",
+      "url": "https://raw.githubusercontent.com/xzwei528/qixia/main/live.txt",
+      "ua": "okhttp/3.12.13",
+      "source": "七夏TV"
+    },
+    {
+      "name": "裤佬",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "Kimentanm4线",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "综合直播1线",
+      "url": "https://ds65.tv1288.xyz",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "source": "东篱"
+    },
+    {
+      "name": "develop2022线",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "EPG直播",
+      "url": "http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "电视直播1线",
+      "url": "http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "酒店源",
+      "url": "https://gongdian.top/tv/guovin",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "游魂",
+      "url": "https://www.iyouhun.com/tv/zb",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "YanG1线",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "suxuang1线",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "ua": "",
+      "source": "东篱"
+    },
+    {
+      "name": "live4线",
+      "url": "https://jihulab.com/yueer/yueera/-/raw/main/10.19/Tvbox/live.txt",
+      "ua": "",
+      "source": "优质"
+    },
+    {
+      "name": "develop2023线",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "余生"
+    },
+    {
+      "name": "V4聚合（卡顿请按左┃右键换线）1线",
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "ua": "",
+      "source": "余生"
+    },
+    {
+      "name": "V6",
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "余生"
+    },
+    {
+      "name": "南风直播源",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "ua": "okhttp/3.15",
-      "source": "接口002"
+      "source": "健康家用"
+    },
+    {
+      "name": "IPv41线",
+      "url": "http://101.200.122.188/66",
+      "ua": "okhttp/3.12.13",
+      "source": "凯弟"
+    },
+    {
+      "name": "superiptv",
+      "url": "http://127.0.0.1:5266/iptv.m3u",
+      "ua": "",
+      "source": "凯速"
+    },
+    {
+      "name": "💖分享者直播",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt",
+      "ua": "",
+      "source": "分享"
+    },
+    {
+      "name": "💝分享者直播+",
+      "url": "https://xoxo.cn.mt/Lonely.m3u",
+      "ua": "",
+      "source": "分享"
+    },
+    {
+      "name": "💕分享者直播3",
+      "url": "http://lisha521.dynv6.net.fh4u.org/tv.txt",
+      "ua": "",
+      "source": "分享"
+    },
+    {
+      "name": "💕分享者直播4",
+      "url": "http://lisha521.dynv6.net.fh4u.org/iptv.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "分享"
+    },
+    {
+      "name": "💕分享者直播5",
+      "url": "http://lisha521.dynv6.net.fh4u.org/hlj.txt",
+      "ua": "okhttp/3.15",
+      "source": "分享"
+    },
+    {
+      "name": "💕分享者直播7",
+      "url": "http://lisha521.dynv6.net.fh4u.org/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "分享"
+    },
+    {
+      "name": "💕分享者直播8",
+      "url": "http://127.0.0.1:10079/c/3600/null/http://lisha521.dynv6.net.fh4u.org/live1.txt",
+      "ua": "okhttp/3.15",
+      "source": "分享"
+    },
+    {
+      "name": "SAO01线",
+      "url": "https://raw.githubusercontent.com/liu673cn/box/main/libs/tv/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "刘备"
+    },
+    {
+      "name": "IPV61线",
+      "url": "https://raw.githubusercontent.com/liu673cn/box/main/lib/tv/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "刘备"
+    },
+    {
+      "name": "live5线",
+      "url": "http://mg.cttv.vip/migu.php",
+      "ua": "",
+      "source": "刺桐"
+    },
+    {
+      "name": "直播5线",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+      "ua": "",
+      "source": "南博兔"
+    },
+    {
+      "name": "Yoursmile",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风"
+    },
+    {
+      "name": "Yoursmile1线",
+      "url": "https://play.iptv365.org/南风/lives/Yoursmile.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "feiyang.allinone",
+      "url": "https://play.iptv365.org/南风/lives/feiyang.allinone.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "feiyang.bililive",
+      "url": "https://play.iptv365.org/南风/lives/feiyang.bililive.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "feiyang.huyayqk",
+      "url": "https://play.iptv365.org/南风/lives/feiyang.huyayqk.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "feiyang.douyuyqk",
+      "url": "https://play.iptv365.org/南风/lives/feiyang.douyuyqk.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "feiyang.yylunbo",
+      "url": "https://play.iptv365.org/南风/lives/feiyang.yylunbo.txt",
+      "ua": "okhttp/3.15",
+      "source": "南风1"
+    },
+    {
+      "name": "🍬移动🍬",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/移动",
+      "ua": "okhttp/3.15",
+      "source": "周J"
+    },
+    {
+      "name": "🍬联通🍬",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/联通",
+      "ua": "okhttp/3.15",
+      "source": "周J"
+    },
+    {
+      "name": "🍬优选🍬",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "周J"
+    },
+    {
+      "name": "没4K",
+      "url": "https://mpimg.cn/text.php?hash=7265d70b6834cefbddb61bcc2d9c99db",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "夜空",
+      "url": "https://pan.szfx.top/down.php/4f5dad27633e1293d7ef2317ee9c801e.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "夜空1",
+      "url": "https://pan.29o.cn/down.php/aa846bceb7a1b4adb0385b1f61b192e8.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "经典电视剧",
+      "url": "https://wp.kayyw.com/f/XOpgIZ/%E7%BB%8F%E5%85%B8%E7%94%B5%E8%A7%86%E5%89%A7.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "很少",
+      "url": "https://mpimg.cn/down.php/fa04b02ffac54ac877f5250d3d70e494.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "划了",
+      "url": "https://pan.szfx.top/down.php/dcb0cc6a6935b5e62b2659eba6718471.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "yuan",
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "应该能看",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "全球",
+      "url": "http://xingioe.top/down.php/82d0754d79de3be03e9b63e4d2d96818.jpg",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "风云试看",
+      "url": "http://iptv.4666888.xyz/FYTV.txt",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "尘墨",
+      "url": "https://52xiaobai.cn/ceshi/zb.php",
+      "ua": "",
+      "source": "哈吉米"
+    },
+    {
+      "name": "live6线",
+      "url": "https://jihulab.com/kgsp/tv/raw/box/666.txt",
+      "ua": "",
+      "source": "坤哥影视"
+    },
+    {
+      "name": "直播6线",
+      "url": "http://103.233.253.27:5678/?token=f0e601c31c&live=m3u",
+      "ua": "okhttp/3.15",
+      "source": "多咪"
+    },
+    {
+      "name": "直播7线",
+      "url": "https://d.kstore.dev/download/4071/api/tv.m3u",
+      "ua": "okhttp/3.15",
+      "source": "多咪"
+    },
+    {
+      "name": "网络Live",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Live",
+      "ua": "",
+      "source": "多咪"
+    },
+    {
+      "name": "范明明",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "ua": "",
+      "source": "多咪"
+    },
+    {
+      "name": "天微MTV",
+      "url": "https://play.iptv365.org/天微/lives/天微MTV.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "②线路",
+      "url": "https://play.iptv365.org/天微/lives/②线路.txt",
+      "ua": "",
+      "source": "天微"
+    },
+    {
+      "name": "虎牙一起看2线",
+      "url": "https://file.icve.com.cn/file_doc/946/41/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "斗鱼一起看2线",
+      "url": "https://file.icve.com.cn/file_doc/254/346/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "B站直播2线",
+      "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "YY轮播2线",
+      "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "宝盒"
+    },
+    {
+      "name": "live.ipv6.local2线",
+      "url": "http://ygbhbox.3vfree.club/pg/lib/live.ipv6.txt",
+      "ua": "okhttp/3.15",
+      "source": "宝盒没宝"
+    },
+    {
+      "name": "宝盒专享",
+      "url": "https://ygbh.site/bh.txt",
+      "ua": "okhttp/3.15",
+      "source": "宝盒视界"
+    },
+    {
+      "name": "斯卡特",
+      "url": "https://gitcode.net/ygbh66/test/-/raw/master/jtzb.txt",
+      "ua": "",
+      "source": "宝盒视界"
+    },
+    {
+      "name": "live.ipv6.local3线",
+      "url": "https://raw.githubusercontent.com/guot55/yg/main/lib/live.ipv6.txt",
+      "ua": "okhttp/3.15",
+      "source": "宝盒视界"
+    },
+    {
+      "name": "live7线",
+      "url": "https://jihulab.com/z-blog/xh2/-/raw/main/lib/live.txt",
+      "ua": "",
+      "source": "小荷接口"
+    },
+    {
+      "name": "手动不知何时更新1线",
+      "url": "https://szyyds.cn/tv/live/x.txt",
+      "ua": "",
+      "source": "小马"
+    },
+    {
+      "name": "音乐所1线",
+      "url": "https://szyyds.cn/tv/live/yy.txt",
+      "ua": "",
+      "source": "小马"
+    },
+    {
+      "name": "一起看2线",
+      "url": "https://szyyds.cn/tv/yqk",
+      "ua": "",
+      "source": "小马"
+    },
+    {
+      "name": "心魔",
+      "url": "https://raw.gitmirror.com/yw88075/tvbox/main/live.txt",
+      "ua": "",
+      "source": "心魔"
+    },
+    {
+      "name": "develop2024线",
+      "url": "https://ztha.top/TVBox/lib/interface.txt",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "Kimentanm5线",
+      "url": "https://ztha.top/TVBox/lib/iptv.m3u",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "挺好直播1线",
+      "url": "https://ztha.top/TVBox/tv/thtv.txt",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "MV1线",
+      "url": "https://ztha.top/TVBox/tv/MV.txt",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "范明明（需开启V6网络）2线",
+      "url": "https://ztha.top/TVBox/lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "世界杯1线",
+      "url": "https://ztha.top/TVBox/lib/fwc.m3u",
+      "ua": "",
+      "source": "挺好"
+    },
+    {
+      "name": "虎牙一起看3线",
+      "url": "https://ztha.top/TVBox/lib/huyayqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "挺好"
+    },
+    {
+      "name": "斗鱼一起看3线",
+      "url": "https://ztha.top/TVBox/lib/douyuyqk.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "挺好"
+    },
+    {
+      "name": "B站直播3线",
+      "url": "https://ztha.top/TVBox/lib/bililive.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "挺好"
+    },
+    {
+      "name": "YY轮播3线",
+      "url": "https://ztha.top/TVBox/lib/yylunbo.m3u",
+      "ua": "okHttp/Mod-1.5.0.0",
+      "source": "挺好"
     },
     {
       "name": "肥羊国内直播",
@@ -25,13 +1495,13 @@
       "source": "接口002"
     },
     {
-      "name": "live",
+      "name": "live8线",
       "url": "http://xhztv.top/xhz/live.txt",
       "ua": "okhttp/3.15",
       "source": "接口003"
     },
     {
-      "name": "live1线",
+      "name": "live9线",
       "url": "https://raw.githubusercontent.com/yueer521/Tvbox/main/lib/tv.txt",
       "ua": "",
       "source": "接口004"
@@ -43,27 +1513,15 @@
       "source": "接口005"
     },
     {
-      "name": "牛播一（新版影视仓/ok影视）",
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "ua": "",
-      "source": "接口005"
-    },
-    {
-      "name": "IPV4",
+      "name": "IPV41线",
       "url": "https://ghgo.xyz/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
       "ua": "",
       "source": "接口005"
     },
     {
-      "name": "IPV6①",
+      "name": "IPV6①1线",
       "url": "https://ghgo.xyz/raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
       "ua": "",
-      "source": "接口005"
-    },
-    {
-      "name": "平台直播",
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
       "source": "接口005"
     },
     {
@@ -79,7 +1537,7 @@
       "source": "接口007"
     },
     {
-      "name": "live2线",
+      "name": "live10线",
       "url": "https://tv.5ye.cc/live/live.txt",
       "ua": "okhttp/3.15",
       "source": "接口008"
@@ -121,13 +1579,7 @@
       "source": "接口009"
     },
     {
-      "name": "俊于•综合",
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "ua": "",
-      "source": "接口009"
-    },
-    {
-      "name": "电视直播",
+      "name": "电视直播2线",
       "url": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/live/JY_live.txt",
       "ua": "",
       "source": "接口010"
@@ -139,32 +1591,8 @@
       "source": "接口013"
     },
     {
-      "name": "🐟斗鱼 ┃ 一起看公网",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "🍚饭太硬 ┃ 精选频道",
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "🎙️YY轮播 ┃ 影视公网",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
       "name": "🌐Guovin ┃ 全网聚合",
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "🐯虎牙 ┃ 一起看公网",
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
@@ -175,79 +1603,55 @@
       "source": "接口013"
     },
     {
-      "name": "📡自动更新 ┃ 全国电视",
-      "url": "https://z.szyyds.cn/iptv",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "🐎小马综合 ┃ 高清直播",
-      "url": "https://szyyds.cn/tv/live/x.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
-      "name": "feiyang.allinone",
+      "name": "feiyang.allinone1线",
       "url": "http://127.0.0.1:35457/tv.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "feiyang.bililive",
+      "name": "feiyang.bililive1线",
       "url": "http://127.0.0.1:35457/bililive.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "feiyang.huyayqk",
+      "name": "feiyang.huyayqk1线",
       "url": "http://127.0.0.1:35457/huyayqk.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "feiyang.douyuyqk",
+      "name": "feiyang.douyuyqk1线",
       "url": "http://127.0.0.1:35457/douyuyqk.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "feiyang.yylunbo",
+      "name": "feiyang.yylunbo1线",
       "url": "http://127.0.0.1:35457/yylunbo.m3u",
       "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
-      "name": "live3线",
+      "name": "live11线",
       "url": "https://tv.520993.xyz/live.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
       "source": "接口017"
     },
     {
-      "name": "develop202",
+      "name": "develop2025线",
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "",
       "source": "接口018"
     },
     {
-      "name": "Kimentanm",
+      "name": "Kimentanm6线",
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "ua": "",
       "source": "接口018"
     },
     {
-      "name": "ipv6",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口019"
-    },
-    {
-      "name": "live4线",
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-      "ua": "",
-      "source": "接口020"
-    },
-    {
-      "name": "live5线",
+      "name": "live12线",
       "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/live.txt",
       "ua": "",
       "source": "接口021"
@@ -263,24 +1667,6 @@
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "ua": "",
       "source": "接口022"
-    },
-    {
-      "name": "肥猫",
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口023"
-    },
-    {
-      "name": "SAO0",
-      "url": "https://raw.githubusercontent.com/liu673cn/box/main/libs/tv/tvlive.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口023"
-    },
-    {
-      "name": "IPV6",
-      "url": "https://raw.githubusercontent.com/liu673cn/box/main/lib/tv/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口023"
     },
     {
       "name": "无界Updated Daily版",
@@ -325,19 +1711,19 @@
       "source": "接口025"
     },
     {
-      "name": "IPV41线",
+      "name": "IPV42线",
       "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt",
       "ua": "okhttp/3.15",
       "source": "接口025"
     },
     {
-      "name": "SAO01线",
+      "name": "SAO02线",
       "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/libs/tv/tvlive.txt",
       "ua": "okhttp/3.15",
       "source": "接口028"
     },
     {
-      "name": "IPV61线",
+      "name": "IPV62线",
       "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/lib/tv/ipv6.m3u",
       "ua": "okhttp/3.15",
       "source": "接口028"
@@ -349,19 +1735,7 @@
       "source": "接口030"
     },
     {
-      "name": "盛世直播",
-      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-      "ua": "",
-      "source": "接口031"
-    },
-    {
-      "name": "Jack直播(翻)",
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "ua": "",
-      "source": "接口031"
-    },
-    {
-      "name": "平台直播1线",
+      "name": "平台直播2线",
       "url": "http://mg.cttv.vip/index.php/m3u",
       "ua": "",
       "source": "接口031"
@@ -391,7 +1765,7 @@
       "source": "接口032"
     },
     {
-      "name": "冰茶",
+      "name": "冰茶1线",
       "url": "https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/冰茶去体育去推广.m3u",
       "ua": "",
       "source": "接口032"
@@ -421,68 +1795,8 @@
       "source": "接口032"
     },
     {
-      "name": "冰茶1线",
-      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
-      "ua": "bingcha/1.1(mianfeifenxiang)",
-      "source": "接口033"
-    },
-    {
-      "name": "develop2021线",
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua": "",
-      "source": "接口033"
-    },
-    {
-      "name": "B站直播",
-      "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "ua": "okHttp/Mod-1.4.0.0",
-      "source": "接口033"
-    },
-    {
-      "name": "V4聚合（卡顿请按左┃右键换线）",
-      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-      "ua": "",
-      "source": "接口033"
-    },
-    {
-      "name": "V6",
-      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "ua": "",
-      "source": "接口033"
-    },
-    {
-      "name": "机缘宝盒",
-      "url": "http://38.75.136.137:88/api/tvlist.php",
-      "ua": "",
-      "source": "接口035"
-    },
-    {
       "name": "千寻",
       "url": "http://smzb.bypbwxx.top/zhibo/shengma/%E7%A5%9E%E9%A9%AC99%E7%9B%B4%E6%92%AD.txt",
-      "ua": "",
-      "source": "接口035"
-    },
-    {
-      "name": "易发",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口035"
-    },
-    {
-      "name": "咪咕标清",
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口035"
-    },
-    {
-      "name": "猫影视",
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "ua": "okhttp/3.15",
-      "source": "接口035"
-    },
-    {
-      "name": "央视地方台-2k，快",
-      "url": "http://183.131.83.37:40782/屿风眠星辞雾听澜书禾念安知夏遇秋寻冬观月.txt",
       "ua": "",
       "source": "接口035"
     },
@@ -517,12 +1831,6 @@
       "source": "接口036"
     },
     {
-      "name": "内置直播",
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "ua": "Goiptv/8.8.8",
-      "source": "接口036"
-    },
-    {
       "name": "内置特区",
       "url": "http://rihou.cc:555/ggg.nzk",
       "ua": "okhttp/3.8.1",
@@ -537,12 +1845,6 @@
     {
       "name": "内测冰茶",
       "url": "https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian",
-      "ua": "Goiptv/8.8.8",
-      "source": "接口036"
-    },
-    {
-      "name": "内测风云",
-      "url": "http://iptv.4666888.xyz/FYTV.txt",
       "ua": "Goiptv/8.8.8",
       "source": "接口036"
     },
@@ -643,64 +1945,16 @@
       "source": "接口040"
     },
     {
-      "name": "live6线",
+      "name": "live13线",
       "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/TV/zby.txt",
       "ua": "",
       "source": "接口042"
     },
     {
-      "name": "live.ipv6",
-      "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "source": "接口043"
-    },
-    {
-      "name": "live.ipv6.local",
+      "name": "live.ipv6.local4线",
       "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/lib/live.ipv6.txt",
       "ua": "okhttp/3.15",
       "source": "接口043"
-    },
-    {
-      "name": "live.fan",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口043"
-    },
-    {
-      "name": "Json",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-      "source": "接口043"
-    },
-    {
-      "name": "LIVE",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
-      "ua": "",
-      "source": "接口044"
-    },
-    {
-      "name": "LIVE_fan",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-      "ua": "",
-      "source": "接口044"
-    },
-    {
-      "name": "LIVE_home",
-      "url": "https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8",
-      "ua": "",
-      "source": "接口044"
-    },
-    {
-      "name": "LIVE_Gather",
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
-      "ua": "",
-      "source": "接口044"
-    },
-    {
-      "name": "LIVEfl",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
-      "ua": "",
-      "source": "接口044"
     },
     {
       "name": "政治时事",
@@ -715,31 +1969,13 @@
       "source": "接口045"
     },
     {
-      "name": "IPTV1",
-      "url": "http://193.123.86.190:14888/TV/iptv.php",
-      "ua": "",
-      "source": "接口047"
-    },
-    {
       "name": "综合",
       "url": "https://raw.githubusercontent.com/zheng197600/tvbox/main/tv/电视直播.txt",
       "ua": "",
       "source": "接口048"
     },
     {
-      "name": "migu",
-      "url": "https://develop202.github.io/migu_video/interface.txt",
-      "ua": "okhttp/3.8.1",
-      "source": "接口052"
-    },
-    {
-      "name": "live7线",
-      "url": "https://epg.pw/test_channels.m3u",
-      "ua": "okhttp/3.8.1",
-      "source": "接口052"
-    },
-    {
-      "name": "ipv61线",
+      "name": "ipv62线",
       "url": "https://tv.sxi.qzz.io/tvboxtv.txt",
       "ua": "okhttp/3.8.1",
       "source": "接口052"
@@ -757,142 +1993,10 @@
       "source": "接口053"
     },
     {
-      "name": "毒盒live",
-      "url": "https://tv.youdu.fan:666/live/live.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "V4聚合（卡顿请按左┃右键换线）1线",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "Guovin（卡顿请按左┃右键换线）",
-      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "vbskycn(ipv4)",
-      "url": "https://gh.cswklt.top/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "vbskycn(ipv6)",
-      "url": "https://gh.cswklt.top/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "直播",
-      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "一木",
-      "url": "https://gh.cswklt.top/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "央视频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "地方频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/地方频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "卫视频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "电影频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/电影频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "儿童频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/儿童频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "其他频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/其他频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "体育频道IPV4",
-      "url": "https://live.hacks.tools/tv/ipv4/categories/体育频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "央视频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/央视频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "地方频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/地方频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "卫视频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/卫视频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "电影频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/电影频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "儿童频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/儿童频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "其他频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/其他频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "体育频道ipv6",
-      "url": "https://live.hacks.tools/tv/ipv6/categories/体育频道.m3u",
-      "ua": "",
-      "source": "接口055"
-    },
-    {
-      "name": "live8线",
+      "name": "live14线",
       "url": "http://23.224.143.163:2202/vip/ku9.txt",
       "ua": "",
       "source": "接口056"
-    },
-    {
-      "name": "Gather「果」",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "ua": "okhttp/3.8.1",
-      "source": "接口062"
     },
     {
       "name": "BMCH",
@@ -907,16 +2011,346 @@
       "source": "接口063"
     },
     {
-      "name": "Yoursmile",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口064"
+      "name": "IPv42线",
+      "url": "http://mzjk.top/bbqx/lib/tvzb.txt",
+      "ua": "okhttp/3.12.13",
+      "source": "教育专线2"
     },
     {
-      "name": "Kimentanm1线",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "name": "线路3",
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
+      "source": "星微Vip"
+    },
+    {
+      "name": "AI线-不能看切换其他线路",
+      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "ua": "",
-      "source": "饭太硬"
+      "source": "毛驴接口"
+    },
+    {
+      "name": "线路②",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "",
+      "source": "毛驴接口"
+    },
+    {
+      "name": "冰茶④",
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1",
+      "source": "毛驴接口"
+    },
+    {
+      "name": "tv",
+      "url": "https://tv.nxog.top/m/tv/?ou=1f9",
+      "ua": "",
+      "source": "白茶杯狐"
+    },
+    {
+      "name": "冰茶2线",
+      "url": "https://bc.188766.xyz/?ip=&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)",
+      "source": "白茶杯狐"
+    },
+    {
+      "name": "肥羊直播",
+      "url": "https://9877.kstore.space/Live/live.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "AI直播1线",
+      "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "ua": "",
+      "source": "真六"
+    },
+    {
+      "name": "虎牙一起看4线",
+      "url": "https://9877.kstore.space/Live/huyayqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "斗鱼一起看4线",
+      "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "YY轮播4线",
+      "url": "https://9877.kstore.space/Live/yylunbo.m3u",
+      "ua": "okhttp/3.15",
+      "source": "真六"
+    },
+    {
+      "name": "APTV",
+      "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "source": "真六"
+    },
+    {
+      "name": "live15线",
+      "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/lib/tv.txt",
+      "ua": "",
+      "source": "神仙线路"
+    },
+    {
+      "name": "SAO03线",
+      "url": "https://raw.liucn.cc/box/libs/tv/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "老刘备"
+    },
+    {
+      "name": "IPV63线",
+      "url": "https://raw.liucn.cc/box/lib/tv/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "老刘备"
+    },
+    {
+      "name": "野火直播1线",
+      "url": "https://zhangqun1818.serv00.net/zq/野火改.txt",
+      "ua": "",
+      "source": "老张"
+    },
+    {
+      "name": "冰茶3线",
+      "url": "https://play.iptv365.org/肥猫/lives/冰茶.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "source": "肥猫_三方"
+    },
+    {
+      "name": "🔰苍蓝小屋🔰",
+      "url": "http://150.158.52.248/tgyg/lib/kjtwzb.txt",
+      "ua": "",
+      "source": "苍蓝"
+    },
+    {
+      "name": "👖裤佬体育直播",
+      "url": "https://jsnzkpg.de5.net/all.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬抖音直播",
+      "url": "https://douyin.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬快手直播",
+      "url": "https://kuaishou.445569.xyz/list.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬虎牙直播",
+      "url": "https://yahu.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬斗鱼直播",
+      "url": "https://douyu.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬酷狗直播",
+      "url": "https://kugou.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬来疯直播",
+      "url": "https://laifeng.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬百战直播",
+      "url": "https://baizhan.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬Twitch直播",
+      "url": "https://twitch.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "👖裤佬TikTok直播",
+      "url": "https://tiktok.445569.xyz/live.m3u",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "🍿咪咕TV直播",
+      "url": "https://eastscreen.tv/iptvlist.php?token=N1pcBwAGHwkCAx8OTFhABgEFAA",
+      "ua": "",
+      "source": "裤佬线路"
+    },
+    {
+      "name": "live16线",
+      "url": "http://550.3vcn.work/aHR0cDovLzU1MC4zdmNuLndvcmsvanl0di5qc29u",
+      "ua": "okhttp/3.15",
+      "source": "金鹰"
+    },
+    {
+      "name": "雷蒙影视宣传片",
+      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/ctvpv.txt",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "雷蒙影视电视直播",
+      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "雷蒙影视轻量直播",
+      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/CTVLive/main/litelive.m3u",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "WEB直播",
+      "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/web.txt",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "港台直播",
+      "url": "http://aktv.top/live.m3u",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "YOUTUBE直播",
+      "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/YTTV.txt",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "YOUTUBE音乐",
+      "url": "http://yt.850930.xyz",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "YOUTUBE榜单",
+      "url": "http://yt.850930.xyz/playlist.txt",
+      "ua": "okhttp/3.15",
+      "source": "雷蒙"
+    },
+    {
+      "name": "BMCH1线",
+      "url": "https://play.iptv365.org/香雅情/lives/BMCH.txt",
+      "ua": "",
+      "source": "香雅情"
+    },
+    {
+      "name": "Tianmu1线",
+      "url": "https://play.iptv365.org/香雅情/lives/Tianmu.txt",
+      "ua": "",
+      "source": "香雅情"
+    },
+    {
+      "name": "fanmingming",
+      "url": "https://play.iptv365.org/香雅情/lives/fanmingming.txt",
+      "ua": "",
+      "source": "香雅情"
+    },
+    {
+      "name": "初秋语•综合",
+      "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/list.txt",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "YanG•综合",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "范明明•综合",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "YueChan•综合",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "饭太硬•综合",
+      "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "高天"
+    },
+    {
+      "name": "初秋语•电台",
+      "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/radio.txt",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "范明明•电台",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "肥羊•斗鱼",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "肥羊•虎牙",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "肥羊•YY",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yylunbo.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "初秋语•哔哩",
+      "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/bili.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "YuanHsing•油管",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
+      "ua": "",
+      "source": "高天"
+    },
+    {
+      "name": "初秋语1线",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+      "ua": "",
+      "source": "高天流云js"
+    },
+    {
+      "name": "SAO04线",
+      "url": "https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/libs/tvlive.txt",
+      "ua": "okhttp/3.15",
+      "source": "鸟叔"
+    },
+    {
+      "name": "IPV64线",
+      "url": "https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/libs/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "source": "鸟叔"
     }
   ]
 }
