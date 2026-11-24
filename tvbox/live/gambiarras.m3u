@@ -343,10 +343,6 @@ https://video05.logicahost.com.br/rsnews/rsnews/playlist.m3u8
 #EXTGRP:Variedades
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades" tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://i.imgur.com/IkZfa4j.png", SBT Interior
-#EXTGRP:Variedades
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades" tvg-id="SBTNacional.br" tvg-name="SBT Nacional" tvg-logo="https://i.imgur.com/tc1ALuu.png", SBT Nacional
 #EXTGRP:Variedades
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -1074,6 +1070,10 @@ https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 group-title="Religião" tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="", Rede Seculo 21
 #EXTGRP:Religião
 http://186.219.52.187/seculo21/index.m3u8
+
+#EXTINF:-1 group-title="Religião" tvg-id="Local.redesupertv.br" tvg-name="Rede Super TV" tvg-logo="https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg", Rede Super TV
+#EXTGRP:Religião
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
 
 #EXTINF:-1 group-title="Religião" tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png", Rede Vida
 #EXTGRP:Religião

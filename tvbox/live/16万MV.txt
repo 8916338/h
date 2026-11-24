@@ -4,7 +4,7 @@
                 TMap = window.TMap || {};
                 if (!TMap.__load) {
                     TMap.__load = function(onLoad) {
-                        onLoad({"key":"OB4BZ-D4W3U-B7VVO-4PJWW-6TKDJ-WPB77&#x22;&#x3e;&#x3c;/&#x3e;","version":"1.8.3.2","highQualityRender":false,"mapApprovalNumber":{"vector":"GS(2026)1190号","satellite":"GS(2026)4802号"},"tileUrlGray":{"selected":false,"urlList":[]}}, 1795484610081);
+                        onLoad({"key":"OB4BZ-D4W3U-B7VVO-4PJWW-6TKDJ-WPB77&#x22;&#x3e;&#x3c;/&#x3e;","version":"1.8.3.2","highQualityRender":false,"mapApprovalNumber":{"vector":"GS(2026)1190号","satellite":"GS(2026)4802号"},"tileUrlGray":{"selected":false,"urlList":[]}}, 1795493289082);
                         delete TMap.__load;
                     };
                 }
