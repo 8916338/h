@@ -23,7 +23,7 @@
     },
     {
       "key": "可可影视",
-      "name": "可可 | 影视",
+      "name": "可可豆 | 影视",
       "type": 3,
       "api": "https://easy888.dpdns.org/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
@@ -1780,7 +1780,7 @@
       "key": "裤佬八戒PY",
       "name": "👖裤佬丨八戒丨PY",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -4418,6 +4418,24 @@
       "name": "雷蒙影视 | 🧿柠檬(PY)",
       "type": 3,
       "api": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "未来",
+      "name": "💝分享未来",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/分享者未来.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_灵虎_APP",
+      "name": "💝分享灵虎",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

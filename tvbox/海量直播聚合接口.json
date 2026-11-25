@@ -1009,6 +1009,12 @@
       "source": "七夏TV"
     },
     {
+      "name": "公众号【盒子迷】",
+      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=6a",
+      "ua": "",
+      "source": "不良帅"
+    },
+    {
       "name": "裤佬",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
       "ua": "",
@@ -1591,15 +1597,15 @@
       "source": "接口013"
     },
     {
-      "name": "🌐Guovin ┃ 全网聚合",
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
-      "ua": "okhttp/3.15",
-      "source": "接口013"
-    },
-    {
       "name": "📺EasyTV ┃ 熵侦卫视",
       "url": "https://easyzz.dpdns.org/api/tv.png",
       "ua": "",
+      "source": "接口013"
+    },
+    {
+      "name": "🌐Guovin ┃ 全网聚合",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+      "ua": "okhttp/3.15",
       "source": "接口013"
     },
     {
