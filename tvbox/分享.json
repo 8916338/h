@@ -179,6 +179,17 @@
       "filterable": 0
     },
     {
+      "key": "南瓜JS",
+      "name": "💝分享西瓜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/南瓜影视.js",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "qkyy",
       "name": "💝分享全看",
       "type": 3,
@@ -304,6 +315,15 @@
       "ext": "https://www.pjb777.top/ky4kbgq7b273.json"
     },
     {
+      "key": "未来",
+      "name": "💝分享未来",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/分享者未来.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "白嫖鸭",
       "name": "💝分享北漂",
       "type": 3,
@@ -379,6 +399,21 @@
       "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/看客TV.py",
       "ext": {
         "CosUrl": "http://2025-1329689796.cos.ap-guangzhou.myqcloud.com/jumi1.0/app1.json"
+      }
+    },
+    {
+      "key": "py_灵虎_APP",
+      "name": "💝分享灵虎",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/txt/89.txt",
+        "api": "https://raw.githubusercontent.com/api.php/getappapi",
+        "datakey": "https://raw.githubusercontent.com/maoystv/6/main/#getapp@TMD@2025",
+        "dataiv": "https://raw.githubusercontent.com/maoystv/6/main/#getapp@TMD@2025"
       }
     },
     {

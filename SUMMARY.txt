@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261124_104612
+TVBox 接口抓取报告  20261125_082540
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -381,10 +381,10 @@ TVBox 接口抓取报告  20261124_104612
   文件: tvbox/老刘备.json
   成功URL: https://raw.liucn.cc/box/m.json
 
-[盒子迷] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[盒子迷] okhttp/3.15
+  状态: JSON
+  文件: tvbox/盒子迷.json
+  成功URL: https://盒子迷.top/禁止贩卖
 
 [小哥哥] okhttp/3.15
   状态: JSON
@@ -541,10 +541,10 @@ TVBox 接口抓取报告  20261124_104612
   文件: tvbox/dxawi_github_io.json
   成功URL: http://dxawi.github.io/0/0.json
 
-[tvjuhe.mitetech.cn:5622] okhttp/3.15
-  状态: JSON
-  文件: tvbox/tvjuhe_mitetech_cn_5622.json
-  成功URL: http://tvjuhe.mitetech.cn:5622
+[tvjuhe.mitetech.cn:5622] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [wuguangle.serv00.net] okhttp/3.15
   状态: JSON
@@ -1276,10 +1276,10 @@ TVBox 接口抓取报告  20261124_104612
   文件: tvbox/凯速.json
   成功URL: http://我不是.摸鱼儿.cc
 
-[不良帅] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[不良帅] okhttp/3.15
+  状态: JSON
+  文件: tvbox/不良帅.json
+  成功URL: https://盒子迷.top/不良帅
 
 [接口001] okhttp/3.15
   状态: TEXT
@@ -1412,7 +1412,7 @@ TVBox 接口抓取报告  20261124_104612
   成功URL: https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json
 
 [接口027] okhttp/3.15
-  状态: JSON
+  状态: TEXT
   文件: tvbox/接口027.json
   成功URL: https://wp.v6x8.com/down.php/686212a83cc05575a2cb4da72791ad1d.json
 
