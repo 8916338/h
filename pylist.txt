@@ -240,6 +240,8 @@ gulu|🐧咕噜丨蓝光秒播|type: 3|api: https://gh-proxy.org/https://raw.git
 韩小圈|韩小圈|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py
 jieys|界影视|type: 3|api: https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py
 河马短剧|🦛┃河马┃短剧|type: 3|api: https://play.iptv365.org/肥猫/api/HMDJ.py
+橘子py|🙊橘子｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.py
+追剧|🐭追剧｜不错|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py
 py_河马短剧[短]|🥝河马短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/河马短剧.py
 py_剧王短剧[短]|🥝剧王短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/剧王短剧.py
 py_星星短剧[短]|🥝星星短剧[短][PY]|type: 3|api: https://raw.githubusercontent.com/jak0099/dr/master/py/短/星星短剧.py
@@ -468,8 +470,6 @@ py_甜圈|雷蒙影视 | 🧿甜圈(PY)|type: 3|api: https://raw.githubuserconte
 py_嗷呜|雷蒙影视 | 🧿嗷呜(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/嗷呜动漫.py
 py_柠檬|雷蒙影视 | 🧿柠檬(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py
 魔方|💝分享魔方|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py
-橘子py|🙊橘子｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.py
-追剧|🐭追剧｜不错|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py
 fy|🐛枫叶｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
 py_嘶哩嘶哩|🌈嘶哩｜动漫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py
 豆瓣[py]|豆瓣[py]|type: 3|api: https://clun.top/py/douban.py
