@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1123.jar;md5;06BD42014D55A9F5B5326A46CAB44BD3",
+  "spider": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1125.jar;md5;FC8EE9D0E9530FDB0EA555FD36D9F1CD",
   "logo": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICONSGIF.gif",
   "wallpaper": "https://pic.850930.xyz/",
   "lives": [
@@ -3724,6 +3724,16 @@
       "name": "Web解析聚合",
       "type": 3,
       "url": "https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/Web"
+    },
+    {
+      "name": "嗷呜",
+      "type": 0,
+      "url": "https://free.maccms.xyz?url="
+    },
+    {
+      "name": "真帅",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url="
     },
     {
       "name": "巧技",
