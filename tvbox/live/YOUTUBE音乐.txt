@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="YOUTUBE音乐",YOUTUBE音乐
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744828000
 Decoder=3
 
 RELEASED,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744828000
 Decoder=3
 
 New Releases On Vevo,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744829000
 Decoder=3
 
 The Hit List,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744829000
 Decoder=3
 
 Pop Certified,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744830000
 Decoder=3
 
 Highline R&amp;B,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744831000
 Decoder=3
 
 The Short List,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658421000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744832000
 Decoder=3
 
 Pop Before It Breaks,#genre#
 
-js=https://clonglii.serv00.net/youtube06.js?t=1795658422000
+js=https://clonglii.serv00.net/youtube06.js?t=1795744832000
 Decoder=3
 
 Endless R&amp;B Throwbacks,#genre#

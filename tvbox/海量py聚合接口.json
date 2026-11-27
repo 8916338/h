@@ -25,7 +25,7 @@
       "key": "可可影视",
       "name": "可可豆 | 影视",
       "type": 3,
-      "api": "https://easy888.dpdns.org/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/niubihu1/tvbox/main/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -4436,6 +4436,15 @@
       "name": "💝分享灵虎",
       "type": 3,
       "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "南瓜JS",
+      "name": "💝分享西瓜",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/PY/南瓜影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
