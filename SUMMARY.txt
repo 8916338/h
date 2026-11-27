@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261126_080140
+TVBox 接口抓取报告  20261127_082140
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -1161,10 +1161,10 @@ TVBox 接口抓取报告  20261126_080140
   文件: tvbox/a_nxog_top_m.json
   成功URL: http://a.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=tv
 
-[极速] okhttp/3.15
-  状态: JSON
-  文件: tvbox/极速.json
-  成功URL: https://jszyapi.com/api.php/provide/vod/at/json
+[极速] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [zwz] okhttp/3.15
   状态: JSON
