@@ -237,7 +237,6 @@ VIP兔|VIP兔 | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/m
 可可影视|可可豆 | 影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/niubihu1/tvbox/main/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py
 FreeOK|FreeOK | 影视|type: 3|api: https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/py/FreeOK.py
 枫叶影院PY|枫叶影院|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/枫叶影院.py
-gulu|🐧咕噜丨蓝光秒播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py
 韩小圈|韩小圈|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/韩小圈.py
 275听书|275听书|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/275听书.py
 听书网|听书网|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/听书网456.py
@@ -367,17 +366,13 @@ KW音乐|KW音乐|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/KW�
 JRKAN体育|JRKAN体育|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/JRKAN体育.py
 kf|咖啡体育直播|type: 3|api: https://gitee.com/kevin0973/lc/raw/master/lib/咖啡直播.py
 hongguo|红果·短剧|type: 3|api: https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/hongguo.py
-ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ejatv.py
+资源管理|资源管理|type: 3|api: https://raw.githubusercontent.com/zheng197600/tvbox/main/js/资源管理.py
 轻音乐|轻音乐|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/轻音乐.py
 喜马拉雅|🎮┃喜马┃听书|type: 3|api: https://play.iptv365.org/肥猫/api/喜马拉雅.py
 企鹅体育|企鹅体育|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py/企鹅体育.py
 移动影院|移动影院|type: 3|api: https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/%E7%A7%BB%E5%8A%A84k.py
 懂片帝AI|懂片帝AI|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/zheng197600/jaychouqq/main/yingshi/py9/懂片帝AI.py
 多多影视|多多影视|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/dd.py
-影探聚合|影探聚合|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py
-采集合集|采集合集|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py
-聚合平台|聚合平台|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py
-采集|采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 网盘|网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py
 短剧|短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
 饭团|饭团|type: 3|api: https://bitbucket.org/guot55/ygbh/raw/main/pro/py/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.py
@@ -399,6 +394,7 @@ py_西饭短剧APP|✨py稀饭短剧✨乐哥甄选✨|type: 3|api: https://raw.
 2|👖聚合|type: 3|api: https://jsnz.pages.dev/f/4df9fb60.py
 4|👖娱乐|type: 3|api: https://jsnz.pages.dev/f/26511242.py
 5|👖影视|type: 3|api: https://jsnz.pages.dev/f/9e53615c.py
+7|👖采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 8|👖音乐|type: 3|api: https://jsnz.pages.dev/f/eded33cf.py
 9|👖动漫|type: 3|api: https://jsnz.pages.dev/f/7e20bdb7.py
 12|👖磁力|type: 3|api: https://jsnz.pages.dev/f/baad9656.py
@@ -470,6 +466,12 @@ py_好帅|雷蒙影视 | 🧿好帅(PY)|type: 3|api: https://raw.githubuserconte
 py_甜圈|雷蒙影视 | 🧿甜圈(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/甜圈短剧.py
 py_嗷呜|雷蒙影视 | 🧿嗷呜(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/嗷呜动漫.py
 py_柠檬|雷蒙影视 | 🧿柠檬(PY)|type: 3|api: https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/html/LIVES.py
+gulu|🐧咕噜丨蓝光秒播|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/James/main/py/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C.py
+ejatv|ejatv|type: 3|api: https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ejatv.py
+影探聚合|影探聚合|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py
+采集合集|采集合集|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/采集合集.py
+聚合平台|聚合平台|type: 3|api: https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚合平台.py
+采集|采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 魔方|💝分享魔方|type: 3|api: https://raw.githubusercontent.com/maoystv/6/main/PY/getapp3.4.6.py
 fy|🐛枫叶｜4K|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py
 py_嘶哩嘶哩|🌈嘶哩｜动漫|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/skapp.py
@@ -499,5 +501,4 @@ py_yysub|人人[py]|type: 3|api: https://clun.top/py/yysub.py
 py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
 py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
 6|👖短剧|type: 3|api: https://jsnz.pages.dev/f/29b94aff.py
-7|👖采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 11|👖网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py

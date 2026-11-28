@@ -330,8 +330,12 @@ kuwomv|酷我｜MV(JX)|type: 1|api: http://nm.4688888.xyz/vod/kuwo/kwmv.php/prov
 旺旺短剧|旺旺短剧|type: 1|api: https://zhangqun1818.serv00.net/ww.php
 CNTV低分辨|CNTV低分辨|type: 1|api: https://zhangqun1818.serv00.net/cctv.php
 巨量资源|巨量资源|type: 1|api: https://api.juliang.live/api/provide/vod
+暴风资源|暴风资源|type: 1|api: https://apibfzy.com/api.php/provide/vod/?ac=list
 电影星球|电影星球|type: 1|api: https://www.ysxq.cc/api.php/provide/vod
 虎牙资源|虎牙资源|type: 1|api: https://www.huyaapi.com/api.php/provide/vod/at/json
+芒果资源|芒果资源|type: 0|api: https://caiji.mgzyapi.com/api.php/provide/vod/at/xml/
+母鸡资源|母鸡资源|type: 1|api: https://mujiziyuan00.com/api.php/provide/vod/?ac=list
+吉吉资源|吉吉资源|type: 0|api: https://caiji.jjzyapi.com/api.php/provide/vod/at/xml/
 金鹰点播|金鹰点播|type: 1|api: https://jinyingzy.com/api.php/provide/vod/?ac=list
 天翼影视|天翼｜影视|type: 1|api: http://7.qqqtv.top/api.php/provide/vod/
 豆瓣采集资源|豆瓣 | 采集|type: 1|api: https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/
